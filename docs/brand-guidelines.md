@@ -1,11 +1,26 @@
 # Top Notch New Jersey - Brand Guidelines
 
+---
+**Document Type:** Brand Standards & Visual Identity
+**Project:** Top Notch New Jersey WordPress Website
+**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**License:** NJ Home Improvement Contractor #13VH13
+**Last Updated:** June 2024
+**Version:** 2.0
+**AI Optimization:** ✅ Devin-Ready
+**Dependencies:** Referenced by all content files, templates, and assets
+---
+
 ## 🎨 Visual Identity & Brand Standards
 
 ### Brand Positioning
-**Tagline:** "Expert Home Renovations & Electrical Services"  
-**Mission:** Seamless integration of expert electrical work with high-quality home renovations  
+**Business Name:** Top Notch New Jersey
+**Owner:** Pedro Ribeiro
+**Tagline:** "Expert Home Renovations & Electrical Services"
+**Mission:** Seamless integration of expert electrical work with high-quality home renovations
 **Values:** Quality, Reliability, Trust, Expertise, Local Community Focus
+**Established:** 2018
+**Service Area:** Union, Essex, Middlesex, Bergen Counties, NJ
 
 ---
 
