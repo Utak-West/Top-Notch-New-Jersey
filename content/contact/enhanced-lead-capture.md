@@ -467,3 +467,200 @@
   </div>
 </div>
 ```
+
+## COUNTY-SPECIFIC LEAD CAPTURE
+
+### Union County Landing Page Form
+
+```html
+<div class="county-hero-union">
+  <h1>Top-Notch Kitchen & Bathroom Remodeling in Union County, NJ</h1>
+  <h2>Serving Linden, Elizabeth, Plainfield, Westfield & All Union County</h2>
+
+  <div class="local-credibility">
+    <p>Pedro Ribeiro, Master Electrician #13VH13, personally serves Union County families</p>
+    <div class="local-indicators">
+      <span>→ 500+ Union County Projects Completed</span>
+      <span>→ No Travel Fees Within County</span>
+      <span>→ Local Emergency Response Available</span>
+      <span>→ Linden, NJ Based & Licensed</span>
+    </div>
+  </div>
+
+  <form class="county-specific-form">
+    <h3>Get Your Union County Project Estimate</h3>
+
+    <select name="city" required>
+      <option value="">Select your Union County city...</option>
+      <option value="linden">Linden</option>
+      <option value="elizabeth">Elizabeth</option>
+      <option value="plainfield">Plainfield</option>
+      <option value="westfield">Westfield</option>
+      <option value="cranford">Cranford</option>
+      <option value="summit">Summit</option>
+      <option value="union">Union</option>
+      <option value="rahway">Rahway</option>
+      <option value="roselle">Roselle</option>
+      <option value="other_union">Other Union County</option>
+    </select>
+
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required>
+    <input type="email" name="email" placeholder="Email Address">
+
+    <select name="service_needed" required>
+      <option value="">What do you need?</option>
+      <option value="kitchen_remodel">Kitchen Remodeling</option>
+      <option value="bathroom_renovation">Bathroom Renovation</option>
+      <option value="whole_home">Whole Home Renovation</option>
+      <option value="electrical_only">Electrical Services Only</option>
+    </select>
+
+    <textarea name="project_details" placeholder="Tell us about your Union County project..."></textarea>
+
+    <button type="submit" class="county-cta">Get My Union County Estimate</button>
+
+    <p class="local-advantage">
+      <strong>Union County Advantage:</strong> Pedro knows local codes, inspectors, and suppliers for faster, smoother projects.
+    </p>
+  </form>
+</div>
+```
+
+### Essex County Landing Page Form
+
+```html
+<div class="county-hero-essex">
+  <h1>Expert Kitchen & Bathroom Remodeling in Essex County, NJ</h1>
+  <h2>Serving Newark, Montclair, East Orange, Bloomfield & All Essex County</h2>
+
+  <div class="local-credibility">
+    <p>Master Electrician Pedro Ribeiro brings 15+ years of Essex County renovation experience</p>
+    <div class="local-indicators">
+      <span>→ Essex County Code Expert</span>
+      <span>→ Historic Home Renovation Specialist</span>
+      <span>→ Local Supplier Relationships</span>
+      <span>→ Fast Permit Processing</span>
+    </div>
+  </div>
+
+  <form class="county-specific-form">
+    <h3>Get Your Essex County Project Estimate</h3>
+
+    <select name="city" required>
+      <option value="">Select your Essex County city...</option>
+      <option value="newark">Newark</option>
+      <option value="montclair">Montclair</option>
+      <option value="east_orange">East Orange</option>
+      <option value="bloomfield">Bloomfield</option>
+      <option value="west_orange">West Orange</option>
+      <option value="maplewood">Maplewood</option>
+      <option value="south_orange">South Orange</option>
+      <option value="millburn">Millburn</option>
+      <option value="other_essex">Other Essex County</option>
+    </select>
+
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required>
+    <input type="email" name="email" placeholder="Email Address">
+
+    <select name="service_needed" required>
+      <option value="">What do you need?</option>
+      <option value="kitchen_remodel">Kitchen Remodeling</option>
+      <option value="bathroom_renovation">Bathroom Renovation</option>
+      <option value="whole_home">Whole Home Renovation</option>
+      <option value="electrical_upgrade">Electrical System Upgrade</option>
+      <option value="historic_renovation">Historic Home Renovation</option>
+    </select>
+
+    <textarea name="project_details" placeholder="Tell us about your Essex County project..."></textarea>
+
+    <button type="submit" class="county-cta">Get My Essex County Estimate</button>
+
+    <p class="local-advantage">
+      <strong>Essex County Expertise:</strong> Specialized in historic home renovations and complex electrical upgrades.
+    </p>
+  </form>
+</div>
+```
+
+## TRUST-BUILDING LEAD MAGNETS
+
+### "No-Markup Pricing Guide" Lead Magnet
+
+```html
+<div class="lead-magnet-section">
+  <div class="magnet-offer">
+    <h3>Free Download: "The Truth About Electrical Markups in NJ Renovations"</h3>
+    <p>Learn how Top-Notch saves you thousands by eliminating subcontractor fees</p>
+
+    <div class="magnet-benefits">
+      <ul>
+        <li>✓ Typical contractor markup on electrical: 25-40%</li>
+        <li>✓ How Master Electrician #13VH13 eliminates these costs</li>
+        <li>✓ Real project examples: savings breakdown</li>
+        <li>✓ Questions to ask your contractor about electrical work</li>
+        <li>✓ Kitchen & bathroom electrical planning checklist</li>
+      </ul>
+    </div>
+
+    <form class="lead-magnet-form">
+      <input type="email" name="email" placeholder="Enter your email for instant download" required>
+      <input type="text" name="name" placeholder="First Name" required>
+
+      <select name="project_interest" required>
+        <option value="">What's your project?</option>
+        <option value="kitchen">Kitchen Remodeling</option>
+        <option value="bathroom">Bathroom Renovation</option>
+        <option value="whole_home">Whole Home Renovation</option>
+        <option value="electrical">Electrical Services</option>
+        <option value="planning">Just planning ahead</option>
+      </select>
+
+      <button type="submit" class="magnet-cta">Get My Free Guide</button>
+    </form>
+
+    <p class="privacy-note">
+      We respect your privacy. Unsubscribe at any time. No spam, just valuable renovation insights.
+    </p>
+  </div>
+</div>
+```
+
+### "Kitchen Planning Checklist" Lead Magnet
+
+```html
+<div class="lead-magnet-section">
+  <div class="magnet-offer">
+    <h3>Free Download: "Ultimate Kitchen Remodeling Planning Checklist"</h3>
+    <p>Pedro's step-by-step guide to planning your perfect kitchen renovation</p>
+
+    <div class="magnet-benefits">
+      <ul>
+        <li>✓ 50-point kitchen planning checklist</li>
+        <li>✓ Electrical requirements for modern kitchens</li>
+        <li>✓ Budget planning worksheet</li>
+        <li>✓ Timeline planning guide</li>
+        <li>✓ Contractor selection criteria</li>
+        <li>✓ Permit and inspection requirements</li>
+      </ul>
+    </div>
+
+    <form class="lead-magnet-form">
+      <input type="email" name="email" placeholder="Enter your email for instant download" required>
+      <input type="text" name="name" placeholder="First Name" required>
+
+      <select name="kitchen_timeline" required>
+        <option value="">When are you planning to start?</option>
+        <option value="asap">Ready to start now</option>
+        <option value="3_months">Within 3 months</option>
+        <option value="6_months">Within 6 months</option>
+        <option value="year">Within a year</option>
+        <option value="researching">Just researching</option>
+      </select>
+
+      <button type="submit" class="magnet-cta">Get My Free Kitchen Checklist</button>
+    </form>
+  </div>
+</div>
+```
