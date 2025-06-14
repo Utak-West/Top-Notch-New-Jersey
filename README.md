@@ -22,11 +22,11 @@ This repository is specifically structured for optimal AI analysis and collabora
 - **🎯 Target Deployment:** Phase 1 (SeedProd Landing) → Phase 2 (Full WordPress Site)
 
 ### 🗂 AI Navigation Quick Start
-**For Devin AI - Start Here:**
-1. **Project Context:** `.devin/project-context.md` - Complete business & technical overview
-2. **File Relationships:** `.devin/file-relationships.md` - Dependency mapping & cross-references
-3. **AI Instructions:** `.devin/ai-instructions.md` - Collaboration guidelines & editing protocols
-4. **Repository Index:** `.devin/repository-index.md` - Complete file directory & purpose guide
+**For AI Agents - Start Here:**
+1. **Project Context:** `docs/project-overview.md` - Complete business & technical overview
+2. **Business Strategy:** `business-strategy/` - Market analysis & competitive positioning
+3. **Content Library:** `content/` - All website content modules
+4. **Implementation Guides:** `wordpress/` & `seedprod/` - Technical deployment
 
 ### 🎯 AI-Optimized Features
 - **Structured Metadata:** Every file includes purpose, dependencies, and update schedules
