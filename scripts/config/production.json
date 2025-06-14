@@ -1,0 +1,180 @@
+{
+  "wordpress": {
+    "url": "https://topnotchnj.com",
+    "admin_user": "ENV:WP_ADMIN_USER",
+    "admin_password": "ENV:WP_ADMIN_PASSWORD",
+    "path": "/var/www/html",
+    "database": {
+      "host": "ENV:DB_HOST",
+      "name": "ENV:DB_NAME",
+      "user": "ENV:DB_USER",
+      "password": "ENV:DB_PASSWORD",
+      "port": 3306
+    }
+  },
+  "elementor": {
+    "cache_optimization": true,
+    "performance_monitoring": true,
+    "auto_backup_before_fixes": true,
+    "troubleshooting": {
+      "auto_fix_common_issues": true,
+      "notification_email": "info@topnotchnewjersey.com",
+      "max_fix_attempts": 3
+    },
+    "home_renovation_optimizations": {
+      "optimize_galleries": true,
+      "before_after_widgets": true,
+      "contact_form_optimization": true
+    }
+  },
+  "webhooks": {
+    "contact_forms": {
+      "enrichment_api_key": "ENV:ENRICHMENT_API_KEY",
+      "crm_webhook_url": "ENV:CRM_WEBHOOK_URL",
+      "email_service_key": "ENV:EMAIL_SERVICE_KEY",
+      "lead_scoring": true,
+      "auto_followup": true
+    },
+    "integration_endpoints": [
+      ".elementor-form",
+      ".contact-form-7",
+      ".gravity-form"
+    ]
+  },
+  "security": {
+    "auto_hardening": true,
+    "scan_frequency": "daily",
+    "alert_email": "info@topnotchnewjersey.com",
+    "backup_before_changes": true,
+    "security_headers": true,
+    "login_protection": true
+  },
+  "notifications": {
+    "smtp_host": "ENV:SMTP_HOST",
+    "smtp_port": 587,
+    "smtp_user": "ENV:SMTP_USER",
+    "smtp_password": "ENV:SMTP_PASSWORD",
+    "from_email": "noreply@topnotchnewjersey.com",
+    "admin_email": "info@topnotchnewjersey.com"
+  },
+  "business": {
+    "company_name": "Top Notch New Jersey",
+    "license_number": "13VH13",
+    "specializations": ["kitchen_renovation", "bathroom_renovation", "electrical_work"],
+    "service_areas": ["Union County", "Essex County", "Middlesex County", "Bergen County"],
+    "lead_scoring_keywords": {
+      "kitchen": 10,
+      "bathroom": 10,
+      "renovation": 8,
+      "remodel": 8,
+      "quote": 15,
+      "estimate": 15,
+      "budget": 12,
+      "urgent": 20,
+      "timeline": 5,
+      "electrical": 7,
+      "licensed": 3,
+      "bonded": 3,
+      "insured": 3,
+      "pedro": 5,
+      "top notch": 5
+    },
+    "contact_info": {
+      "phone": "ENV:BUSINESS_PHONE",
+      "email": "info@topnotchnewjersey.com",
+      "address": "Linden, NJ",
+      "website": "https://topnotchnj.com"
+    },
+    "operating_hours": {
+      "monday": "8:00-17:00",
+      "tuesday": "8:00-17:00",
+      "wednesday": "8:00-17:00",
+      "thursday": "8:00-17:00",
+      "friday": "8:00-17:00",
+      "saturday": "9:00-15:00",
+      "sunday": "closed"
+    }
+  },
+  "performance": {
+    "monitoring_enabled": true,
+    "page_speed_threshold": 3.0,
+    "uptime_monitoring": true,
+    "performance_reports": "weekly"
+  },
+  "backup": {
+    "enabled": true,
+    "frequency": "daily",
+    "retention_days": 30,
+    "storage_location": "ENV:BACKUP_STORAGE_PATH",
+    "cloud_backup": {
+      "enabled": true,
+      "provider": "aws_s3",
+      "bucket": "ENV:BACKUP_S3_BUCKET",
+      "access_key": "ENV:AWS_ACCESS_KEY",
+      "secret_key": "ENV:AWS_SECRET_KEY"
+    }
+  },
+  "seo": {
+    "local_seo_optimization": true,
+    "google_my_business_integration": true,
+    "schema_markup": true,
+    "sitemap_generation": true,
+    "analytics_tracking": {
+      "google_analytics": "ENV:GA_TRACKING_ID",
+      "google_tag_manager": "ENV:GTM_ID"
+    }
+  },
+  "lead_generation": {
+    "conversion_tracking": true,
+    "a_b_testing": true,
+    "heat_mapping": false,
+    "chat_widget": false,
+    "call_tracking": {
+      "enabled": true,
+      "provider": "callrail",
+      "tracking_number": "ENV:CALL_TRACKING_NUMBER"
+    }
+  },
+  "integrations": {
+    "crm": {
+      "provider": "hubspot",
+      "api_key": "ENV:HUBSPOT_API_KEY",
+      "portal_id": "ENV:HUBSPOT_PORTAL_ID"
+    },
+    "email_marketing": {
+      "provider": "mailchimp",
+      "api_key": "ENV:MAILCHIMP_API_KEY",
+      "list_id": "ENV:MAILCHIMP_LIST_ID"
+    },
+    "social_media": {
+      "facebook_pixel": "ENV:FACEBOOK_PIXEL_ID",
+      "google_ads": "ENV:GOOGLE_ADS_ID"
+    }
+  },
+  "maintenance": {
+    "auto_updates": {
+      "core": false,
+      "plugins": true,
+      "themes": true
+    },
+    "cleanup": {
+      "revisions": true,
+      "spam_comments": true,
+      "transients": true,
+      "unused_media": false
+    },
+    "optimization": {
+      "database": true,
+      "images": true,
+      "css_js": true,
+      "cache": true
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file_logging": true,
+    "max_file_size": "10MB",
+    "backup_count": 5,
+    "business_events": true
+  }
+}

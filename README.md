@@ -88,10 +88,19 @@ This repository is optimized for **WordPress + Elementor Pro** deployment with *
 │   ├── keyword-research.md           # Target keywords
 │   ├── local-seo-checklist.md       # Implementation guide
 │   └── content-templates.md          # SEO-optimized templates
-└── 📂 assets/                        # Design & media assets
-    ├── brand-assets/                 # Logos, colors, fonts
-    ├── images/                       # Project photos
-    └── templates/                    # Design templates
+├── 📂 assets/                        # Design & media assets
+│   ├── brand-assets/                 # Logos, colors, fonts
+│   ├── images/                       # Project photos
+│   └── templates/                    # Design templates
+└── 📂 scripts/                       # 🚀 WordPress Automation Suite
+    ├── config/                       # Configuration management
+    ├── elementor/                    # Elementor troubleshooting & optimization
+    ├── webhooks/                     # Lead capture & CRM integration
+    ├── wordpress/                    # Maintenance & security scanning
+    ├── utils/                        # Logging & email notifications
+    ├── tests/                        # Comprehensive test suite
+    ├── demos/                        # Interactive demonstrations
+    └── main.py                       # Main automation entry point
 ```
 
 ### 🛠 Technical Stack
@@ -105,6 +114,12 @@ This repository is optimized for **WordPress + Elementor Pro** deployment with *
 - **Devin AI Ready** - Structured for AI indexing
 - **GenSpark Compatible** - Agentic browser editing
 - **Modular Architecture** - Iterative editing support
+
+**Automation Suite:**
+- **WordPress/Elementor Management** - Automated troubleshooting and optimization
+- **Lead Generation Integration** - Advanced webhook processing with CRM sync
+- **Security & Maintenance** - Automated security scanning and site maintenance
+- **Business Intelligence** - Lead scoring and performance analytics
 
 ---
 
@@ -125,6 +140,73 @@ This repository is optimized for **WordPress + Elementor Pro** deployment with *
 3. Conversion tracking integration
 4. Local SEO optimization
 5. Mobile responsiveness testing
+
+---
+
+## 🤖 WordPress Automation Suite
+
+**Advanced automation system for WordPress/Elementor management, lead generation, and business optimization.**
+
+### 🚀 Key Features
+
+**🔧 Elementor Troubleshooting & Optimization**
+- Automated performance monitoring and issue detection
+- Gallery and slider optimization for renovation showcases
+- Contact form validation and troubleshooting
+- Mobile responsiveness checks and fixes
+- Cache management and performance tuning
+
+**🔗 Advanced Webhook Integration**
+- Multi-form support (Elementor, Contact Form 7, Gravity Forms)
+- AI-powered lead scoring based on renovation keywords
+- Contact data enrichment and property analysis
+- CRM integration (HubSpot, Salesforce, etc.)
+- Automated follow-up sequences based on lead priority
+
+**🛡️ WordPress Security & Maintenance**
+- Automated security scanning and vulnerability fixes
+- Database optimization and cleanup
+- Plugin and theme update management
+- Backup automation with cloud storage
+- Performance monitoring and optimization
+
+**📊 Business Intelligence & Analytics**
+- Lead scoring and qualification automation
+- Conversion tracking and ROI analysis
+- Performance metrics and reporting
+- Local SEO optimization for New Jersey market
+- Automated email notifications and alerts
+
+### 🎯 Business Impact
+
+- **Lead Generation**: Automated lead capture, scoring, and routing
+- **Conversion Optimization**: Improved form performance and user experience
+- **Operational Efficiency**: Reduced manual maintenance and monitoring
+- **Security**: Proactive threat detection and automated fixes
+- **Performance**: Faster site speeds and better user experience
+- **Analytics**: Data-driven insights for business growth
+
+### 📋 Quick Start
+
+```bash
+# Navigate to scripts directory
+cd scripts/
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Configure environment
+cp config/production.json.example config/production.json
+# Edit configuration with your WordPress details
+
+# Run automation suite
+python main.py --task all
+
+# Run interactive demo
+python demos/demo_runner.py
+```
+
+For detailed documentation, see [`scripts/README.md`](scripts/README.md).
 
 ---
 
