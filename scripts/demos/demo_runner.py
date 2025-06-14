@@ -32,12 +32,15 @@ from typing import Dict, Any
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from config.settings import load_config
-from elementor.troubleshooter import ElementorTroubleshooter
-from webhooks.contact_form_handler import ContactFormHandler
-from webhooks.integration_manager import WebhookIntegrationManager
-from wordpress.maintenance import WordPressMaintenance
-from utils.logger import setup_logging, get_logger
+# For demo purposes, we'll simulate the functionality without actual imports
+import logging
+
+# Setup basic logging for demo
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(message)s',
+    datefmt='%H:%M:%S'
+)
 
 class DemoRunner:
     """Interactive demo runner for Top Notch New Jersey automation"""
@@ -45,12 +48,11 @@ class DemoRunner:
     def __init__(self):
         """Initialize demo runner"""
         # Setup logging for demo
-        setup_logging(level='INFO', console_output=True)
-        self.logger = get_logger(__name__)
-        
+        self.logger = logging.getLogger(__name__)
+
         # Load demo configuration
         self.config = self._load_demo_config()
-        
+
         # Demo scenarios
         self.demo_scenarios = {
             'elementor': self._demo_elementor_troubleshooting,
@@ -59,7 +61,7 @@ class DemoRunner:
             'lead_processing': self._demo_lead_processing,
             'complete': self._demo_complete_workflow
         }
-        
+
         self.logger.info("🎬 Top Notch New Jersey Demo Runner Initialized")
     
     def _load_demo_config(self) -> Dict[str, Any]:
