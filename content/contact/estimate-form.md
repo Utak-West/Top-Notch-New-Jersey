@@ -1,23 +1,66 @@
-# Estimate Request Form - Top Notch New Jersey
+# Enhanced Lead Capture System - Top Notch New Jersey
 
 ---
-**Document Type:** Lead Generation Form & Conversion Optimization
+**Document Type:** Advanced Lead Generation & Conversion Optimization System
 **Project:** Top Notch New Jersey Website
 **Owner:** Pedro Ribeiro, Licensed Master Electrician
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
-**Version:** 1.0
-**Dependencies:** contact-page.md, pricing-strategy.md, customer-acquisition.md
+**Version:** 2.0 - Enhanced Conversion System
+**Dependencies:** contact-page.md, pricing-strategy.md, customer-acquisition.md, county-targeting.md
 ---
 
-## 🎯 Primary Estimate Form
+## CONVERSION ARCHITECTURE OVERVIEW
 
-### Form Header
-**Headline:** "Get Your Free Estimate Today"
-**Subheadline:** "Licensed Master Electrician • No Obligation • Response Within 2 Hours"
-**Trust Badge:** "Licensed, Bonded & Insured - NJ License #13VH13"
+### Primary Conversion Strategy
 
-### Form Fields Structure
+**Hero Section Conversion Panel**
+
+- Kitchen & Bathroom Remodeling specialist positioning
+- Whole Home Renovation expertise
+- Master Electrician advantage (no subcontractor markups)
+- Pedro's personal involvement emphasis
+- County-specific targeting (Union, Essex, Middlesex, Bergen)
+
+### Form Header Components
+
+**Primary Headline:** "New Jersey's Kitchen & Bathroom Remodeling Experts"
+**Secondary Headline:** "Master Electrician Advantage - No Electrical Subcontractor Markups"
+**Personal Touch:** "Pedro Ribeiro personally oversees every renovation project"
+**Trust Badge:** "Licensed Master Electrician #13VH13 | 15+ Years Experience"
+
+## HERO SECTION CONVERSION PANEL
+
+### Trust Indicators Display
+```html
+<div class="hero-conversion-panel">
+  <div class="credential-badge">
+    <span class="license-number">Master Electrician #13VH13</span>
+    <span class="location">Serving Union, Essex, Middlesex & Bergen Counties</span>
+  </div>
+
+  <h1>Master Electrician + General Contractor</h1>
+  <h2>No Electrical Subcontractor Markups</h2>
+  <p>Pedro Ribeiro personally handles every project from start to finish</p>
+
+  <div class="cta-button-group">
+    <button class="primary-cta">Get Free Estimate</button>
+    <button class="secondary-cta">Call (XXX) XXX-XXXX</button>
+    <button class="tertiary-cta">See Our Work</button>
+  </div>
+
+  <div class="trust-indicators">
+    <span>→ Master Electrician Licensed</span>
+    <span>→ Full General Contractor</span>
+    <span>→ No Hidden Electrical Markups</span>
+    <span>→ Pedro Answers Personally</span>
+  </div>
+</div>
+```
+
+## SERVICE-SPECIFIC LEAD CAPTURE FORMS
+
+### Kitchen Remodeling Lead System
 
 #### Personal Information
 **Name:** 
