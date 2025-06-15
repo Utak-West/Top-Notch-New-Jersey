@@ -103,7 +103,7 @@ Pedro's extensive work throughout these communities has given him invaluable ins
 - **Local Business Partnerships:** Works with trusted local suppliers and vendors
 - **Referral Network:** Strong relationships with real estate agents and property managers
 - **Community Events:** Participates in local home and garden shows
-- **Charitable Work:** Provides pro bono electrical safety inspections for seniors
+- **Charitable Work:** Provides pro bono home safety consultations for seniors
 
 ---
 
