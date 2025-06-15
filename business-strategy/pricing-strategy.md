@@ -3,7 +3,7 @@
 ---
 **Document Type:** Pricing Strategy & Revenue Optimization
 **Project:** Top Notch New Jersey Business Strategy
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -20,8 +20,8 @@
 5. **Customer Accessibility** - Multiple price points for different budgets
 
 ### Unique Value Proposition
-**"Master Electrician Advantage"**
-- No electrical subcontractor markup (15-20% savings)
+**"Comprehensive Contractor Advantage"**
+- No subcontractor markup on electrical work (15-20% savings)
 - Single-source accountability and warranty
 - Faster project completion (no coordination delays)
 - Code compliance expertise and safety assurance
@@ -178,7 +178,7 @@
 
 ### Value Justification
 **Why Customers Pay Premium:**
-1. **Master Electrician Expertise** - Higher skill level
+1. **Licensed Contractor Expertise** - Higher skill level
 2. **Integrated Services** - No coordination hassles
 3. **No Subcontractor Markup** - Actual cost savings
 4. **Single Warranty** - Complete project coverage
@@ -197,7 +197,7 @@
 
 ### Quality-Focused Customers
 **Strategy:** Emphasize expertise and craftsmanship
-- Master Electrician credentials
+- Licensed Contractor credentials
 - Portfolio of premium work
 - Comprehensive warranties
 - Personal involvement guarantee
