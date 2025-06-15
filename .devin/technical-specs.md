@@ -137,7 +137,6 @@
 **Service Schema:**
 - Kitchen Remodeling Service
 - Bathroom Renovation Service
-- Electrical Service
 - Home Improvement Service
 
 ### Meta Tag Requirements

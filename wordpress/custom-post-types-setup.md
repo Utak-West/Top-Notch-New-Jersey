@@ -337,7 +337,6 @@ Parent Item Colon: Parent Service Area:
 - Kitchen Remodeling
 - Bathroom Renovation
 - Complete Home Remodel
-- Electrical Work
 - Accessibility Modifications
 
 ## Implementation Checklist

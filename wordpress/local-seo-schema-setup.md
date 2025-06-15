@@ -444,7 +444,7 @@ function topnotch_get_main_business_schema() {
       "name": "Do I need permits for kitchen remodeling in New Jersey?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, most kitchen remodeling projects in New Jersey require permits, especially for plumbing, electrical, or structural changes. As a Licensed Home Improvement Contractor, Top Notch New Jersey handles all permit applications and ensures code compliance."
+        "text": "Yes, most kitchen remodeling projects in New Jersey require permits, especially for plumbing or structural changes. As a Licensed Home Improvement Contractor, Top Notch New Jersey handles all permit applications and ensures code compliance."
       }
     },
     {

@@ -32,7 +32,7 @@
 - **Sunday:** Emergency calls only
 
 **Emergency Services:**
-- **Available 24/7** for electrical emergencies
+- **Available 24/7** for home improvement emergencies
 - **Response Time:** Within 2 hours for emergencies
 - **Service Area:** Union, Essex, Middlesex, Bergen Counties
 
@@ -50,9 +50,9 @@
 - **Service Type:** Dropdown menu
   - Kitchen Remodeling
   - Bathroom Renovation
-  - Electrical Services
+  - Home Renovations
   - General Home Improvement
-  - Emergency Electrical
+  - Other Services
 - **Project Description:** Text area (required)
 - **Timeline:** Dropdown menu
   - ASAP/Emergency
@@ -182,13 +182,13 @@
 - 100% satisfaction commitment
 
 ### Customer Testimonials
-**"Pedro transformed our outdated kitchen into a modern masterpiece. His electrical expertise saved us thousands compared to other contractors who wanted to subcontract the electrical work. Highly recommended!"**
+**"Pedro transformed our outdated kitchen into a modern masterpiece. His comprehensive renovation expertise and attention to detail made the entire process seamless. Highly recommended!"**
 *- Sarah M., Westfield, NJ*
 
-**"Fast, professional, and reasonably priced. Pedro rewired our entire bathroom renovation and the quality is outstanding. You can tell he takes pride in his work."**
+**"Fast, professional, and reasonably priced. Pedro handled our complete bathroom renovation with outstanding quality. You can tell he takes pride in his work."**
 *- Mike R., Linden, NJ*
 
-**"Emergency electrical service on a Sunday evening - Pedro was there within an hour and fixed our panel issue safely. Great to have a local electrician you can trust!"**
+**"Pedro responded quickly to our home renovation emergency and handled everything professionally. Great to have a trusted local contractor you can rely on!"**
 *- Jennifer L., Cranford, NJ*
 
 ---

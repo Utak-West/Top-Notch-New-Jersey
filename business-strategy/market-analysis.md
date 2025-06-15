@@ -19,7 +19,7 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 - **Target Segment:** Kitchen/Bathroom remodeling ($2.7B)
 - **Growth Rate:** 8.5% annually (2019-2024)
 - **Service Area Opportunity:** $180M in Union, Essex, Middlesex, Bergen Counties
-- **Competitive Gap:** <5% of contractors offer integrated electrical services
+- **Competitive Gap:** <5% of contractors offer comprehensive home improvement services
 
 ---
 
@@ -29,7 +29,7 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 **Total Market Value:** $4.2 billion annually
 - **Kitchen Remodeling:** $1.8 billion (43%)
 - **Bathroom Remodeling:** $900 million (22%)
-- **Electrical Services:** $650 million (15%)
+- **Other Services:** $650 million (15%)
 - **General Improvements:** $850 million (20%)
 
 ### Target Service Area Analysis
@@ -44,7 +44,7 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 **Annual Projects in Service Area:**
 - **Kitchen Remodels:** 1,200 projects ($15K-$100K average)
 - **Bathroom Remodels:** 1,800 projects ($8K-$50K average)
-- **Electrical Services:** 3,500 service calls ($200-$5K average)
+- **Other Services:** 3,500 service calls ($200-$5K average)
 - **Total Opportunity:** 6,500+ projects annually
 
 ---
@@ -86,35 +86,35 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 - **Market Share:** 40% of projects
 - **Customer Profile:** Young families, first-time renovators
 - **Key Drivers:** Functionality, basic updates
-- **Top Notch Advantage:** Electrical work included in base price
+- **Top Notch Advantage:** Comprehensive renovation services included
 
 **Mid-Range Renovations ($30K-$55K):**
 - **Market Share:** 35% of projects
 - **Customer Profile:** Established homeowners, growing families
 - **Key Drivers:** Style updates, improved functionality
-- **Top Notch Advantage:** No electrical subcontractor markup
+- **Top Notch Advantage:** No subcontractor markup on integrated services
 
 **Luxury Renovations ($60K+):**
 - **Market Share:** 25% of projects
 - **Customer Profile:** High-income households, luxury homes
 - **Key Drivers:** Premium finishes, smart home integration
-- **Top Notch Advantage:** Integrated electrical design expertise
+- **Top Notch Advantage:** Integrated design and construction expertise
 
 ### Bathroom Remodeling Segments
 **Essential Updates ($8K-$20K):**
 - **Market Share:** 50% of projects
-- **Focus:** Fixture replacement, basic electrical updates
+- **Focus:** Fixture replacement, plumbing and lighting updates
 - **Top Notch Advantage:** Licensed Contractor safety compliance
 
 **Full Renovations ($25K-$45K):**
 - **Market Share:** 35% of projects
 - **Focus:** Complete transformation, accessibility features
-- **Top Notch Advantage:** Electrical planning integration
+- **Top Notch Advantage:** Comprehensive planning and integration
 
 **Luxury Spa Bathrooms ($50K+):**
 - **Market Share:** 15% of projects
 - **Focus:** High-end finishes, smart features
-- **Top Notch Advantage:** Advanced electrical systems expertise
+- **Top Notch Advantage:** Advanced renovation systems expertise
 
 ---
 
@@ -137,9 +137,9 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 
 ### Post-COVID Impact
 **Market Changes Since 2020:**
-- **Home Office Integration:** 40% increase in electrical upgrades
+- **Home Office Integration:** 40% increase in renovation upgrades
 - **Kitchen Functionality:** Increased focus on cooking spaces
-- **Outdoor Living:** Electrical work for patios, decks
+- **Outdoor Living:** Renovation work for patios, decks
 - **Health & Safety:** Touchless fixtures, improved ventilation
 - **DIY Fatigue:** Increased demand for professional contractors
 
@@ -177,16 +177,16 @@ The New Jersey home improvement market represents a $4.2 billion annual opportun
 - **Mid-Range:** $35K-$60K (Top Notch: $30K-$55K)
 - **Luxury:** $65K-$100K+ (Top Notch: $60K-$100K+)
 
-**Electrical Services Pricing:**
+**Additional Services Pricing:**
 - **Service Calls:** $125-$250/hour (Top Notch: $150-$200/hour)
-- **Panel Upgrades:** $2K-$5K (Top Notch: $2.5K-$4.5K)
-- **Whole House Rewiring:** $8K-$15K (Top Notch: $10K-$12K)
+- **Home Improvements:** $2K-$5K (Top Notch: $2.5K-$4.5K)
+- **Multi-Room Projects:** $8K-$15K (Top Notch: $10K-$12K)
 
 ### Value Proposition Pricing
 **Top Notch Pricing Strategy:**
 - **Premium Positioning:** 5-10% above budget competitors
 - **Value Positioning:** 10-15% below premium competitors
-- **Integrated Advantage:** No electrical markup (15-20% savings)
+- **Integrated Advantage:** No subcontractor markup (15-20% savings)
 
 ---
 

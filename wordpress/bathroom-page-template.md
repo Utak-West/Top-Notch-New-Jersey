@@ -108,8 +108,8 @@
       <div class="advantage-item">
         <span class="advantage-icon">✓</span>
         <div class="advantage-text">
-          <strong>Professional Electrical Work</strong>
-          <p>GFCI outlets, exhaust fans, and lighting - all handled by Pedro directly</p>
+          <strong>Complete Project Management</strong>
+          <p>All technical aspects including outlets, ventilation, and lighting coordinated by Pedro</p>
         </div>
       </div>
       

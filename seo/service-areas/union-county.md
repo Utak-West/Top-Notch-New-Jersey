@@ -48,7 +48,7 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 
 #### Westfield, NJ
 - **Focus Areas:** High-end kitchen remodeling, luxury bathroom renovations
-- **Electrical Services:** Smart home wiring, landscape lighting, generator installation
+- **Home Improvement Services:** Smart home integration, custom lighting, premium finishes
 - **Market Knowledge:** Experience with Westfield's premium home market
 - **Customer Base:** Growing referral network in Westfield area
 
@@ -60,14 +60,14 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 
 ### Additional Union County Communities
 **We also serve:**
-- **Cranford** - Kitchen and bathroom remodeling, electrical services
-- **Rahway** - Home renovations, electrical panel upgrades
-- **Roselle** - Bathroom renovations, electrical safety inspections
+- **Cranford** - Kitchen and bathroom remodeling, home improvement services
+- **Rahway** - Home renovations, kitchen and bathroom upgrades
+- **Roselle** - Bathroom renovations, home improvement projects
 - **Union** - Kitchen remodeling, smart home installations
-- **Springfield** - Electrical services, home improvement projects
-- **Kenilworth** - Bathroom renovations, electrical upgrades
-- **Hillside** - Kitchen remodeling, electrical panel upgrades
-- **Roselle Park** - Home electrical services, renovation projects
+- **Springfield** - Home improvement projects, renovation services
+- **Kenilworth** - Bathroom renovations, kitchen upgrades
+- **Hillside** - Kitchen remodeling, home renovation projects
+- **Roselle Park** - Home improvement services, renovation projects
 
 ---
 
@@ -91,7 +91,7 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 
 **Modern Homes (1980s-Present):**
 - **Popular Upgrades:** Smart home integration, luxury renovations
-- **Electrical Services:** Panel upgrades, EV charger installation
+- **Home Improvement Services:** Kitchen and bathroom modernization, smart home features
 - **Technology Focus:** Home automation and energy efficiency
 
 ### Union County Building Codes & Permits
@@ -102,10 +102,10 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 - **Code Compliance:** Expert knowledge of current NJ electrical codes
 
 **Common Permit Requirements:**
-- **Electrical Work:** All electrical modifications require permits
+- **Home Improvements:** Electrical modifications require permits when needed
 - **Kitchen Renovations:** Building permits for structural changes
 - **Bathroom Remodeling:** Plumbing and electrical permits typically required
-- **Panel Upgrades:** Electrical permits and utility coordination
+- **System Upgrades:** Permits and utility coordination as required
 
 ---
 
@@ -122,14 +122,14 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 - **Full Renovations:** $25,000 - $45,000 (comprehensive transformations)
 - **Luxury Bathrooms:** $50,000 - $80,000+ (spa-quality installations)
 
-**Electrical Services:**
-- **Service Calls:** $150 first hour, $125 additional hours
-- **Panel Upgrades:** $2,500 - $4,500 (including permits and inspection)
-- **Whole House Rewiring:** $10,000 - $12,000 (average Union County home)
+**Additional Services:**
+- **Consultation Calls:** $150 first hour, $125 additional hours
+- **System Upgrades:** $2,500 - $4,500 (including permits and inspection)
+- **Comprehensive Renovations:** $10,000 - $12,000 (average Union County home)
 
 ### Union County Value Proposition
 **Cost Advantages:**
-- **No Electrical Markup:** Save 15-20% compared to contractors using subcontractors
+- **No Subcontractor Markup:** Save 15-20% with comprehensive in-house services
 - **Local Efficiency:** Reduced travel time keeps costs competitive
 - **Bulk Purchasing:** Established supplier relationships for better material pricing
 - **Streamlined Process:** Faster completion reduces labor costs

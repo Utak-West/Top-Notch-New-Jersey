@@ -36,7 +36,7 @@
 - Basic cabinet refacing or replacement
 - Standard countertops (laminate, basic granite)
 - Standard appliance installation
-- **Electrical work included:** Outlet additions, under-cabinet lighting
+- **Power and lighting included:** Outlet additions, under-cabinet lighting
 - Basic plumbing connections
 - Standard flooring installation
 
@@ -52,7 +52,7 @@
 - Custom or semi-custom cabinets
 - Premium countertops (quartz, granite)
 - Mid-range to high-end appliances
-- **Electrical work included:** Recessed lighting, pendant lights, appliance circuits
+- **Power and lighting included:** Recessed lighting, pendant lights, appliance circuits
 - Plumbing modifications
 - Premium flooring options
 
@@ -68,7 +68,7 @@
 - Custom cabinetry with premium finishes
 - Luxury countertops (marble, exotic materials)
 - High-end appliance packages
-- **Electrical work included:** Smart home integration, specialty lighting
+- **Power and lighting included:** Smart home integration, specialty lighting
 - Custom plumbing features
 - Premium flooring and finishes
 
@@ -88,7 +88,7 @@
 - Fixture replacement (toilet, vanity, shower/tub)
 - Standard tile work
 - Basic lighting and ventilation
-- **Electrical work included:** GFCI outlets, exhaust fan, basic lighting
+- **Power and lighting included:** GFCI outlets, exhaust fan, basic lighting
 - Standard plumbing connections
 
 **Pricing Breakdown:**
@@ -103,7 +103,7 @@
 - Complete fixture replacement with premium options
 - Custom tile work and waterproofing
 - Improved lighting and ventilation systems
-- **Electrical work included:** Heated floors, multiple lighting zones
+- **Power and lighting included:** Heated floors, multiple lighting zones
 - Plumbing modifications and upgrades
 
 **Pricing Breakdown:**
@@ -129,7 +129,7 @@
 
 ---
 
-## ⚡ Electrical Services Pricing
+## 🏠 Additional Home Improvement Services
 
 ### Service Call Structure
 **Base Service Call:** $150 (first hour)
@@ -137,29 +137,21 @@
 **Emergency Service:** $200 (first hour), $150/hour additional
 **Weekend/Holiday:** 1.5x standard rates
 
-### Common Electrical Services
-**Panel Upgrades:**
-- **100A to 200A:** $2,500 - $3,500
-- **200A Heavy-Up:** $3,000 - $4,500
-- **Smart Panel Integration:** +$500 - $1,000
-
-**Outlet and Switch Work:**
-- **Standard Outlet Installation:** $125 - $175
-- **GFCI Outlet Installation:** $150 - $200
-- **USB Outlet Installation:** $175 - $225
-- **Smart Switch Installation:** $200 - $300
-
-**Lighting Services:**
+### Complementary Services (As Part of Kitchen/Bathroom Projects)
+**Lighting Integration:**
 - **Recessed Light Installation:** $200 - $300 per light
 - **Pendant Light Installation:** $250 - $400 per light
 - **Under-Cabinet Lighting:** $150 - $250 per linear foot
 - **Smart Lighting Systems:** $300 - $500 per room
 
-**Whole House Services:**
-- **Complete Rewiring:** $10,000 - $12,000 (average home)
-- **Generator Installation:** $3,000 - $8,000 (depending on size)
-- **EV Charger Installation:** $800 - $2,000
+**Power and Safety Upgrades:**
+- **GFCI Outlet Installation:** $150 - $200
+- **USB Outlet Installation:** $175 - $225
+- **Smart Switch Installation:** $200 - $300
+
+**Home Integration Services:**
 - **Smart Home Wiring:** $2,000 - $5,000
+- **EV Charger Installation:** $800 - $2,000
 
 ---
 
@@ -171,10 +163,10 @@
 - **Mid-Range Competitors:** 10-15% lower than established firms
 - **Luxury Competitors:** Competitive with premium positioning
 
-**Electrical Services:**
-- **Independent Electricians:** 10-20% higher (justified by renovation integration)
-- **Franchise Electricians:** 15-25% lower (no franchise fees)
-- **Large Electrical Contractors:** Competitive pricing
+**Home Improvement Services:**
+- **General Contractors:** Competitive pricing with integrated service advantage
+- **Specialty Contractors:** 10-15% higher due to comprehensive project management
+- **Large Home Improvement Companies:** Competitive with personalized service advantage
 
 ### Value Justification
 **Why Customers Pay Premium:**
@@ -190,7 +182,7 @@
 
 ### Price-Sensitive Customers
 **Strategy:** Emphasize total value and cost savings
-- Highlight electrical work inclusion (no markup)
+- Highlight integrated service inclusion (no subcontractor markup)
 - Show total project cost comparison
 - Offer payment plans or financing options
 - Focus on long-term value and warranty

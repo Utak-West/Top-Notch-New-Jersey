@@ -47,7 +47,7 @@ Trust Badge: "Licensed, Bonded & Insured - NJ License #13VH13"
 Kitchen Remodeling:
 - Complete kitchen transformations
 - Custom cabinetry and countertops
-- Electrical work included (no subcontractors)
+- Professional installation and coordination
 - Investment: $10K - $100K+
 
 Bathroom Renovations:
@@ -70,7 +70,7 @@ General Home Improvements:
    - Name (required)
    - Phone (required)
    - Email (required)
-   - Service Interest (dropdown: Kitchen, Bathroom, Electrical, General)
+   - Service Interest (dropdown: Kitchen, Bathroom, Home Renovation, General)
    - Project Timeline (dropdown: ASAP, 1-3 months, 3-6 months, Planning)
 
 2. **Form Styling:**
@@ -200,7 +200,7 @@ Professional Service: Quality Craftsmanship Guaranteed
 - `/content/homepage/hero-section.md` - Hero content and CTAs
 - `/content/services/kitchen-remodeling.md` - Kitchen service details
 - `/content/services/bathroom-remodeling.md` - Bathroom service details
-- `/content/services/electrical-services.md` - Electrical service details
+- `/content/services/home-renovations.md` - Home renovation service details
 - `/content/about/pedro-story.md` - Trust and credibility content
 - `/content/contact/contact-page.md` - Contact information
 

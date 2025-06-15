@@ -16,8 +16,8 @@
 ### Brand Positioning
 **Business Name:** Top Notch New Jersey
 **Owner:** Pedro Ribeiro
-**Tagline:** "Expert Home Renovations & Electrical Services"
-**Mission:** Seamless integration of expert electrical work with high-quality home renovations
+**Tagline:** "Expert Kitchen & Bathroom Renovations"
+**Mission:** Delivering exceptional kitchen and bathroom remodeling with comprehensive home renovation services
 **Values:** Quality, Reliability, Trust, Expertise, Local Community Focus
 **Established:** 2018
 **Service Area:** Union, Essex, Middlesex, Bergen Counties, NJ
@@ -94,10 +94,10 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ### Logo Elements
 - **Company Name:** "Top Notch New Jersey"
-- **Tagline:** "Expert Home Renovations & Electrical Services"
+- **Tagline:** "Expert Kitchen & Bathroom Renovations"
 - **Visual Elements:** Consider incorporating:
   - House/home icon
-  - Electrical bolt symbol
+  - Kitchen/bathroom renovation symbols
   - New Jersey state outline
   - Tools/craftsmanship imagery
 

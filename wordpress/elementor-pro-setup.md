@@ -163,7 +163,7 @@ CTA Button: "Free Estimate" (right)
 - Services
   - Kitchen Remodeling
   - Bathroom Renovation
-  - Electrical Services
+  - Home Renovations
 - About
 - Gallery
 - Contact
@@ -200,7 +200,7 @@ Navigation Hover Color: #1E3A8A
 2. **Services (Column 2)**
    - Kitchen Remodeling
    - Bathroom Renovation
-   - Electrical Services
+   - Home Renovations
    - Free Estimates
 
 3. **Contact Information (Column 3)**
@@ -220,7 +220,7 @@ Navigation Hover Color: #1E3A8A
 Company Name: Top Notch New Jersey
 Tagline: Licensed Kitchen & Bathroom Remodeling Contractor
 License: Licensed, Bonded & Insured
-Description: Professional home improvement services in New Jersey since 2018. Specializing in kitchen and bathroom remodeling with expert electrical work.
+Description: Professional home improvement services in New Jersey since 2018. Specializing in kitchen and bathroom remodeling and complete home renovations.
 
 Contact Information:
 Phone: [Business Phone Number]

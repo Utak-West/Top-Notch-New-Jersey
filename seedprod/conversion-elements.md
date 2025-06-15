@@ -226,7 +226,7 @@
 
 **Benefit-Focused:**
 1. "Get Your Dream Kitchen in 4-6 Weeks"
-2. "Save Money with Integrated Electrical & Renovation Services"
+2. "Save Money with Complete Kitchen & Bathroom Renovation Services"
 3. "Licensed, Bonded & Insured for Your Peace of Mind"
 
 ---

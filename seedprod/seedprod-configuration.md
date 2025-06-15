@@ -97,11 +97,11 @@ Overlay Color: #1E3A8A with 70% opacity
 **Bathroom Renovation:**
 - Icon: Bathroom/shower icon
 - Headline: "Bathroom Renovation"
-- Description: "Full bathroom renovations with professional electrical work and modern fixtures"
+- Description: "Full bathroom renovations with modern fixtures and professional installation"
 - CTA: "View Bathroom Services"
 
-**Electrical Services:**
-- Icon: Lightning bolt icon
+**Home Renovations:**
+- Icon: Home improvement icon
 - Headline: "Home Improvement Services"
 - Description: "Complete home renovation solutions for kitchens, bathrooms, and beyond"
 - CTA: "View All Services"
@@ -162,7 +162,7 @@ Overlay Color: #1E3A8A with 70% opacity
 
 4. **Service Interest** (Required)
    - Field Type: Select dropdown
-   - Options: "Kitchen Remodeling", "Bathroom Renovation", "Electrical Work", "Multiple Services"
+   - Options: "Kitchen Remodeling", "Bathroom Renovation", "Home Renovations", "Multiple Services"
 
 5. **Project Timeline** (Optional)
    - Field Type: Select dropdown

@@ -166,7 +166,7 @@ Factors affecting timeline include permit requirements, custom orders, and struc
 ### Do I need permits for my kitchen remodel?
 **Permit requirements vary by scope:**
 - **Cosmetic updates:** Usually no permits needed
-- **Electrical work:** May require permits and inspection
+- **Lighting and outlet updates:** May require permits and inspection
 - **Plumbing changes:** Permits required for relocations
 - **Structural changes:** Building permits required
 

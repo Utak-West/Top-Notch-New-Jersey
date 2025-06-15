@@ -14,13 +14,11 @@ Home | Services | About Pedro | Gallery | Contact | Get Estimate
 ├── 🔧 Services (/services/)
 │   ├── Kitchen Remodeling (/services/kitchen-remodeling/)
 │   ├── Bathroom Renovations (/services/bathroom-renovations/)
-│   ├── Electrical Services (/services/electrical-services/)
 │   └── General Home Improvements (/services/general-improvements/)
 ├── 👨‍🔧 About Pedro (/about/)
 ├── 📸 Project Gallery (/gallery/)
 │   ├── Kitchen Projects (/gallery/kitchens/)
-│   ├── Bathroom Projects (/gallery/bathrooms/)
-│   └── Electrical Work (/gallery/electrical/)
+│   └── Bathroom Projects (/gallery/bathrooms/)
 ├── 📞 Contact (/contact/)
 ├── 📝 Get Free Estimate (/estimate/)
 ├── 📍 Service Areas (/service-areas/)
@@ -114,7 +112,6 @@ Home | Services | About Pedro | Gallery | Contact | Get Estimate
 #### Service Pages (Revenue Drivers)
 - **Kitchen Remodeling** - Primary service focus
 - **Bathroom Renovations** - Secondary service focus
-- **Electrical Services** - Unique differentiator
 - **General Improvements** - Additional revenue
 
 #### Dynamic Content (SEO & Engagement)
@@ -179,7 +176,6 @@ Home | Services | About Pedro | Gallery | Contact | Get Estimate
 Domain: topnotchnewjersey.com
 ├── /services/kitchen-remodeling-nj/
 ├── /services/bathroom-renovation-linden-nj/
-├── /services/electrical-contractor-union-county/
 ├── /gallery/kitchen-remodels-new-jersey/
 ├── /service-areas/linden-nj-home-improvement/
 └── /blog/kitchen-renovation-tips-nj/

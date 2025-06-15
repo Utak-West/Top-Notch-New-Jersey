@@ -117,10 +117,10 @@ Unlike large contracting companies, Pedro personally manages every project from 
 - **Personal Investment:** Pedro's reputation depends on every project's success
 
 ### Integrated Project Management
-Pedro's dual expertise allows for seamless project coordination:
-- **Design Phase:** Electrical needs integrated into initial planning
+Pedro's comprehensive expertise allows for seamless project coordination:
+- **Design Phase:** All renovation needs integrated into initial planning
 - **Permitting:** Single contractor handles all permit applications
-- **Execution:** No delays waiting for electrical subcontractors
+- **Execution:** No delays waiting for subcontractors
 - **Quality Control:** One person responsible for all aspects
 - **Warranty:** Single point of contact for any post-project needs
 

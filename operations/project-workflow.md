@@ -48,10 +48,10 @@
 
 ### Lead Qualification Criteria
 **High-Priority Leads:**
-- **Budget Range:** $15,000+ for renovations, any amount for electrical
+- **Budget Range:** $15,000+ for renovations
 - **Timeline:** Within 6 months
 - **Service Area:** Primary coverage area (Union, Essex, Middlesex, Bergen Counties)
-- **Project Fit:** Kitchen, bathroom, electrical services
+- **Project Fit:** Kitchen, bathroom, home renovation services
 - **Decision Maker:** Speaking with homeowner or authorized decision maker
 
 **Qualification Questions:**
@@ -138,7 +138,6 @@
 **Pricing Structure:**
 - [ ] Material costs with supplier quotes
 - [ ] Labor calculations based on scope
-- [ ] Electrical work pricing (no markup advantage)
 - [ ] Permit and inspection fees
 - [ ] Project management and overhead allocation
 
@@ -152,7 +151,6 @@
 **Detailed Scope of Work:**
 - Phase-by-phase work breakdown
 - Material specifications and allowances
-- Electrical work detailed separately
 - Permit and inspection requirements
 - Cleanup and final walkthrough process
 
@@ -240,10 +238,10 @@
 
 ### Quality Control Checkpoints
 **Daily Quality Inspections:**
-- [ ] Electrical work meets code requirements
 - [ ] Installation quality meets standards
 - [ ] Materials match specifications
 - [ ] Work area safety and cleanliness
+- [ ] All work meets code requirements
 
 **Phase Completion Reviews:**
 - [ ] Rough-in work inspection before covering

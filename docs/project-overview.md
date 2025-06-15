@@ -36,13 +36,13 @@ Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specia
 **Primary Services (85% of revenue):**
 1. **Kitchen Remodeling** - $10K to $100K+ projects
 2. **Bathroom Renovations** - $8K to $80K+ projects
-3. **Electrical Services** - $150/hour service calls to $12K whole house rewiring
+3. **Home Renovations** - $5K to $50K+ multi-room projects
 
 **Secondary Services (15% of revenue):**
 - General home improvements
 - Smart home integration
-- Emergency electrical services
 - Maintenance and inspection services
+- Minor repairs and updates
 
 ### Target Customer Segments
 **Primary Market:**
@@ -56,7 +56,7 @@ Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specia
 **Key Differentiators:**
 1. Licensed Home Improvement Contractor with comprehensive expertise
 2. Local Linden, NJ focus with community connections
-3. Transparent pricing with no hidden electrical costs
+3. Transparent pricing with comprehensive project estimates
 4. Personal involvement from licensed owner
 
 ---
@@ -71,7 +71,7 @@ Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specia
 │   └── customer-acquisition.md    # Lead generation & conversion strategy
 ├── 📂 content/                    # Website content modules
 │   ├── homepage/                  # Hero sections & landing page content
-│   ├── services/                  # Kitchen, bathroom, electrical service pages
+│   ├── services/                  # Kitchen, bathroom, home renovation service pages
 │   ├── about/                     # Pedro's story & company background
 │   ├── contact/                   # Contact forms & conversion optimization
 │   └── portfolio/                 # Project gallery & success stories
@@ -100,7 +100,7 @@ Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specia
 ### Content Development Status
 **Completed Content (100%):**
 - ✅ Business strategy documentation
-- ✅ Service page content (kitchen, bathroom, electrical)
+- ✅ Service page content (kitchen, bathroom, home renovations)
 - ✅ Contact page and estimate forms
 - ✅ About page and Pedro's story
 - ✅ Project portfolio structure

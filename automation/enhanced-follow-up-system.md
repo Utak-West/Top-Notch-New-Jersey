@@ -36,7 +36,7 @@ ESTIMATE DELIVERY (Day 3)
 
 DECISION SUPPORT (Week 1)
 ├── References from similar Union/Essex/Middlesex projects
-├── Electrical work explanation (why Licensed Contractor matters)
+├── Licensed Contractor coordination advantages
 ├── Financing options (if applicable)
 └── Permit and inspection process overview
 
@@ -80,7 +80,7 @@ Here's what happens next:
 → You'll receive a detailed estimate within 24 hours
 
 LICENSED CONTRACTOR ADVANTAGE:
-Unlike other contractors, I handle electrical coordination personally - no subcontractor markups, no coordination issues.
+Unlike other contractors, I handle all trade coordination personally - no subcontractor markups, no coordination issues.
 
 Questions before we talk? Reply to this email or call me directly at (XXX) XXX-XXXX.
 
@@ -106,7 +106,7 @@ YOUR PROJECT DETAILS:
 → Kitchen size: [Size from call]
 → Timeline: [Timeline from call]
 → Key features: [Features discussed]
-→ Electrical work needed: [Electrical requirements]
+→ Technical requirements: [Technical specifications]
 
 NEXT STEPS:
 → In-home consultation scheduled for [Date/Time]
@@ -115,8 +115,8 @@ NEXT STEPS:
 → Written estimate delivered within 24 hours of visit
 
 LICENSED CONTRACTOR ADVANTAGE FOR YOUR PROJECT:
-→ No electrical subcontractor markup (typically saves $2,000-5,000)
-→ Seamless coordination between renovation and electrical work
+→ No subcontractor markup on technical work (typically saves $2,000-5,000)
+→ Seamless coordination between all renovation trades
 → All work done to code by licensed professional
 → Single point of contact throughout project
 
@@ -135,16 +135,16 @@ Subject: Your Kitchen Remodeling Estimate - No Electrical Markups Included
 
 Dear [Name],
 
-Attached is your detailed kitchen remodeling estimate. As promised, this includes all electrical work at cost - no subcontractor markups.
+Attached is your detailed kitchen remodeling estimate. As promised, this includes all technical work at cost - no subcontractor markups.
 
 ESTIMATE HIGHLIGHTS:
 → Total Investment: $[Amount]
-→ Electrical Work Included: $[Amount] (typically marked up 25-40% by other contractors)
+→ Technical Work Included: $[Amount] (typically marked up 25-40% by other contractors)
 → Your Savings: $[Savings Amount]
 → Timeline: [Timeline]
 
 WHY CHOOSE TOP NOTCH:
-✓ Licensed Contractor handles electrical coordination personally
+✓ Licensed Contractor handles all trade coordination personally
 ✓ No coordination issues between trades
 ✓ All work guaranteed and code compliant
 ✓ 15+ years of New Jersey renovation experience
@@ -184,9 +184,9 @@ RECENT [COUNTY] PROJECTS:
 CUSTOMER REFERENCES:
 I'd be happy to connect you with recent customers who had similar projects. They can share their experience working with us and seeing the Licensed Contractor advantage firsthand.
 
-ELECTRICAL CONSIDERATIONS FOR YOUR BATHROOM:
-→ GFCI outlets (required by code)
-→ Exhaust fan upgrade for proper ventilation
+TECHNICAL CONSIDERATIONS FOR YOUR BATHROOM:
+→ Proper ventilation systems
+→ Code-compliant installations
 → Heated floor systems (popular upgrade)
 → Smart lighting and mirror features
 

@@ -23,7 +23,7 @@ The existing lead capture system provides excellent foundation elements that are
 ```
 Kitchen Size: Small/Medium/Large/Galley/Open Concept
 Renovation Level: Refresh ($10K-25K) / Standard ($30K-55K) / Luxury ($60K+)
-Electrical Work: Outlets, Lighting, Appliances, Island, Panel, None
+Special Features: Island, Custom Cabinets, Premium Countertops, Appliance Package
 Timeline: ASAP / 1 month / 3 months / Planning
 Contact Info: Name, Email, Phone, Address
 ```
