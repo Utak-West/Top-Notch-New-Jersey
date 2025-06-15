@@ -182,12 +182,12 @@ Field Label: Project Highlights
 Field Name: project_highlights
 Field Type: Checkbox
 Choices:
-- electrical_work : Professional Electrical Work
 - custom_cabinetry : Custom Cabinetry
 - luxury_finishes : Luxury Finishes
 - accessibility : Accessibility Features
 - smart_home : Smart Home Integration
 - energy_efficient : Energy Efficient Upgrades
+- professional_installation : Professional Installation
 Instructions: Select applicable highlights for marketing
 Required: No
 ```
@@ -243,8 +243,8 @@ Choices:
 - kitchen : Kitchen Remodeling
 - bathroom : Bathroom Renovation
 - complete_home : Complete Home Remodel
-- electrical : Electrical Work
 - accessibility : Accessibility Modifications
+- home_renovation : Home Renovation
 Required: Yes
 ```
 
@@ -432,8 +432,8 @@ Choices:
 - kitchen : Kitchen Remodeling
 - bathroom : Bathroom Renovation
 - complete_home : Complete Home Remodel
-- electrical : Electrical Work
 - accessibility : Accessibility Modifications
+- home_renovation : Home Renovation
 Instructions: Services actively promoted in this area
 Required: Yes
 ```

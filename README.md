@@ -6,7 +6,7 @@
 [![SeedProd](https://img.shields.io/badge/SeedProd-Pro-green.svg)](https://www.seedprod.com/)
 [![Devin AI Ready](https://img.shields.io/badge/Devin_AI-Optimized-purple.svg)](https://devin.ai/)
 
-> **Expert Kitchen & Bathroom Remodeling | Licensed General Contractor | Serving New Jersey Since 2018**
+> **Expert Kitchen & Bathroom Remodeling | Licensed Home Improvement Contractor | Serving New Jersey Since 2018**
 
 ## AI Integration & Repository Intelligence
 
@@ -37,21 +37,21 @@ This repository is specifically structured for optimal AI analysis and collabora
 
 ## About Top Notch New Jersey
 
-Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specializing in kitchen and bathroom remodeling throughout New Jersey. As a licensed General Contractor (#13VH13054200) with over 15 years of experience, Pedro offers professional craftsmanship and quality service for complete home renovations.
+Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specializing in kitchen and bathroom remodeling throughout New Jersey. As a licensed Home Improvement Contractor (#13VH13054200) with over 15 years of experience, Pedro offers a unique advantage: expert craftsmanship and quality renovations with comprehensive project management.
 
 ### Core Specializations
 - **Kitchen Remodeling** - Complete transformations from $10K to $100K+
 - **Bathroom Renovations** - Luxury upgrades and accessibility modifications
-- **Complete Home Remodels** - Whole house renovation projects
+- **Home Improvements** - Comprehensive renovation solutions
 - **General Home Improvements** - Comprehensive renovation solutions
 
 ### Service Areas
 **Primary:** Linden, NJ (Headquarters)
 **Coverage:** Union County, Essex County, Middlesex County, Bergen County and beyond
 
-### Credentials & Trust Indicators
+### 🏆 Credentials & Trust Indicators
 - **Licensed:** NJ Home Improvement Contractor License #13VH13054200
-- **General Contractor** - Professional renovation expertise
+- **Licensed Contractor** - Professional expertise and accountability
 - **Bonded & Insured** - Complete protection for all projects
 - **Established 2018** - 6+ years of proven excellence
 
@@ -212,7 +212,7 @@ For detailed documentation, see [`scripts/README.md`](scripts/README.md).
 
 ## Contact Information
 
-**Pedro Ribeiro - Owner & General Contractor**
+**Pedro Ribeiro - Owner & Licensed Home Improvement Contractor**
 - **Phone:** [To be updated with actual number]
 - **Email:** info@topnotchnewjersey.com
 - **Address:** Linden, NJ

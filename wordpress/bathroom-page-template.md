@@ -26,7 +26,7 @@
     <p class="hero-subtitle">Transform your bathroom with expert craftsmanship and modern design. From accessibility modifications to luxury spa bathrooms.</p>
     
     <div class="hero-credentials">
-      <span class="credential-badge">Licensed Master Electrician #13VH13054200</span>
+      <span class="credential-badge">Licensed Home Improvement Contractor</span>
       <span class="service-area">Serving Union, Essex, Middlesex & Bergen Counties</span>
     </div>
     
@@ -104,12 +104,12 @@
   
   <div class="overview-highlights">
     <div class="highlight-box">
-      <h3>The Master Electrician Advantage</h3>
+      <h3>The Professional Contractor Advantage</h3>
       <div class="advantage-item">
         <span class="advantage-icon">✓</span>
         <div class="advantage-text">
-          <strong>Professional Electrical Work</strong>
-          <p>GFCI outlets, exhaust fans, and lighting - all handled by Pedro directly</p>
+          <strong>Complete Project Management</strong>
+          <p>All technical aspects including outlets, ventilation, and lighting coordinated by Pedro</p>
         </div>
       </div>
       
@@ -280,7 +280,7 @@
 <title>Bathroom Renovation NJ | Professional Design & Installation | Top Notch New Jersey</title>
 
 <!-- Meta Description -->
-<meta name="description" content="Expert bathroom renovation in NJ by licensed Master Electrician. Accessibility modifications to luxury spa bathrooms. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.">
+<meta name="description" content="Expert bathroom renovation in NJ by licensed home improvement contractor. Accessibility modifications to luxury spa bathrooms. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.">
 
 <!-- Local Keywords -->
 <meta name="keywords" content="bathroom renovation NJ, bathroom remodeling New Jersey, accessible bathroom contractor, luxury bathroom Union County, Linden NJ contractor">

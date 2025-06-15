@@ -89,7 +89,7 @@ content/services/
 ### Business Information Consistency
 **Pedro's Credentials (Must Match Across All Files):**
 - License Number: `NJ Home Improvement Contractor #13VH13054200`
-- Title: `Licensed General Contractor`
+- Title: `Licensed Home Improvement Contractor`
 - Company: `Top Notch New Jersey`
 - Location: `Linden, NJ`
 - Established: `2018`

@@ -3,7 +3,7 @@
 ---
 **Document Type:** Email Marketing Strategy & Automation Workflows
 **Project:** Top Notch New Jersey Customer Communication
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -59,7 +59,7 @@
 **Service Interest:**
 - **Kitchen Remodeling:** Expressed interest in kitchen projects
 - **Bathroom Renovation:** Bathroom project inquiries
-- **Electrical Services:** Electrical work requests
+- **Home Renovations:** Complete home improvement requests
 - **Multiple Services:** Interest in comprehensive renovations
 
 ---
@@ -72,23 +72,23 @@
 **Subject:** "Welcome to Top Notch New Jersey - Your Renovation Journey Starts Here"
 **Content:**
 - Personal welcome from Pedro
-- Company overview and Master Electrician advantage
+- Company overview and Licensed Contractor advantage
 - What to expect in upcoming emails
 - Contact information and consultation booking link
 
 #### Email 2: Pedro's Story & Credentials (Day 2)
-**Subject:** "Meet Pedro - Your Licensed Master Electrician & Renovation Expert"
+**Subject:** "Meet Pedro - Your Licensed Home Improvement Contractor & Renovation Expert"
 **Content:**
 - Pedro's background and expertise
-- Master Electrician license and credentials
-- Why integrated electrical and renovation services matter
+- Licensed Home Improvement Contractor credentials
+- Why comprehensive renovation services matter
 - Local Linden, NJ connection and community involvement
 
 #### Email 3: The Top Notch Difference (Day 4)
 **Subject:** "Why Top Notch Saves You Time, Money, and Stress"
 **Content:**
 - Unique value proposition explanation
-- Cost savings from no electrical subcontractor markup
+- Cost savings from comprehensive renovation services
 - Single-source accountability benefits
 - Customer testimonials and success stories
 
@@ -97,7 +97,7 @@
 **Content:**
 - Before/after kitchen project gallery
 - Investment levels and what's included
-- Electrical integration examples
+- Professional installation examples
 - Free consultation offer
 
 #### Email 5: Bathroom Renovation Examples (Day 8)
@@ -158,9 +158,9 @@
 **Subject:** "Caring for Your New [Kitchen/Bathroom] - Maintenance Tips"
 **Content:**
 - Specific maintenance instructions for completed work
-- Electrical system care and safety tips
+- Home maintenance and safety tips
 - Warranty information and contact details
-- Additional services offer (other rooms, electrical work)
+- Additional services offer (other rooms, home improvements)
 
 #### Email 3: Referral Program Introduction (3 months after completion)
 **Subject:** "Love Your New [Kitchen/Bathroom]? Share the Love!"
@@ -183,10 +183,10 @@
 - Loyalty program benefits
 
 #### Email 2: Seasonal Maintenance Reminders
-**Spring Email - "Spring Home Electrical Safety Checklist"**
-**Summer Email - "Summer Electrical Safety & Outdoor Projects"**
-**Fall Email - "Fall Electrical Maintenance & Winter Prep"**
-**Winter Email - "Winter Electrical Safety & Indoor Projects"**
+**Spring Email - "Spring Home Maintenance Checklist"**
+**Summer Email - "Summer Home Safety & Outdoor Projects"**
+**Fall Email - "Fall Home Maintenance & Winter Prep"**
+**Winter Email - "Winter Home Safety & Indoor Projects"**
 
 ---
 
@@ -200,16 +200,16 @@
 **Content Focus:**
 - Spring renovation motivation
 - Kitchen project portfolio
-- Electrical upgrade benefits
+- Professional installation benefits
 - Limited-time offer urgency
 
 #### Summer Campaign: "Beat the Heat - Bathroom Renovations"
 **Timeline:** June - August
-**Offer:** Free electrical consultation with bathroom renovation
+**Offer:** Free design consultation with bathroom renovation
 **Content Focus:**
 - Summer renovation advantages
 - Bathroom cooling and ventilation
-- Electrical safety in wet areas
+- Professional installation in wet areas
 - Vacation rental preparation
 
 #### Fall Campaign: "Prepare for the Holidays"

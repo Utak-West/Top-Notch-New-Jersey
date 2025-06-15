@@ -3,7 +3,7 @@
 ---
 **Document Type:** Step-by-Step SeedProd Landing Page Creation
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **Created:** June 2024
 **Version:** 1.0
 **Status:** Ready for Implementation
@@ -32,7 +32,7 @@
 **Hero Section Setup:**
 ```
 Primary Headline: "Expert Kitchen & Bathroom Remodeling in New Jersey"
-Secondary Headline: "Licensed Master Electrician • 15+ Years Experience • Free Estimates"
+Secondary Headline: "Licensed Home Improvement Contractor • 15+ Years Experience • Free Estimates"
 Trust Badge: "Licensed, Bonded & Insured - NJ License #13VH13"
 ```
 
@@ -47,20 +47,20 @@ Trust Badge: "Licensed, Bonded & Insured - NJ License #13VH13"
 Kitchen Remodeling:
 - Complete kitchen transformations
 - Custom cabinetry and countertops
-- Electrical work included (no subcontractors)
+- Professional installation and coordination
 - Investment: $10K - $100K+
 
 Bathroom Renovations:
 - Luxury bathroom upgrades
 - Accessibility modifications
-- Master Electrician advantage
+- Professional renovation expertise
 - Investment: $8K - $80K+
 
-Electrical Services:
-- Licensed Master Electrician
-- Panel upgrades and rewiring
-- Smart home integration
-- Emergency services available
+General Home Improvements:
+- Complete renovation solutions
+- Quality craftsmanship guaranteed
+- Custom design and installation
+- Professional project management
 ```
 
 ### Phase 3: Form Configuration
@@ -70,7 +70,7 @@ Electrical Services:
    - Name (required)
    - Phone (required)
    - Email (required)
-   - Service Interest (dropdown: Kitchen, Bathroom, Electrical, General)
+   - Service Interest (dropdown: Kitchen, Bathroom, Home Renovation, General)
    - Project Timeline (dropdown: ASAP, 1-3 months, 3-6 months, Planning)
 
 2. **Form Styling:**
@@ -87,7 +87,7 @@ Electrical Services:
 
 **Trust Badges Section:**
 - NJ Home Improvement License #13VH13
-- Master Electrician certification
+- Licensed Home Improvement Contractor
 - Bonded & Insured badges
 - Years of experience (15+ years)
 - Service area coverage (Union, Essex, Middlesex, Bergen Counties)
@@ -136,8 +136,8 @@ Professional Service: Quality Craftsmanship Guaranteed
 ### Phase 7: SEO Configuration
 
 **SEO Settings in SeedProd:**
-1. **Page Title:** "Kitchen & Bathroom Remodeling NJ | Licensed Master Electrician | Top Notch"
-2. **Meta Description:** "Expert kitchen & bathroom remodeling in New Jersey. Licensed Master Electrician with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex, Bergen Counties."
+1. **Page Title:** "Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch"
+2. **Meta Description:** "Expert kitchen & bathroom remodeling in New Jersey. Licensed Home Improvement Contractor with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex, Bergen Counties."
 3. **URL Slug:** /home-improvement-nj or /kitchen-bathroom-remodeling-nj
 4. **Schema Markup:** Enable LocalBusiness schema
 
@@ -200,7 +200,7 @@ Professional Service: Quality Craftsmanship Guaranteed
 - `/content/homepage/hero-section.md` - Hero content and CTAs
 - `/content/services/kitchen-remodeling.md` - Kitchen service details
 - `/content/services/bathroom-remodeling.md` - Bathroom service details
-- `/content/services/electrical-services.md` - Electrical service details
+- `/content/services/home-renovations.md` - Home renovation service details
 - `/content/about/pedro-story.md` - Trust and credibility content
 - `/content/contact/contact-page.md` - Contact information
 

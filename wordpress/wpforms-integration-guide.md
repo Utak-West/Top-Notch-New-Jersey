@@ -23,7 +23,7 @@ The existing lead capture system provides excellent foundation elements that are
 ```
 Kitchen Size: Small/Medium/Large/Galley/Open Concept
 Renovation Level: Refresh ($10K-25K) / Standard ($30K-55K) / Luxury ($60K+)
-Electrical Work: Outlets, Lighting, Appliances, Island, Panel, None
+Special Features: Island, Custom Cabinets, Premium Countertops, Appliance Package
 Timeline: ASAP / 1 month / 3 months / Planning
 Contact Info: Name, Email, Phone, Address
 ```
@@ -97,13 +97,13 @@ Timeline Urgency (0-20 points):
 <!-- SeedProd Landing Page Integration -->
 <div class="hero-conversion-section">
   <h1>Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts</h1>
-  <p>Licensed Master Electrician Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties</p>
+  <p>Licensed Home Improvement Contractor Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties</p>
   
   <!-- WPForms Pro Multi-Step Form -->
   [wpforms id="1001" title="false" description="false"]
   
   <div class="trust-indicators">
-    <span>✓ Licensed Master Electrician #13VH13054200</span>
+    <span>✓ Licensed Home Improvement Contractor</span>
     <span>✓ Bonded & Insured</span>
     <span>✓ 15+ Years Experience</span>
     <span>✓ Local Linden, NJ Business</span>

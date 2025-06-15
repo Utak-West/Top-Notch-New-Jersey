@@ -1,0 +1,119 @@
+{
+  "menu_name": "Top Notch New Jersey Main Navigation",
+  "menu_location": "primary",
+  "menu_structure": [
+    {
+      "item_id": "home",
+      "title": "Home",
+      "url": "/",
+      "type": "page",
+      "position": 1,
+      "description": "Homepage with hero section and service overview"
+    },
+    {
+      "item_id": "services",
+      "title": "Services",
+      "url": "#",
+      "type": "dropdown_parent",
+      "position": 2,
+      "description": "Main services dropdown menu",
+      "submenu": [
+        {
+          "item_id": "kitchen-remodeling",
+          "title": "Kitchen Remodeling",
+          "url": "/services/kitchen-remodeling",
+          "type": "page",
+          "position": 1,
+          "description": "Complete kitchen renovation services"
+        },
+        {
+          "item_id": "bathroom-renovation",
+          "title": "Bathroom Renovation",
+          "url": "/services/bathroom-renovation",
+          "type": "page",
+          "position": 2,
+          "description": "Full bathroom remodeling and upgrades"
+        },
+        {
+          "item_id": "home-renovations",
+          "title": "Home Renovations",
+          "url": "/services/home-renovations",
+          "type": "page",
+          "position": 3,
+          "description": "Multi-room and whole home renovation projects"
+        }
+      ]
+    },
+    {
+      "item_id": "portfolio",
+      "title": "Portfolio",
+      "url": "/portfolio",
+      "type": "page",
+      "position": 3,
+      "description": "Project gallery with before/after photos"
+    },
+    {
+      "item_id": "about",
+      "title": "About Pedro",
+      "url": "/about",
+      "type": "page",
+      "position": 4,
+      "description": "About Pedro Ribeiro and Top Notch New Jersey"
+    },
+    {
+      "item_id": "contact",
+      "title": "Contact",
+      "url": "/contact",
+      "type": "page",
+      "position": 5,
+      "description": "Contact information and estimate request form"
+    },
+    {
+      "item_id": "free-estimate",
+      "title": "Free Estimate",
+      "url": "/contact#main-contact-form",
+      "type": "cta_button",
+      "position": 6,
+      "description": "Primary CTA button in navigation",
+      "styling": {
+        "background_color": "#10B981",
+        "text_color": "#FFFFFF",
+        "border_radius": "8px",
+        "padding": "12px 24px",
+        "font_weight": "600"
+      }
+    }
+  ],
+  "mobile_menu": {
+    "hamburger_style": "three_lines",
+    "overlay_background": "#1B365D",
+    "text_color": "#FFFFFF",
+    "close_icon": "x_mark",
+    "animation": "slide_from_right"
+  },
+  "menu_styling": {
+    "desktop": {
+      "background_color": "#FFFFFF",
+      "text_color": "#374151",
+      "hover_color": "#1B365D",
+      "active_color": "#1B365D",
+      "font_size": "16px",
+      "font_weight": "500",
+      "padding": "20px 0"
+    },
+    "dropdown": {
+      "background_color": "#FFFFFF",
+      "border": "1px solid #E5E7EB",
+      "box_shadow": "0 4px 20px rgba(0, 0, 0, 0.1)",
+      "border_radius": "8px",
+      "min_width": "220px"
+    }
+  },
+  "sticky_header": {
+    "enabled": true,
+    "scroll_distance": "100px",
+    "background_color": "#FFFFFF",
+    "box_shadow": "0 2px 10px rgba(0, 0, 0, 0.1)",
+    "logo_size_reduction": "80%"
+  }
+}

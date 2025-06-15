@@ -7,7 +7,7 @@
 
 ### Target Audience
 - New Jersey homeowners considering kitchen/bathroom renovations
-- Property owners needing electrical work
+- Property owners planning home improvement projects
 - Referrals from existing customers
 - Local search traffic for home improvement services
 
@@ -20,7 +20,7 @@
 🏠 HERO SECTION
 ├── Trust Badge: "Licensed, Bonded & Insured #13VH13"
 ├── Headline: "Expert Kitchen & Bathroom Remodeling in New Jersey"
-├── Subheadline: "Licensed Master Electrician • 15+ Years Experience • Free Estimates"
+├── Subheadline: "Licensed Home Improvement Contractor • 15+ Years Experience • Free Estimates"
 ├── Primary CTA: "Get Your Free Estimate" (Large, prominent button)
 ├── Secondary CTA: "Call (XXX) XXX-XXXX" (Click-to-call)
 └── Hero Image: High-quality before/after kitchen transformation
@@ -49,11 +49,11 @@
 │   ├── Title: "Bathroom Upgrades"
 │   ├── Description: "Luxury renovations & accessibility modifications"
 │   └── CTA: "Get Bathroom Quote"
-└── Electrical Services
-    ├── Icon: Lightning bolt/electrical symbol
-    ├── Title: "Master Electrician"
-    ├── Description: "Expert electrical work for all projects"
-    └── CTA: "Get Electrical Quote"
+└── Home Improvements
+    ├── Icon: Home/renovation symbol
+    ├── Title: "General Contracting"
+    ├── Description: "Complete home improvement solutions"
+    └── CTA: "Get Project Quote"
 ```
 
 ### Social Proof Section
@@ -61,7 +61,7 @@
 ⭐ TESTIMONIALS CAROUSEL
 ├── Testimonial 1: Kitchen remodel success story
 ├── Testimonial 2: Bathroom renovation praise
-├── Testimonial 3: Electrical work satisfaction
+├── Testimonial 3: Home improvement satisfaction
 └── Trust Elements: Star ratings, customer photos
 ```
 
@@ -69,9 +69,9 @@
 ```
 👨‍🔧 ABOUT SECTION
 ├── Professional Photo: Pedro on job site
-├── Headline: "Meet Pedro Ribeiro - Your Master Electrician"
+├── Headline: "Meet Pedro Ribeiro - Your Licensed Contractor"
 ├── Credentials: License, experience, local focus
-├── Value Proposition: Integrated electrical + renovation expertise
+├── Value Proposition: Expert kitchen & bathroom renovation specialist
 └── CTA: "Schedule Consultation"
 ```
 
@@ -80,7 +80,7 @@
 📸 BEFORE/AFTER SHOWCASE
 ├── Kitchen Projects: 3-4 high-impact transformations
 ├── Bathroom Projects: 3-4 stunning renovations
-├── Filter Tabs: Kitchen | Bathroom | Electrical
+├── Filter Tabs: Kitchen | Bathroom | Home Improvements
 └── CTA: "See More Projects"
 ```
 
@@ -189,7 +189,7 @@ Font Sizes: Mobile-optimized hierarchy
 
 ### Primary Conversion Points
 1. **Hero CTA Button** - "Get Your Free Estimate"
-2. **Service-Specific CTAs** - Kitchen, Bathroom, Electrical quotes
+2. **Service-Specific CTAs** - Kitchen, Bathroom, Home Improvement quotes
 3. **Phone Number** - Click-to-call functionality
 4. **Contact Form** - Detailed estimate request
 5. **Consultation Booking** - Meet Pedro CTA

@@ -163,7 +163,7 @@ CTA Button: "Free Estimate" (right)
 - Services
   - Kitchen Remodeling
   - Bathroom Renovation
-  - Electrical Services
+  - Home Renovations
 - About
 - Gallery
 - Contact
@@ -200,7 +200,7 @@ Navigation Hover Color: #1E3A8A
 2. **Services (Column 2)**
    - Kitchen Remodeling
    - Bathroom Renovation
-   - Electrical Services
+   - Home Renovations
    - Free Estimates
 
 3. **Contact Information (Column 3)**
@@ -219,8 +219,8 @@ Navigation Hover Color: #1E3A8A
 ```
 Company Name: Top Notch New Jersey
 Tagline: Licensed Kitchen & Bathroom Remodeling Contractor
-License: Licensed Master Electrician #13VH13054200
-Description: Professional home improvement services in New Jersey since 2018. Specializing in kitchen and bathroom remodeling with expert electrical work.
+License: Licensed, Bonded & Insured
+Description: Professional home improvement services in New Jersey since 2018. Specializing in kitchen and bathroom remodeling and complete home renovations.
 
 Contact Information:
 Phone: [Business Phone Number]
@@ -229,7 +229,7 @@ Address: Linden, NJ [Full Address]
 Hours: Monday-Friday 8AM-6PM, Saturday 9AM-4PM
 
 Copyright: © 2024 Top Notch New Jersey. All rights reserved.
-Legal: Licensed, Bonded & Insured | NJ Home Improvement Contractor License #13VH13054200
+Legal: Licensed, Bonded & Insured | NJ Home Improvement Contractor
 ```
 
 ### Footer Styling
@@ -325,11 +325,11 @@ Full Width: 1920x1080
 ### Meta Tags Configuration
 **Homepage:**
 - Title: "Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey"
-- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Master Electrician Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
+- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Home Improvement Contractor Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
 
 **Service Pages:**
 - Kitchen: "Kitchen Remodeling NJ | Custom Designs | Licensed Contractor"
-- Bathroom: "Bathroom Renovation NJ | Luxury Upgrades | Master Electrician"
+- Bathroom: "Bathroom Renovation NJ | Luxury Upgrades | Licensed Contractor"
 
 ## 🔗 Third-Party Integrations
 

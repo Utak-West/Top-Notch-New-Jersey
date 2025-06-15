@@ -161,7 +161,7 @@ def print_banner():
     ║              WordPress Automation Suite                      ║
     ║                                                              ║
     ║        🏠 Kitchen & Bathroom Renovation Specialists         ║
-    ║        ⚡ Licensed Master Electrician #13VH13               ║
+    ║        ⚡ Licensed Home Improvement Contractor              ║
     ║        🔧 Automated Site Management & Lead Generation       ║
     ╚══════════════════════════════════════════════════════════════╝
     """

@@ -3,7 +3,7 @@
 ---
 **Document Type:** Advanced Lead Generation & Conversion Optimization System
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0 - Kitchen & Bathroom Focus
@@ -44,7 +44,7 @@
   
   <div class="trust-indicators">
     <span>→ Kitchen & Bathroom Specialists</span>
-    <span>→ Master Electrician Licensed</span>
+    <span>→ Licensed Home Improvement Contractor</span>
     <span>→ No Electrical Subcontractor Markups</span>
     <span>→ 15+ Years Experience</span>
   </div>
@@ -60,7 +60,7 @@
 ```html
 <div class="kitchen-estimator-widget">
   <h3>Get Your Kitchen Remodeling Estimate</h3>
-  <p><strong>Master Electrician Advantage:</strong> No electrical subcontractor fees - Pedro handles it all!</p>
+  <p><strong>Licensed Contractor Advantage:</strong> No electrical subcontractor fees - Pedro handles coordination directly!</p>
   
   <form class="kitchen-capture-form">
     <div class="form-section">
@@ -134,7 +134,7 @@
     </button>
     
     <p class="form-footer">
-      <span>→ Master Electrician Pedro will personally review your project</span><br>
+      <span>→ Licensed Contractor Pedro will personally review your project</span><br>
       <span>→ We respond within 2 hours during business hours</span><br>
       <span>→ Free in-home consultation included</span>
     </p>
@@ -221,7 +221,7 @@
     
     <p class="form-footer">
       <span>→ Complete renovation expertise from design to finish</span><br>
-      <span>→ Master Electrician handles all electrical work</span><br>
+      <span>→ Licensed contractor handles all electrical coordination</span><br>
       <span>→ Free consultation and detailed estimate</span>
     </p>
   </form>
@@ -298,7 +298,7 @@
     
     <p class="form-footer">
       <span>→ Comprehensive project planning and coordination</span><br>
-      <span>→ Master Electrician expertise throughout</span><br>
+      <span>→ Licensed contractor expertise throughout</span><br>
       <span>→ Single point of contact for entire project</span>
     </p>
   </form>
@@ -361,7 +361,7 @@
   <!-- Planned Project Tab -->
   <div id="planned" class="tab-content">
     <h3>Electrical Project Planning</h3>
-    <p>Master Electrician Pedro will design the perfect electrical solution</p>
+    <p>Licensed Contractor Pedro will design the perfect renovation solution</p>
 
     <form class="planned-electrical-form">
       <div class="project-type">
@@ -478,7 +478,7 @@
   <h2>Serving Linden, Elizabeth, Plainfield, Westfield & All Union County</h2>
 
   <div class="local-credibility">
-    <p>Pedro Ribeiro, Master Electrician #13VH13, personally serves Union County families</p>
+    <p>Pedro Ribeiro, Licensed Home Improvement Contractor, personally serves Union County families</p>
     <div class="local-indicators">
       <span>→ 500+ Union County Projects Completed</span>
       <span>→ No Travel Fees Within County</span>
@@ -535,7 +535,7 @@
   <h2>Serving Newark, Montclair, East Orange, Bloomfield & All Essex County</h2>
 
   <div class="local-credibility">
-    <p>Master Electrician Pedro Ribeiro brings 15+ years of Essex County renovation experience</p>
+    <p>Licensed Home Improvement Contractor Pedro Ribeiro brings 15+ years of Essex County renovation experience</p>
     <div class="local-indicators">
       <span>→ Essex County Code Expert</span>
       <span>→ Historic Home Renovation Specialist</span>

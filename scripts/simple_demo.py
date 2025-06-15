@@ -19,7 +19,7 @@ def print_banner():
 ║                     WordPress Automation Demo Suite                         ║
 ║                                                                              ║
 ║    🏠 Kitchen & Bathroom Renovation Specialists                            ║
-║    ⚡ Licensed Master Electrician #13VH13                                  ║
+║    ⚡ Licensed Home Improvement Contractor                               ║
 ║    🔧 Advanced WordPress/Elementor Automation                              ║
 ║    📊 Lead Generation & CRM Integration                                     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -122,7 +122,7 @@ def demo_webhook_integration():
             'email': 'sarah.johnson@email.com',
             'phone': '(908) 555-7890',
             'address': '456 Oak Street, Linden, NJ 07036',
-            'message': 'I need a complete kitchen renovation with new cabinets, countertops, and electrical work. Budget is around $40k. Looking for a quote ASAP!',
+            'message': 'I need a complete kitchen renovation with new cabinets, countertops, and appliances. Budget is around $40k. Looking for a quote ASAP!',
             'subject': 'Kitchen Renovation Quote Request',
             'expected_score': 85,
             'priority': 'HIGH'
@@ -340,7 +340,7 @@ def main():
     print(f"\n✅ Demo completed successfully!")
     print(f"🏠 Ready to transform your home improvement business with automation!")
     print(f"\n📞 Contact Top Notch New Jersey for implementation:")
-    print(f"   • Licensed Master Electrician #13VH13")
+    print(f"   • Licensed Home Improvement Contractor")
     print(f"   • Serving Union, Essex, Middlesex & Bergen Counties")
     print(f"   • Kitchen & Bathroom Renovation Specialists")
 

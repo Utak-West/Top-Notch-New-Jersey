@@ -3,7 +3,7 @@
 ---
 **Document Type:** WordPress File Structure & Content Organization Strategy
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **Created:** June 2024
 **Version:** 1.0
 **Dependencies:** development-roadmap.md, implementation-guide.md
@@ -136,7 +136,7 @@ Custom Widgets/
     ├── License Badge Display
     ├── Insurance Information
     ├── Years of Experience
-    └── Master Electrician Badge
+    └── Licensed Contractor Badge
 ```
 
 ## 📊 CONTENT MANAGEMENT SYSTEM
@@ -279,7 +279,7 @@ SEO Organization/
 ├── Keyword Research/
 │   ├── Primary Keywords        # Kitchen remodeling NJ
 │   ├── Secondary Keywords      # Bathroom renovation
-│   ├── Long-tail Keywords      # Master electrician Linden NJ
+│   ├── Long-tail Keywords      # Licensed contractor Linden NJ
 │   └── Local Keywords          # Home improvement Union County
 ├── Content Templates/
 │   ├── Service Page Template

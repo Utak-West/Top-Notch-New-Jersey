@@ -3,7 +3,7 @@
 ---
 **Document Type:** Advanced Lead Generation & Conversion Optimization System
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed General Contractor
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13054200
 **Last Updated:** June 2024
 **Version:** 2.0 - Enhanced Conversion System
@@ -27,7 +27,7 @@
 **Primary Headline:** "New Jersey's Kitchen & Bathroom Remodeling Experts"
 **Secondary Headline:** "Professional Excellence - Quality Craftsmanship & Reliable Service"
 **Personal Touch:** "Pedro Ribeiro personally oversees every renovation project"
-**Trust Badge:** "Licensed General Contractor #13VH13054200 | 15+ Years Experience"
+**Trust Badge:** "Licensed Home Improvement Contractor #13VH13054200 | 15+ Years Experience"
 
 ## HERO SECTION CONVERSION PANEL
 
@@ -50,7 +50,7 @@
   </div>
 
   <div class="trust-indicators">
-    <span>→ Licensed General Contractor</span>
+    <span>→ Licensed Home Improvement Contractor</span>
     <span>→ Kitchen & Bathroom Specialists</span>
     <span>→ Quality Craftsmanship Guaranteed</span>
     <span>→ Pedro Answers Personally</span>
@@ -259,7 +259,7 @@ Emergency: (908) 555-0124
 
 Best regards,
 Pedro Ribeiro
-Licensed General Contractor #13VH13054200
+Licensed Home Improvement Contractor #13VH13054200
 Top Notch New Jersey
 ```
 
@@ -293,7 +293,7 @@ Top Notch New Jersey
 "Free Estimate - Response Within 2 Hours Guaranteed"
 
 **Credibility-Focused:**
-"Licensed General Contractor - Free Project Estimate"
+"Licensed Home Improvement Contractor - Free Project Estimate"
 
 **Problem-Solving:**
 "Ready to Transform Your Home? Get Your Free Estimate"

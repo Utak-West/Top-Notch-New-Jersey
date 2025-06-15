@@ -56,7 +56,7 @@ Service Area Pages: [City] kitchen remodeling, [City] bathroom renovation
 ### General Settings
 ```
 Site Title: Top Notch New Jersey - Licensed Kitchen & Bathroom Remodeling
-Tagline: Expert Kitchen & Bathroom Renovation by Licensed Master Electrician Pedro Ribeiro
+Tagline: Expert Kitchen & Bathroom Renovation by Licensed Home Improvement Contractor Pedro Ribeiro
 Site Description: Licensed home improvement contractor specializing in kitchen and bathroom remodeling across Union, Essex, Middlesex, and Bergen Counties in New Jersey.
 ```
 
@@ -65,7 +65,7 @@ Site Description: Licensed home improvement contractor specializing in kitchen a
 #### Homepage SEO
 ```
 SEO Title: Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey
-Meta Description: Expert kitchen & bathroom remodeling in NJ by licensed Master Electrician Pedro Ribeiro. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.
+Meta Description: Expert kitchen & bathroom remodeling in NJ by licensed Home Improvement Contractor Pedro Ribeiro. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.
 Focus Keyword: kitchen remodeling NJ
 ```
 
@@ -94,7 +94,7 @@ Service Areas:
 ```
 Project Type:
 - SEO Title Template: %%term_title%% Projects | Top Notch New Jersey Portfolio
-- Meta Description Template: View our %%term_title%% projects across New Jersey. Expert craftsmanship by licensed Master Electrician Pedro Ribeiro.
+- Meta Description Template: View our %%term_title%% projects across New Jersey. Expert craftsmanship by licensed Home Improvement Contractor Pedro Ribeiro.
 
 Location:
 - SEO Title Template: Kitchen & Bathroom Remodeling %%term_title%% | Top Notch New Jersey
@@ -205,7 +205,7 @@ Specific Cities:
   "founder": {
     "@type": "Person",
     "name": "Pedro Ribeiro",
-    "jobTitle": "Licensed Master Electrician",
+    "jobTitle": "Licensed Home Improvement Contractor",
     "hasCredential": {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "Professional License",

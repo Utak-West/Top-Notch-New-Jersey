@@ -3,8 +3,8 @@
 ---
 **Document Type:** Contact Page Content & Conversion Optimization
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed General Contractor
-**License:** NJ Home Improvement Contractor #13VH13054200
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
+**License:** NJ Home Improvement Contractor License
 **Last Updated:** June 2024
 **Version:** 1.0
 **Dependencies:** hero-section.md, services content, local-seo-strategy.md
@@ -13,7 +13,7 @@
 ## 📞 Primary Contact Information
 
 ### Main Contact Details
-**Pedro Ribeiro - Owner & General Contractor**
+**Pedro Ribeiro - Owner & Licensed Home Improvement Contractor**
 - **Phone:** (908) 555-0123 *(Click to call)*
 - **Email:** pedro@topnotchnewjersey.com
 - **Business Email:** info@topnotchnewjersey.com
@@ -32,7 +32,7 @@
 - **Sunday:** Emergency calls only
 
 **Emergency Services:**
-- **Available 24/7** for electrical emergencies
+- **Available 24/7** for home improvement emergencies
 - **Response Time:** Within 2 hours for emergencies
 - **Service Area:** Union, Essex, Middlesex, Bergen Counties
 
@@ -50,9 +50,9 @@
 - **Service Type:** Dropdown menu
   - Kitchen Remodeling
   - Bathroom Renovation
-  - Electrical Services
+  - Home Renovations
   - General Home Improvement
-  - Emergency Electrical
+  - Other Services
 - **Project Description:** Text area (required)
 - **Timeline:** Dropdown menu
   - ASAP/Emergency
@@ -161,8 +161,8 @@
 ## 💼 Why Choose Top Notch New Jersey
 
 ### Unique Advantages
-**✅ Licensed General Contractor**
-- NJ License #13VH13054200
+**✅ Licensed Home Improvement Contractor**
+- Licensed, Bonded & Insured
 - 15+ years of renovation expertise
 - Professional accountability and quality assurance
 
@@ -182,13 +182,13 @@
 - 100% satisfaction commitment
 
 ### Customer Testimonials
-**"Pedro transformed our outdated kitchen into a modern masterpiece. His electrical expertise saved us thousands compared to other contractors who wanted to subcontract the electrical work. Highly recommended!"**
+**"Pedro transformed our outdated kitchen into a modern masterpiece. His comprehensive renovation expertise and attention to detail made the entire process seamless. Highly recommended!"**
 *- Sarah M., Westfield, NJ*
 
-**"Fast, professional, and reasonably priced. Pedro rewired our entire bathroom renovation and the quality is outstanding. You can tell he takes pride in his work."**
+**"Fast, professional, and reasonably priced. Pedro handled our complete bathroom renovation with outstanding quality. You can tell he takes pride in his work."**
 *- Mike R., Linden, NJ*
 
-**"Emergency electrical service on a Sunday evening - Pedro was there within an hour and fixed our panel issue safely. Great to have a local electrician you can trust!"**
+**"Pedro responded quickly to our home renovation emergency and handled everything professionally. Great to have a trusted local contractor you can rely on!"**
 *- Jennifer L., Cranford, NJ*
 
 ---
@@ -255,7 +255,7 @@
 
 ### On-Page SEO Elements
 **Page Title:** "Contact Top Notch New Jersey | Free Estimates | Licensed Contractor"
-**Meta Description:** "Contact Pedro Ribeiro, licensed general contractor & home improvement specialist. Free estimates for kitchen & bathroom renovations in NJ. Call (908) 555-0123."
+**Meta Description:** "Contact Pedro Ribeiro, licensed home improvement contractor & renovation specialist. Free estimates for kitchen & bathroom renovations in NJ. Call (908) 555-0123."
 
 **Header Tags:**
 - **H1:** "Contact Top Notch New Jersey"

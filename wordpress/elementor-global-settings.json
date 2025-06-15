@@ -1,0 +1,275 @@
+{
+  "global_settings_name": "Top Notch New Jersey Global Design System",
+  "elementor_version": "3.21+",
+  "brand_colors": {
+    "primary": {
+      "brand_blue": "#1B365D",
+      "description": "Primary brand color for headers, navigation, trust elements"
+    },
+    "secondary": {
+      "accent_gold": "#D4AF37",
+      "description": "Premium highlights, special offers, luxury elements"
+    },
+    "action": {
+      "success_green": "#10B981",
+      "description": "CTA buttons, positive actions, form submissions"
+    },
+    "neutral": {
+      "warm_gray": "#6B7280",
+      "deep_charcoal": "#374151",
+      "light_gray": "#F3F4F6",
+      "white": "#FFFFFF",
+      "description": "Text colors, backgrounds, supporting elements"
+    }
+  },
+  "typography_system": {
+    "font_families": {
+      "primary": "Inter, system-ui, sans-serif",
+      "secondary": "Georgia, serif",
+      "description": "Primary for UI elements, secondary for elegant headings"
+    },
+    "heading_styles": {
+      "h1": {
+        "font_size": "48px",
+        "font_size_tablet": "40px",
+        "font_size_mobile": "36px",
+        "font_weight": "700",
+        "line_height": "1.2",
+        "color": "brand_blue",
+        "margin_bottom": "24px"
+      },
+      "h2": {
+        "font_size": "36px",
+        "font_size_tablet": "32px",
+        "font_size_mobile": "28px",
+        "font_weight": "600",
+        "line_height": "1.3",
+        "color": "deep_charcoal",
+        "margin_bottom": "20px"
+      },
+      "h3": {
+        "font_size": "24px",
+        "font_size_tablet": "22px",
+        "font_size_mobile": "20px",
+        "font_weight": "600",
+        "line_height": "1.4",
+        "color": "brand_blue",
+        "margin_bottom": "16px"
+      },
+      "h4": {
+        "font_size": "20px",
+        "font_size_tablet": "18px",
+        "font_size_mobile": "18px",
+        "font_weight": "600",
+        "line_height": "1.4",
+        "color": "deep_charcoal",
+        "margin_bottom": "12px"
+      }
+    },
+    "body_styles": {
+      "body_large": {
+        "font_size": "18px",
+        "font_weight": "400",
+        "line_height": "1.6",
+        "color": "warm_gray"
+      },
+      "body_regular": {
+        "font_size": "16px",
+        "font_weight": "400",
+        "line_height": "1.6",
+        "color": "warm_gray"
+      },
+      "body_small": {
+        "font_size": "14px",
+        "font_weight": "400",
+        "line_height": "1.5",
+        "color": "warm_gray"
+      }
+    },
+    "button_styles": {
+      "cta_primary": {
+        "font_size": "18px",
+        "font_weight": "600",
+        "text_transform": "none",
+        "letter_spacing": "0.5px"
+      },
+      "cta_secondary": {
+        "font_size": "16px",
+        "font_weight": "500",
+        "text_transform": "none",
+        "letter_spacing": "0.3px"
+      }
+    }
+  },
+  "spacing_system": {
+    "section_spacing": {
+      "large": "120px",
+      "large_tablet": "80px",
+      "large_mobile": "60px",
+      "medium": "80px",
+      "medium_tablet": "60px",
+      "medium_mobile": "40px",
+      "small": "40px",
+      "small_tablet": "30px",
+      "small_mobile": "20px"
+    },
+    "element_spacing": {
+      "xl": "48px",
+      "large": "32px",
+      "medium": "24px",
+      "small": "16px",
+      "xs": "8px"
+    },
+    "grid_gaps": {
+      "large": "40px",
+      "large_tablet": "30px",
+      "large_mobile": "20px",
+      "medium": "30px",
+      "medium_tablet": "20px",
+      "medium_mobile": "16px",
+      "small": "20px",
+      "small_tablet": "16px",
+      "small_mobile": "12px"
+    }
+  },
+  "button_system": {
+    "primary_button": {
+      "background_color": "success_green",
+      "text_color": "white",
+      "border_radius": "8px",
+      "padding": "16px 32px",
+      "padding_mobile": "14px 28px",
+      "min_height": "44px",
+      "hover_background": "#0D9668",
+      "box_shadow": "0 4px 12px rgba(16, 185, 129, 0.3)"
+    },
+    "secondary_button": {
+      "background_color": "transparent",
+      "text_color": "brand_blue",
+      "border": "2px solid #1B365D",
+      "border_radius": "8px",
+      "padding": "14px 30px",
+      "padding_mobile": "12px 26px",
+      "min_height": "44px",
+      "hover_background": "brand_blue",
+      "hover_text_color": "white"
+    },
+    "accent_button": {
+      "background_color": "accent_gold",
+      "text_color": "deep_charcoal",
+      "border_radius": "8px",
+      "padding": "16px 32px",
+      "padding_mobile": "14px 28px",
+      "min_height": "44px",
+      "hover_background": "#C19B26",
+      "box_shadow": "0 4px 12px rgba(212, 175, 55, 0.3)"
+    }
+  },
+  "form_system": {
+    "input_styles": {
+      "background_color": "white",
+      "border": "2px solid #E5E7EB",
+      "border_radius": "8px",
+      "padding": "12px 16px",
+      "font_size": "16px",
+      "min_height": "44px",
+      "focus_border_color": "brand_blue",
+      "focus_box_shadow": "0 0 0 3px rgba(27, 54, 93, 0.1)"
+    },
+    "label_styles": {
+      "font_size": "14px",
+      "font_weight": "600",
+      "color": "deep_charcoal",
+      "margin_bottom": "6px"
+    },
+    "error_styles": {
+      "color": "#EF4444",
+      "font_size": "14px",
+      "margin_top": "4px"
+    }
+  },
+  "card_system": {
+    "service_card": {
+      "background_color": "white",
+      "border_radius": "12px",
+      "padding": "32px",
+      "padding_mobile": "24px",
+      "box_shadow": "0 4px 20px rgba(0, 0, 0, 0.08)",
+      "hover_box_shadow": "0 8px 30px rgba(0, 0, 0, 0.12)",
+      "border": "1px solid #F3F4F6"
+    },
+    "testimonial_card": {
+      "background_color": "light_gray",
+      "border_radius": "16px",
+      "padding": "24px",
+      "padding_mobile": "20px",
+      "border_left": "4px solid #D4AF37"
+    },
+    "pricing_card": {
+      "background_color": "white",
+      "border_radius": "12px",
+      "padding": "40px 32px",
+      "padding_mobile": "32px 24px",
+      "box_shadow": "0 4px 20px rgba(0, 0, 0, 0.08)",
+      "border": "2px solid #F3F4F6"
+    },
+    "pricing_card_featured": {
+      "background_color": "white",
+      "border_radius": "12px",
+      "padding": "40px 32px",
+      "padding_mobile": "32px 24px",
+      "box_shadow": "0 8px 30px rgba(27, 54, 93, 0.15)",
+      "border": "2px solid #1B365D",
+      "transform": "scale(1.05)"
+    }
+  },
+  "mobile_optimization": {
+    "breakpoints": {
+      "mobile": "768px",
+      "tablet": "1024px",
+      "desktop": "1200px"
+    },
+    "touch_targets": {
+      "minimum_size": "44px",
+      "recommended_size": "48px",
+      "spacing": "8px"
+    },
+    "mobile_specific": {
+      "reduce_padding": "20%",
+      "stack_columns": true,
+      "larger_text": "110%",
+      "simplified_navigation": true
+    }
+  },
+  "animation_system": {
+    "fade_in": {
+      "duration": "0.6s",
+      "easing": "ease-out",
+      "delay": "0.1s"
+    },
+    "slide_up": {
+      "duration": "0.8s",
+      "easing": "ease-out",
+      "distance": "30px"
+    },
+    "hover_lift": {
+      "transform": "translateY(-4px)",
+      "duration": "0.3s",
+      "easing": "ease-out"
+    }
+  },
+  "accessibility": {
+    "focus_styles": {
+      "outline": "2px solid #1B365D",
+      "outline_offset": "2px"
+    },
+    "color_contrast": {
+      "minimum_ratio": "4.5:1",
+      "preferred_ratio": "7:1"
+    },
+    "font_sizes": {
+      "minimum_body": "16px",
+      "minimum_touch_target": "44px"
+    }
+  }
+}

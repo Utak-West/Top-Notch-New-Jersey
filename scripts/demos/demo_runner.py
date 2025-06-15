@@ -151,7 +151,7 @@ class DemoRunner:
 ║                     WordPress Automation Demo Suite                         ║
 ║                                                                              ║
 ║    🏠 Kitchen & Bathroom Renovation Specialists                            ║
-║    ⚡ Licensed Master Electrician #13VH13                                  ║
+║    ⚡ Licensed Home Improvement Contractor                               ║
 ║    🔧 Advanced WordPress/Elementor Automation                              ║
 ║    📊 Lead Generation & CRM Integration                                     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝

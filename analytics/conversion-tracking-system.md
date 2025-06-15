@@ -3,7 +3,7 @@
 ---
 **Document Type:** Conversion Tracking & Performance Analytics
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0 - Enhanced Lead Capture Analytics
@@ -311,7 +311,7 @@ function trackScrollDepth() {
 const abTestVariants = {
   hero_headline: {
     'variant_a': 'New Jersey\'s Kitchen & Bathroom Remodeling Experts',
-    'variant_b': 'Master Electrician + Kitchen & Bathroom Specialist',
+    'variant_b': 'Licensed Contractor + Kitchen & Bathroom Specialist',
     'variant_c': 'Save Thousands on Your NJ Kitchen & Bathroom Renovation'
   },
   
@@ -322,7 +322,7 @@ const abTestVariants = {
   },
   
   trust_message: {
-    'variant_a': 'Master Electrician #13VH13',
+    'variant_a': 'Licensed, Bonded & Insured',
     'variant_b': 'No Electrical Subcontractor Markups',
     'variant_c': '15+ Years NJ Experience'
   }

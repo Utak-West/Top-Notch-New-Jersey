@@ -159,7 +159,7 @@
     "electrical_needs": {
       "field_type": "checkbox",
       "label": "Electrical Work Needed",
-      "description": "Pedro is a Licensed Master Electrician (#13VH13054200)",
+      "description": "Pedro is a Licensed Home Improvement Contractor",
       "options": [
         {"value": "panel_upgrade", "label": "Electrical Panel Upgrade"},
         {"value": "new_circuits", "label": "New Circuits for Appliances"},
@@ -690,7 +690,7 @@ Hi {first_name},
 
 Thank you for your interest in Top Notch New Jersey for your {service_type} project!
 
-We've received your request and Pedro Ribeiro (Licensed Master Electrician #13VH13054200) will personally review your project details and contact you {urgency == 'urgent' ? 'today' : 'within 24 hours'}.
+We've received your request and Pedro Ribeiro (Licensed Home Improvement Contractor) will personally review your project details and contact you {urgency == 'urgent' ? 'today' : 'within 24 hours'}.
 
 Your Project Summary:
 - Service: {service_selection}
@@ -708,7 +708,7 @@ Questions? Call us directly: [PHONE NUMBER]
 
 Best regards,
 Pedro Ribeiro
-Licensed Master Electrician #13VH13054200
+Licensed Home Improvement Contractor
 Top Notch New Jersey
 Licensed, Bonded & Insured
 ```

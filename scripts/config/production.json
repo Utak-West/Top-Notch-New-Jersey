@@ -60,7 +60,7 @@
   "business": {
     "company_name": "Top Notch New Jersey",
     "license_number": "13VH13",
-    "specializations": ["kitchen_renovation", "bathroom_renovation", "electrical_work"],
+    "specializations": ["kitchen_renovation", "bathroom_renovation", "home_renovation"],
     "service_areas": ["Union County", "Essex County", "Middlesex County", "Bergen County"],
     "lead_scoring_keywords": {
       "kitchen": 10,

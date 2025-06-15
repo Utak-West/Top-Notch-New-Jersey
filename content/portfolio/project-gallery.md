@@ -3,7 +3,7 @@
 ---
 **Document Type:** Project Gallery & Portfolio Showcase
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -14,7 +14,7 @@
 
 ### Portfolio Hero Section
 **Primary Headline:** "See Why New Jersey Homeowners Choose Top Notch"
-**Secondary Headline:** "Real projects, real results - featuring our unique Master Electrician advantage"
+**Secondary Headline:** "Real projects, real results - featuring our comprehensive contractor advantage"
 
 **Portfolio Statistics:**
 - ✅ **500+ Projects Completed** - Kitchen, bathroom, and electrical renovations
@@ -36,14 +36,14 @@
 - **Special Features:** Smart lighting system, under-cabinet LED strips
 
 **Before & After Description:**
-*Transformed a cramped 1980s kitchen into an open, modern farmhouse design. The electrical work included adding 6 new circuits, installing smart switches throughout, and creating a custom lighting plan with pendant lights over the island and recessed lighting for ambient illumination.*
+*Transformed a cramped 1980s kitchen into an open, modern farmhouse design. The renovation included comprehensive infrastructure upgrades, smart lighting installation, and a custom lighting plan with pendant lights over the island and recessed lighting for ambient illumination.*
 
-**Electrical Work Included:**
-- **New Electrical Panel:** Upgraded from 100A to 200A service
+**Technical Upgrades Included:**
+- **Infrastructure Upgrade:** Enhanced power capacity for modern appliances
 - **Smart Home Integration:** Programmable lighting and outlet controls
 - **Under-Cabinet Lighting:** LED strip lighting with dimmer controls
-- **Island Electrical:** Dedicated circuits for appliances and outlets
-- **GFCI Protection:** All required outlets properly protected
+- **Island Power:** Dedicated circuits for appliances and outlets
+- **Safety Features:** All outlets properly protected per code
 
 **Customer Testimonial:**
 *"Pedro's electrical expertise made all the difference. We got exactly the lighting we wanted without any of the coordination headaches. The smart switches are amazing!"* - Sarah M., Westfield
@@ -127,48 +127,48 @@
 
 ---
 
-## ⚡ Electrical Services Portfolio
+## 🏠 Complete Home Renovation Portfolio
 
-### Major Electrical Projects
+### Multi-Room Renovation Projects
 
-#### Project 1: Whole House Rewiring - Bloomfield, NJ
+#### Project 1: Whole House Infrastructure Upgrade - Bloomfield, NJ
 **Project Details:**
-- **Investment Level:** $12,000
-- **Timeline:** 1 week
+- **Investment Level:** $35,000 (including kitchen and bathroom renovations)
+- **Timeline:** 3 weeks
 - **Home Age:** 1950s colonial
-- **Special Challenges:** Knob and tube wiring replacement
+- **Special Challenges:** Complete modernization of outdated systems
 
-**Electrical Upgrades:**
-- **Complete Rewiring:** Replaced all knob and tube wiring with modern copper
-- **Panel Upgrade:** New 200A electrical panel with AFCI/GFCI protection
-- **Outlet Addition:** Doubled the number of outlets throughout home
-- **Smart Home Prep:** Pre-wired for future smart home integration
+**Comprehensive Upgrades:**
+- **Kitchen Renovation:** Complete kitchen transformation with modern appliances
+- **Bathroom Remodel:** Updated master and guest bathrooms
+- **Infrastructure Modernization:** Updated home systems for safety and efficiency
+- **Smart Home Integration:** Pre-wired for future smart home features
 
-#### Project 2: Smart Home Integration - Paramus, NJ
+#### Project 2: Smart Home Kitchen & Bath Renovation - Paramus, NJ
 **Project Details:**
-- **Investment Level:** $8,500
-- **Timeline:** 3 days
+- **Investment Level:** $52,000
+- **Timeline:** 5 weeks
 - **Home Type:** Modern colonial
-- **Special Features:** Whole-house automation
+- **Special Features:** Integrated smart home technology
 
 **Smart Features Installed:**
-- **Smart Switches:** Programmable lighting control throughout home
-- **Smart Outlets:** Remote-controlled and scheduled power outlets
-- **Home Hub Wiring:** Central control system installation
-- **Security Integration:** Wiring for cameras, sensors, and alarms
+- **Smart Kitchen:** Programmable lighting and appliance controls
+- **Smart Bathroom:** Automated lighting and ventilation systems
+- **Home Integration:** Centralized control for kitchen and bathroom features
+- **Security Integration:** Coordinated safety and monitoring systems
 
-#### Project 3: Emergency Generator Installation - Westfield, NJ
+#### Project 3: Complete Home Renovation - Westfield, NJ
 **Project Details:**
-- **Investment Level:** $6,500
-- **Timeline:** 2 days
-- **Generator Size:** 20kW whole house
-- **Special Features:** Automatic transfer switch
+- **Investment Level:** $85,000
+- **Timeline:** 8 weeks
+- **Scope:** Kitchen, 2 bathrooms, and home systems
+- **Special Features:** Energy-efficient upgrades throughout
 
-**Installation Components:**
-- **Generator Placement:** Proper positioning and electrical connections
-- **Transfer Switch:** Automatic switching between utility and generator power
-- **Load Management:** Prioritized circuits for essential systems
-- **Testing & Training:** Complete system testing and homeowner education
+**Renovation Components:**
+- **Kitchen Transformation:** Complete kitchen remodel with premium finishes
+- **Bathroom Renovations:** Master suite and guest bathroom updates
+- **Home Systems:** Comprehensive infrastructure improvements
+- **Energy Efficiency:** Modern systems for reduced utility costs
 
 ---
 
@@ -182,12 +182,12 @@
 **Investment:** $42,000
 **Timeline:** 4 weeks
 
-**Challenge:** 1960s home with inadequate electrical service for modern kitchen
-**Solution:** Combined kitchen renovation with complete electrical upgrade
-**Result:** Beautiful new kitchen with reliable, code-compliant electrical system
+**Challenge:** 1960s home with inadequate infrastructure for modern kitchen
+**Solution:** Combined kitchen renovation with complete home systems upgrade
+**Result:** Beautiful new kitchen with reliable, code-compliant home infrastructure
 
 **Customer Quote:**
-*"Pedro saved us thousands by handling both the renovation and electrical work. No coordination headaches, no markup fees, and the quality is outstanding. We couldn't be happier!"*
+*"Pedro saved us thousands by handling both the renovation and infrastructure work. No coordination headaches, no markup fees, and the quality is outstanding. We couldn't be happier!"*
 
 #### The Martinez Family - Bathroom Accessibility Renovation
 **Location:** Rahway, NJ
@@ -196,11 +196,11 @@
 **Timeline:** 3 weeks
 
 **Challenge:** Make bathroom accessible for elderly family member
-**Solution:** Complete renovation with accessibility features and safety electrical
+**Solution:** Complete renovation with accessibility features and safety systems
 **Result:** Beautiful, safe, and accessible bathroom that meets all needs
 
 **Customer Quote:**
-*"Pedro understood exactly what we needed. The electrical work for the safety features was done perfectly, and the whole project exceeded our expectations."*
+*"Pedro understood exactly what we needed. The safety features and technical work was done perfectly, and the whole project exceeded our expectations."*
 
 #### The Chen Family - Smart Home Integration
 **Location:** Edison, NJ
@@ -209,11 +209,11 @@
 **Timeline:** 2 days
 
 **Challenge:** Add smart home features without major renovation
-**Solution:** Strategic electrical upgrades and smart device integration
+**Solution:** Strategic infrastructure upgrades and smart device integration
 **Result:** Fully automated home with energy savings and convenience
 
 **Customer Quote:**
-*"Pedro made our home smart without tearing up walls. His electrical expertise made the installation seamless and everything works perfectly."*
+*"Pedro made our home smart without tearing up walls. His technical expertise made the installation seamless and everything works perfectly."*
 
 ---
 
@@ -228,15 +228,15 @@
 
 **Photo Categories:**
 1. **Wide Angle Shots:** Show entire room transformation
-2. **Detail Shots:** Highlight electrical work and craftsmanship
+2. **Detail Shots:** Highlight technical work and craftsmanship
 3. **Feature Photos:** Showcase unique elements and upgrades
 4. **Process Photos:** Document work in progress (when appropriate)
 
 ### Project Documentation Process
 **During Project:**
 - **Before Photos:** Document existing conditions
-- **Progress Photos:** Key milestones and electrical rough-in
-- **Detail Photos:** Showcase electrical work and installations
+- **Progress Photos:** Key milestones and technical rough-in
+- **Detail Photos:** Showcase technical work and installations
 - **After Photos:** Complete transformation documentation
 
 **Post-Project:**

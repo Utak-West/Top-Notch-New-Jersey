@@ -3,7 +3,7 @@
 ---
 **Document Type:** Step-by-Step Technical Implementation Instructions
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **Created:** June 2024
 **Version:** 1.0
 **Dependencies:** development-roadmap.md, plugins-list.md, site-architecture.md
@@ -142,7 +142,7 @@
 
 ## 🔧 PHASE 1: SERVICE PAGES COMPLETION (Week 3)
 
-### Day 9-10: Bathroom & Electrical Service Pages
+### Day 9-10: Bathroom & Home Renovation Service Pages
 
 **Bathroom Renovations Page:**
 - Content from `/content/services/bathroom-remodeling.md`
@@ -151,12 +151,12 @@
 - Pricing tiers and process steps
 - Service-specific estimate forms
 
-**Electrical Services Page:**
-- Content from `/content/services/electrical-services.md`
-- Master Electrician credentials highlight
-- Emergency services availability
-- Service call pricing structure
-- Safety and code compliance emphasis
+**Home Renovations Page:**
+- Content from `/content/services/home-renovations.md`
+- Multi-room renovation capabilities
+- Complete home transformation projects
+- Coordination of all trades and permits
+- Project management and timeline coordination
 
 ### Day 11: Free Estimate Page Optimization
 
@@ -262,7 +262,7 @@
 - Primary CTA: "Get Free Estimate"
 - Secondary CTA: "Call Now"
 - Service-specific CTAs
-- Emergency electrical CTA
+- Emergency service CTA
 
 ### Content Blocks
 **Service Cards:**
@@ -281,7 +281,7 @@
 - License and certification badges
 - Insurance and bonding information
 - Years of experience highlight
-- Master Electrician credentials
+- Licensed Home Improvement Contractor credentials
 
 ## 🔄 CONTENT MANAGEMENT WORKFLOW
 

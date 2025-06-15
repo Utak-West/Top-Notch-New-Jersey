@@ -3,7 +3,7 @@
 ---
 **Document Type:** Mobile Lead Capture & Conversion Optimization
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0 - Mobile Priority
@@ -260,7 +260,7 @@
   <div class="sticky-contact-content">
     <div class="contact-info">
       <span class="business-name">Top Notch NJ</span>
-      <span class="license">Master Electrician #13VH13</span>
+      <span class="license">Licensed Contractor #13VH13</span>
     </div>
     <div class="contact-actions">
       <a href="tel:XXXXXXXXXX" class="sticky-call">Call</a>

@@ -3,7 +3,7 @@
 ---
 **Document Type:** Comprehensive Website Development Strategy & Implementation Plan
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Created:** June 2024
 **Version:** 1.0
@@ -28,7 +28,7 @@ Based on comprehensive codebase analysis, Top Notch New Jersey has exceptional f
 1. **Homepage** (`/`) - Primary conversion hub with hero section
 2. **Kitchen Remodeling** (`/services/kitchen-remodeling/`) - Primary revenue driver
 3. **Bathroom Renovations** (`/services/bathroom-renovations/`) - Secondary revenue focus
-4. **Electrical Services** (`/services/electrical-services/`) - Unique differentiator
+4. **Home Renovations** (`/services/home-renovations/`) - Complete home improvement services
 5. **About Pedro** (`/about/`) - Trust and credibility builder
 6. **Contact** (`/contact/`) - Lead capture and conversion
 7. **Free Estimate** (`/estimate/`) - Primary conversion page
@@ -41,10 +41,10 @@ Based on comprehensive codebase analysis, Top Notch New Jersey has exceptional f
 12. **Blog** (`/blog/`) - Content marketing and SEO
 
 ### Specialized Pages (Priority 3 - Future Enhancement)
-13. **Emergency Electrical** (`/emergency-electrical/`) - 24/7 service highlight
-14. **Financing Options** (`/financing/`) - Payment flexibility
-15. **Maintenance Plans** (`/maintenance/`) - Recurring revenue stream
-16. **Smart Home Integration** (`/smart-home/`) - Premium service offerings
+13. **Financing Options** (`/financing/`) - Payment flexibility
+14. **Maintenance Plans** (`/maintenance/`) - Recurring revenue stream
+15. **Accessibility Modifications** (`/accessibility/`) - ADA compliance and aging-in-place solutions
+16. **Custom Cabinetry** (`/custom-cabinetry/`) - Premium woodworking services
 
 ## 🚀 DEVELOPMENT METHODOLOGY
 
@@ -64,7 +64,7 @@ Based on comprehensive codebase analysis, Top Notch New Jersey has exceptional f
 
 **Week 3: Service Pages Completion**
 - [ ] Bathroom renovation page using `/content/services/bathroom-remodeling.md`
-- [ ] Electrical services page using `/content/services/electrical-services.md`
+- [ ] Home renovations page with multi-room project focus
 - [ ] Free estimate page with conversion optimization
 - [ ] Mobile responsiveness testing and optimization
 
@@ -79,7 +79,7 @@ Based on comprehensive codebase analysis, Top Notch New Jersey has exceptional f
 **Week 5: Portfolio & Gallery**
 - [ ] Project gallery implementation using `/content/portfolio/project-gallery.md`
 - [ ] Before/after image sliders for project showcases
-- [ ] Service-specific gallery sections (kitchen, bathroom, electrical)
+- [ ] Service-specific gallery sections (kitchen, bathroom, home renovations)
 - [ ] Mobile-optimized gallery viewing experience
 
 **Week 6: Local SEO & Service Areas**

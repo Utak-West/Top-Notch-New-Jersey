@@ -166,7 +166,7 @@ Factors affecting timeline include permit requirements, custom orders, and struc
 ### Do I need permits for my kitchen remodel?
 **Permit requirements vary by scope:**
 - **Cosmetic updates:** Usually no permits needed
-- **Electrical work:** May require permits and inspection
+- **Lighting and outlet updates:** May require permits and inspection
 - **Plumbing changes:** Permits required for relocations
 - **Structural changes:** Building permits required
 
@@ -261,7 +261,7 @@ As a licensed contractor, we handle all permit applications and inspections.
 ## 🏆 Why Homeowners Choose Top Notch
 
 ### The Pedro Ribeiro Difference
-- **Licensed General Contractor** - Professional expertise and accountability
+- **Licensed Home Improvement Contractor** - Professional expertise and accountability
 - **15+ Years Experience** - Proven track record
 - **Local Linden, NJ Business** - Community commitment
 - **Licensed & Insured** - Complete protection
@@ -278,7 +278,7 @@ As a licensed contractor, we handle all permit applications and inspections.
 
 **Page SEO Elements:**
 - **Title Tag:** "Kitchen Remodeling NJ | Expert Craftsmanship & Design | Top Notch New Jersey"
-- **Meta Description:** "Expert kitchen remodeling in NJ by licensed general contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- **Meta Description:** "Expert kitchen remodeling in NJ by licensed home improvement contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
 - **H1:** "Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design"
 - **Local Keywords:** New Jersey, NJ, Union County, Essex County, Linden
 - **Service Keywords:** Kitchen remodeling, renovation, cabinets, countertops, design

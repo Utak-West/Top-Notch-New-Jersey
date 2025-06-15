@@ -149,7 +149,7 @@
 **Gallery Types:**
 - Kitchen project galleries
 - Bathroom renovation showcases
-- Electrical work portfolios
+- Home renovation portfolios
 - Before/after comparison galleries
 
 #### **Before After Image Slider** (Free)
@@ -228,7 +228,7 @@
 - Custom taxonomy creation
 
 **Custom Post Types Needed:**
-- Projects (kitchen, bathroom, electrical)
+- Projects (kitchen, bathroom, home renovations)
 - Testimonials
 - Service areas
 - Team members (future expansion)

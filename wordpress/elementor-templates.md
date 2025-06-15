@@ -74,7 +74,7 @@
 ```
 Breadcrumbs: Home > Services > [Service Name]
 Headline: [Service Name] in New Jersey
-Subheadline: Expert [service] by Licensed Master Electrician
+Subheadline: Expert [service] by Licensed Home Improvement Contractor
 Hero Image: Relevant project photo
 CTA Button: "Get Free Estimate"
 ```
@@ -141,7 +141,7 @@ Background: Professional photo of Pedro on job site
 Overlay: Minimal, maintains photo visibility
 Content:
   - "Meet Pedro Ribeiro"
-  - "Licensed Master Electrician"
+  - "Licensed Home Improvement Contractor"
   - "15+ Years Experience"
   - Credentials badges
 ```
@@ -161,7 +161,7 @@ Layout: 4-column grid (mobile: 2-column)
 Elements:
   - License #13VH13
   - Bonded & Insured
-  - Master Electrician
+  - Licensed Contractor
   - 6+ Years in Business
 Visual: Badge-style design with icons
 ```
@@ -259,7 +259,7 @@ Button: "View Projects" (Accent gold)
 #### CTA 4: About Pedro (`cta-about`)
 ```
 Background: Professional photo of Pedro
-Headline: "Meet Your Master Electrician"
+Headline: "Meet Your Licensed Contractor"
 Subheadline: "Licensed, experienced, trusted"
 Button: "Learn More" (White on blue)
 ```

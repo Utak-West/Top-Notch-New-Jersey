@@ -3,7 +3,7 @@
 ---
 **Document Type:** Business Analytics & Performance Measurement
 **Project:** Top Notch New Jersey Growth Strategy
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0

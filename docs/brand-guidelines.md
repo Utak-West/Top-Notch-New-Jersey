@@ -3,7 +3,7 @@
 ---
 **Document Type:** Brand Standards & Visual Identity
 **Project:** Top Notch New Jersey WordPress Website
-**Owner:** Pedro Ribeiro, Licensed General Contractor
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13054200
 **Last Updated:** June 2024
 **Version:** 2.0
@@ -17,7 +17,7 @@
 **Business Name:** Top Notch New Jersey
 **Owner:** Pedro Ribeiro
 **Tagline:** "Expert Kitchen & Bathroom Renovations"
-**Mission:** Professional craftsmanship and quality service for complete home renovations
+**Mission:** Delivering exceptional kitchen and bathroom remodeling with comprehensive home renovation services
 **Values:** Quality, Reliability, Trust, Expertise, Local Community Focus
 **Established:** 2018
 **Service Area:** Union, Essex, Middlesex, Bergen Counties, NJ
@@ -28,7 +28,7 @@
 
 ### Core Attributes
 - **Professional & Trustworthy** - Licensed, bonded, insured credentials
-- **Expert & Skilled** - General Contractor with 15+ years experience
+- **Expert & Skilled** - Licensed Home Improvement Contractor with 15+ years experience
 - **Local & Community-Focused** - Proud New Jersey roots
 - **Reliable & Dependable** - Consistent quality and service
 - **Approachable & Personal** - Pedro's hands-on leadership
@@ -97,7 +97,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 - **Tagline:** "Expert Kitchen & Bathroom Renovations"
 - **Visual Elements:** Consider incorporating:
   - House/home icon
-  - Kitchen/bathroom symbols
+  - Kitchen/bathroom renovation symbols
   - New Jersey state outline
   - Tools/craftsmanship imagery
 

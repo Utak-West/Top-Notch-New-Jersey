@@ -24,7 +24,7 @@
     
     <div class="contact-credentials">
       <div class="credential-item">
-        <span class="credential-text">Licensed Master Electrician #13VH13054200</span>
+        <span class="credential-text">Licensed, Bonded & Insured Contractor</span>
       </div>
       <div class="credential-item">
         <span class="credential-text">Serving Union, Essex, Middlesex & Bergen Counties</span>
@@ -159,7 +159,7 @@
         <h3>Why Choose Top Notch:</h3>
         <div class="trust-item">
           <span class="trust-icon">✓</span>
-          <span>Licensed Master Electrician</span>
+          <span>Licensed Home Improvement Contractor</span>
         </div>
         <div class="trust-item">
           <span class="trust-icon">✓</span>
@@ -302,7 +302,7 @@
           </div>
           <div class="info-item">
             <strong>License:</strong>
-            <span>Master Electrician #13VH13054200</span>
+            <span>Licensed, Bonded & Insured</span>
           </div>
           <div class="info-item">
             <strong>Established:</strong>
@@ -359,7 +359,7 @@
     <div class="business-image">
       <img src="/wp-content/uploads/pedro-business-photo.jpg" alt="Pedro Ribeiro - Top Notch New Jersey">
       <div class="image-caption">
-        <p>Pedro Ribeiro, Licensed Master Electrician and Owner of Top Notch New Jersey</p>
+        <p>Pedro Ribeiro, Licensed Home Improvement Contractor and Owner of Top Notch New Jersey</p>
       </div>
     </div>
   </div>
@@ -433,7 +433,7 @@
           <span class="faq-toggle">+</span>
         </div>
         <div class="faq-answer">
-          <p>Yes, Pedro is a Licensed Master Electrician (#13VH13054200) and Top Notch New Jersey is fully bonded and insured. All work is performed to code and backed by comprehensive insurance coverage.</p>
+          <p>Yes, Pedro is a Licensed Home Improvement Contractor and Top Notch New Jersey is fully bonded and insured. All work is performed to code and backed by comprehensive insurance coverage.</p>
         </div>
       </div>
       
@@ -444,7 +444,7 @@
           <span class="faq-toggle">+</span>
         </div>
         <div class="faq-answer">
-          <p>Pedro's Master Electrician license allows us to handle all electrical work in-house, eliminating subcontractor markups. You get one point of contact, coordinated project management, and the expertise of a licensed professional overseeing every aspect of your project.</p>
+          <p>Pedro's Licensed Contractor credentials allow us to handle electrical work coordination in-house, eliminating subcontractor markups. You get one point of contact, coordinated project management, and the expertise of a licensed professional overseeing every aspect of your project.</p>
         </div>
       </div>
     </div>
@@ -501,7 +501,7 @@
 <title>Contact Top Notch New Jersey | Free Estimates | Licensed Contractor</title>
 
 <!-- Meta Description -->
-<meta name="description" content="Contact Top Notch New Jersey for free kitchen and bathroom remodeling estimates. Licensed Master Electrician Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties.">
+<meta name="description" content="Contact Top Notch New Jersey for free kitchen and bathroom remodeling estimates. Licensed Home Improvement Contractor Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties.">
 
 <!-- Local Keywords -->
 <meta name="keywords" content="contact contractor NJ, free estimate kitchen bathroom, licensed electrician Linden, home improvement consultation Union County">

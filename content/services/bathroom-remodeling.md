@@ -3,7 +3,7 @@
 ---
 **Document Type:** Service Page Content & SEO Optimization
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed General Contractor
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13054200
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -17,7 +17,7 @@
 **Secondary Headline:** "Complete bathroom renovations with professional craftsmanship and quality materials"
 
 **Key Benefits:**
-- ✅ **Licensed General Contractor** - Professional expertise and accountability
+- ✅ **Licensed Home Improvement Contractor** - Professional expertise and accountability
 - ✅ **Complete Renovations** - From design to final inspection
 - ✅ **Local Linden, NJ** - Serving Union, Essex, Middlesex & Bergen Counties
 - ✅ **Free Estimates** - Detailed written proposals within 24 hours

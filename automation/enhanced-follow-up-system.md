@@ -3,7 +3,7 @@
 ---
 **Document Type:** Lead Nurturing & Follow-Up Automation
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0 - Pedro's Personal Touch System
@@ -30,13 +30,13 @@ PERSONAL CONTACT (Day 1)
 
 ESTIMATE DELIVERY (Day 3)
 ├── Detailed written estimate delivery
-├── Explanation of Master Electrician advantage
+├── Explanation of Licensed Contractor advantage
 ├── Project timeline and next steps
 └── Reference list for similar projects
 
 DECISION SUPPORT (Week 1)
 ├── References from similar Union/Essex/Middlesex projects
-├── Electrical work explanation (why Master Electrician matters)
+├── Licensed Contractor coordination advantages
 ├── Financing options (if applicable)
 └── Permit and inspection process overview
 
@@ -71,7 +71,7 @@ Subject: Your Kitchen Remodeling Estimate Request - Top Notch New Jersey
 
 Dear [Name],
 
-Thank you for requesting a kitchen remodeling estimate! I'm Pedro Ribeiro, Master Electrician and owner of Top Notch New Jersey.
+Thank you for requesting a kitchen remodeling estimate! I'm Pedro Ribeiro, Licensed Home Improvement Contractor and owner of Top Notch New Jersey.
 
 Here's what happens next:
 → I'll personally call you within 2 hours during business hours
@@ -79,14 +79,14 @@ Here's what happens next:
 → I'll schedule your free in-home consultation
 → You'll receive a detailed estimate within 24 hours
 
-MASTER ELECTRICIAN ADVANTAGE:
-Unlike other contractors, I handle all electrical work personally - no subcontractors, no markups, no coordination issues.
+LICENSED CONTRACTOR ADVANTAGE:
+Unlike other contractors, I handle all trade coordination personally - no subcontractor markups, no coordination issues.
 
 Questions before we talk? Reply to this email or call me directly at (XXX) XXX-XXXX.
 
 Best regards,
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 Top Notch New Jersey
 
 P.S. Check out our recent kitchen transformations: [Portfolio Link]
@@ -106,7 +106,7 @@ YOUR PROJECT DETAILS:
 → Kitchen size: [Size from call]
 → Timeline: [Timeline from call]
 → Key features: [Features discussed]
-→ Electrical work needed: [Electrical requirements]
+→ Technical requirements: [Technical specifications]
 
 NEXT STEPS:
 → In-home consultation scheduled for [Date/Time]
@@ -114,16 +114,16 @@ NEXT STEPS:
 → We'll discuss electrical integration and cost savings
 → Written estimate delivered within 24 hours of visit
 
-MASTER ELECTRICIAN ADVANTAGE FOR YOUR PROJECT:
-→ No electrical subcontractor markup (typically saves $2,000-5,000)
-→ Seamless coordination between renovation and electrical work
+LICENSED CONTRACTOR ADVANTAGE FOR YOUR PROJECT:
+→ No subcontractor markup on technical work (typically saves $2,000-5,000)
+→ Seamless coordination between all renovation trades
 → All work done to code by licensed professional
 → Single point of contact throughout project
 
 Looking forward to seeing your space and creating your dream kitchen!
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
@@ -135,16 +135,16 @@ Subject: Your Kitchen Remodeling Estimate - No Electrical Markups Included
 
 Dear [Name],
 
-Attached is your detailed kitchen remodeling estimate. As promised, this includes all electrical work at cost - no subcontractor markups.
+Attached is your detailed kitchen remodeling estimate. As promised, this includes all technical work at cost - no subcontractor markups.
 
 ESTIMATE HIGHLIGHTS:
 → Total Investment: $[Amount]
-→ Electrical Work Included: $[Amount] (typically marked up 25-40% by other contractors)
+→ Technical Work Included: $[Amount] (typically marked up 25-40% by other contractors)
 → Your Savings: $[Savings Amount]
 → Timeline: [Timeline]
 
 WHY CHOOSE TOP NOTCH:
-✓ Master Electrician handles all electrical personally
+✓ Licensed Contractor handles all trade coordination personally
 ✓ No coordination issues between trades
 ✓ All work guaranteed and code compliant
 ✓ 15+ years of New Jersey renovation experience
@@ -159,7 +159,7 @@ Questions? Call me directly at (XXX) XXX-XXXX or reply to this email.
 
 Best regards,
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 
 P.S. This estimate is valid for 30 days. Spring is our busiest season, so early scheduling is recommended.
 ```
@@ -182,18 +182,18 @@ RECENT [COUNTY] PROJECTS:
 → Luxury spa bathroom in [City] - High-end finishes
 
 CUSTOMER REFERENCES:
-I'd be happy to connect you with recent customers who had similar projects. They can share their experience working with us and seeing the Master Electrician advantage firsthand.
+I'd be happy to connect you with recent customers who had similar projects. They can share their experience working with us and seeing the Licensed Contractor advantage firsthand.
 
-ELECTRICAL CONSIDERATIONS FOR YOUR BATHROOM:
-→ GFCI outlets (required by code)
-→ Exhaust fan upgrade for proper ventilation
+TECHNICAL CONSIDERATIONS FOR YOUR BATHROOM:
+→ Proper ventilation systems
+→ Code-compliant installations
 → Heated floor systems (popular upgrade)
 → Smart lighting and mirror features
 
 Ready to move forward? I have availability starting [Date] and can complete your project in [Timeline].
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
@@ -227,12 +227,12 @@ Based on what I observed during the service call, I recommend:
 → [Estimated investment]
 
 FUTURE ELECTRICAL NEEDS:
-If you're planning any home renovations, remember that my Master Electrician expertise can save you significant money by eliminating subcontractor markups.
+If you're planning any home renovations, remember that my Licensed Contractor expertise can save you significant money by eliminating subcontractor markups.
 
 Thank you for your business!
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
