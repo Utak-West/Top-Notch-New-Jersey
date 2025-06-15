@@ -9,10 +9,10 @@
 **Target Market:** New Jersey homeowners (Union, Essex, Middlesex, Bergen Counties)  
 
 ### Key Business Context for AI Understanding
-- **Licensed Professional:** Always emphasize Pedro's Master Electrician credentials
+- **Licensed Professional:** Always emphasize Pedro's General Contractor credentials
 - **Local Focus:** New Jersey market specialization is crucial for SEO and trust
 - **Quality Over Price:** Position as premium service, not cheapest option
-- **Trust Indicators:** License #13VH13, bonded & insured status are critical
+- **Trust Indicators:** License #13VH13054200, bonded & insured status are critical
 
 ## 📁 Repository Navigation Guide
 
@@ -46,8 +46,8 @@ Deployment (DEPLOYMENT-GUIDE.md)
 **Business Information (Must Match Across All Files):**
 - Company: "Top Notch New Jersey"
 - Owner: "Pedro Ribeiro"
-- License: "NJ Home Improvement Contractor #13VH13"
-- Title: "Licensed Master Electrician"
+- License: "NJ Home Improvement Contractor #13VH13054200"
+- Title: "Licensed General Contractor"
 - Location: "Linden, NJ"
 - Service Areas: "Union, Essex, Middlesex, Bergen Counties"
 - Established: "2018"

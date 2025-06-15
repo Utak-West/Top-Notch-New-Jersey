@@ -13,19 +13,19 @@
 ## 🎯 Executive Summary
 
 ### Business Overview
-Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, uniquely positioned as the only Master Electrician + General Contractor in the New Jersey market. Founded in 2018, the company specializes in kitchen and bathroom remodeling with integrated electrical services, serving Union, Essex, Middlesex, and Bergen Counties.
+Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specializing in kitchen and bathroom remodeling with professional craftsmanship and quality service. Founded in 2018, the company serves Union, Essex, Middlesex, and Bergen Counties with a focus on complete home renovations.
 
 ### Unique Value Proposition
-**"The Master Electrician Advantage"**
-- **No Electrical Subcontractor Markup:** 15-20% cost savings for customers
+**"The Top Notch Advantage"**
+- **Professional Excellence:** Quality craftsmanship and reliable service
 - **Single-Source Accountability:** One contractor, one warranty, one point of contact
-- **Faster Project Completion:** No coordination delays with electrical subcontractors
-- **Code Compliance Expertise:** Master Electrician ensures all work meets NJ standards
+- **Faster Project Completion:** Streamlined coordination and efficient project management
+- **Code Compliance Expertise:** Licensed contractor ensures all work meets NJ standards
 
 ### Market Opportunity
 - **Total Addressable Market:** $180M annually in primary service area
 - **Target Market Share:** 5-8% within 3 years ($9M-$14.4M revenue)
-- **Competitive Advantage:** <5% of contractors offer integrated electrical services
+- **Competitive Advantage:** Specialized focus on kitchen and bathroom renovations
 - **Growth Potential:** Expanding service areas and service lines
 
 ---

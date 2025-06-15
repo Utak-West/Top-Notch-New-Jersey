@@ -148,7 +148,7 @@ class Config:
             'company_name': 'Top Notch New Jersey',
             'specializations': ['kitchen_renovation', 'bathroom_renovation'],
             'service_areas': ['Union County', 'Essex County', 'Middlesex County', 'Bergen County'],
-            'license_number': '13VH13',
+            'license_number': '13VH13054200',
             'business_type': 'home_improvement',
             'lead_scoring_keywords': self.get('business.lead_scoring_keywords', DEFAULT_LEAD_KEYWORDS),
             'contact_info': self.get('business.contact_info', {})
@@ -241,7 +241,7 @@ DEFAULT_CONFIG = {
     },
     "business": {
         "company_name": "Top Notch New Jersey",
-        "license_number": "13VH13",
+        "license_number": "13VH13054200",
         "specializations": ["kitchen_renovation", "bathroom_renovation"],
         "lead_scoring_keywords": DEFAULT_LEAD_KEYWORDS,
         "contact_info": {

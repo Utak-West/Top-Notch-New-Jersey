@@ -16,10 +16,10 @@
 - **Kitchen Remodeling** (Primary specialty)
 - **Bathroom Renovations** (Primary specialty)
 - **Whole Home Renovations** (Complete transformations)
-- **Electrical Services** (Supporting service with Master Electrician advantage)
+- **General Home Improvements** (Supporting renovation services)
 
 ### Key Differentiator
-**Master Electrician Advantage:** Pedro's electrical expertise eliminates subcontractor markups during renovations, saving customers thousands while ensuring seamless project coordination.
+**Professional Excellence:** Pedro's extensive renovation expertise ensures quality craftsmanship and seamless project coordination, delivering exceptional results for every customer.
 
 ## HERO SECTION CONVERSION PANEL
 
@@ -28,12 +28,12 @@
 ```html
 <div class="hero-conversion-panel">
   <div class="credential-badge">
-    <span class="license-number">Master Electrician #13VH13</span>
+    <span class="license-number">Licensed Contractor #13VH13054200</span>
     <span class="location">Serving Union, Essex, Middlesex & Bergen Counties</span>
   </div>
-  
+
   <h1>New Jersey's Kitchen & Bathroom Remodeling Experts</h1>
-  <h2>Master Electrician Advantage - No Electrical Subcontractor Markups</h2>
+  <h2>Professional Excellence - Quality Craftsmanship & Reliable Service</h2>
   <p>Pedro Ribeiro personally oversees every renovation project from start to finish</p>
   
   <div class="cta-button-group">
@@ -319,12 +319,12 @@
 
   <!-- Emergency Tab -->
   <div id="emergency" class="tab-content active">
-    <h3>Electrical Emergency - Master Electrician Response</h3>
+    <h3>Emergency Service - Professional Response</h3>
     <div class="emergency-contact">
       <a href="tel:XXXXXXXXXX" class="emergency-call-btn">
         Call Pedro Now: (XXX) XXX-XXXX
       </a>
-      <p>Master Electrician #13VH13 - 24/7 Emergency Response</p>
+      <p>Licensed Contractor #13VH13054200 - Professional Emergency Response</p>
     </div>
 
     <form class="emergency-form">
@@ -591,16 +591,16 @@
 ```html
 <div class="lead-magnet-section">
   <div class="magnet-offer">
-    <h3>Free Download: "The Truth About Electrical Markups in NJ Renovations"</h3>
-    <p>Learn how Top-Notch saves you thousands by eliminating subcontractor fees</p>
+    <h3>Free Download: "The Complete Guide to Kitchen & Bathroom Renovations in NJ"</h3>
+    <p>Learn how Top-Notch delivers exceptional results with professional craftsmanship</p>
 
     <div class="magnet-benefits">
       <ul>
-        <li>✓ Typical contractor markup on electrical: 25-40%</li>
-        <li>✓ How Master Electrician #13VH13 eliminates these costs</li>
-        <li>✓ Real project examples: savings breakdown</li>
-        <li>✓ Questions to ask your contractor about electrical work</li>
-        <li>✓ Kitchen & bathroom electrical planning checklist</li>
+        <li>✓ Kitchen renovation planning checklist</li>
+        <li>✓ How licensed contractor #13VH13054200 ensures quality</li>
+        <li>✓ Real project examples: before & after transformations</li>
+        <li>✓ Questions to ask your contractor about renovation work</li>
+        <li>✓ Kitchen & bathroom design planning checklist</li>
       </ul>
     </div>
 

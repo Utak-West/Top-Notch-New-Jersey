@@ -240,7 +240,7 @@ The New Jersey home improvement market is highly competitive with three main com
 - **Portfolio Size:** Smaller project gallery than established firms
 
 ### Opportunities
-- **Market Gap:** Few contractors offer integrated electrical services
+- **Market Gap:** Specialized focus on kitchen and bathroom renovations
 - **Digital Marketing:** Underutilized SEO and social media potential
 - **Referral Network:** Real estate agent partnerships
 - **Service Expansion:** Additional counties and services

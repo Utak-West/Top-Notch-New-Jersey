@@ -3,8 +3,8 @@
 ---
 **Document Type:** Advanced Lead Generation & Conversion Optimization System
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
-**License:** NJ Home Improvement Contractor #13VH13
+**Owner:** Pedro Ribeiro, Licensed General Contractor
+**License:** NJ Home Improvement Contractor #13VH13054200
 **Last Updated:** June 2024
 **Version:** 2.0 - Enhanced Conversion System
 **Dependencies:** contact-page.md, pricing-strategy.md, customer-acquisition.md, county-targeting.md
@@ -18,16 +18,16 @@
 
 - Kitchen & Bathroom Remodeling specialist positioning
 - Whole Home Renovation expertise
-- Master Electrician advantage (no subcontractor markups)
+- Professional excellence and quality craftsmanship
 - Pedro's personal involvement emphasis
 - County-specific targeting (Union, Essex, Middlesex, Bergen)
 
 ### Form Header Components
 
 **Primary Headline:** "New Jersey's Kitchen & Bathroom Remodeling Experts"
-**Secondary Headline:** "Master Electrician Advantage - No Electrical Subcontractor Markups"
+**Secondary Headline:** "Professional Excellence - Quality Craftsmanship & Reliable Service"
 **Personal Touch:** "Pedro Ribeiro personally oversees every renovation project"
-**Trust Badge:** "Licensed Master Electrician #13VH13 | 15+ Years Experience"
+**Trust Badge:** "Licensed General Contractor #13VH13054200 | 15+ Years Experience"
 
 ## HERO SECTION CONVERSION PANEL
 
@@ -35,12 +35,12 @@
 ```html
 <div class="hero-conversion-panel">
   <div class="credential-badge">
-    <span class="license-number">Master Electrician #13VH13</span>
+    <span class="license-number">Licensed Contractor #13VH13054200</span>
     <span class="location">Serving Union, Essex, Middlesex & Bergen Counties</span>
   </div>
 
-  <h1>Master Electrician + General Contractor</h1>
-  <h2>No Electrical Subcontractor Markups</h2>
+  <h1>Kitchen & Bathroom Renovation Specialists</h1>
+  <h2>Professional Excellence & Quality Craftsmanship</h2>
   <p>Pedro Ribeiro personally handles every project from start to finish</p>
 
   <div class="cta-button-group">
@@ -50,9 +50,9 @@
   </div>
 
   <div class="trust-indicators">
-    <span>→ Master Electrician Licensed</span>
-    <span>→ Full General Contractor</span>
-    <span>→ No Hidden Electrical Markups</span>
+    <span>→ Licensed General Contractor</span>
+    <span>→ Kitchen & Bathroom Specialists</span>
+    <span>→ Quality Craftsmanship Guaranteed</span>
     <span>→ Pedro Answers Personally</span>
   </div>
 </div>
@@ -94,9 +94,8 @@
   - "Select Your Project Type"
   - "Kitchen Remodeling"
   - "Bathroom Renovation"
-  - "Electrical Services"
+  - "Complete Home Remodel"
   - "General Home Improvement"
-  - "Emergency Electrical"
   - "Multiple Services"
 - **Conditional Logic:** Show relevant follow-up questions
 
@@ -260,7 +259,7 @@ Emergency: (908) 555-0124
 
 Best regards,
 Pedro Ribeiro
-Licensed Master Electrician #13VH13
+Licensed General Contractor #13VH13054200
 Top Notch New Jersey
 ```
 
@@ -288,13 +287,13 @@ Top Notch New Jersey
 
 #### Headline Variations
 **Benefit-Focused:**
-"Get Your Free Estimate - Save 15% on Electrical Work"
+"Get Your Free Estimate - Quality Craftsmanship Guaranteed"
 
 **Urgency-Focused:**
 "Free Estimate - Response Within 2 Hours Guaranteed"
 
 **Credibility-Focused:**
-"Licensed Master Electrician - Free Project Estimate"
+"Licensed General Contractor - Free Project Estimate"
 
 **Problem-Solving:**
 "Ready to Transform Your Home? Get Your Free Estimate"
@@ -322,7 +321,7 @@ Top Notch New Jersey
 - Budget "not sure yet" (-1 point)
 - Timeline "planning for future" (-2 points)
 - Minimal project description (-1 point)
-- Emergency requests (-1 point for non-electrical)
+- Vague project requirements (-1 point)
 
 **Lead Priority Levels:**
 - **Hot Lead (8+ points):** Contact within 1 hour
@@ -358,10 +357,10 @@ Top Notch New Jersey
 - **Special Options:** ADA compliance requirements
 - **Timeline:** Faster completion options
 
-**Electrical Services Form:**
-- **Emergency Option:** Prominent emergency contact
-- **Service Types:** Panel upgrades, outlets, lighting, etc.
-- **Urgency Levels:** Same day, next day, scheduled
+**Complete Home Remodel Form:**
+- **Scope Options:** Whole house, multiple rooms, additions
+- **Service Types:** Kitchen, bathroom, flooring, etc.
+- **Timeline:** Extended project scheduling options
 
 ---
 

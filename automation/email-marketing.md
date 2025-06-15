@@ -105,16 +105,16 @@
 **Content:**
 - Bathroom project portfolio
 - Accessibility and luxury options
-- Electrical safety and code compliance
+- Professional installation and code compliance
 - Consultation scheduling link
 
-#### Email 6: Electrical Services Overview (Day 11)
-**Subject:** "Professional Electrical Services - Safety, Code Compliance, Smart Home"
+#### Email 6: Complete Home Renovations Overview (Day 11)
+**Subject:** "Complete Home Renovations - Quality Craftsmanship & Professional Service"
 **Content:**
-- Comprehensive electrical services list
-- Emergency service availability
-- Smart home integration capabilities
-- Panel upgrades and whole house rewiring
+- Comprehensive renovation services list
+- Professional service availability
+- Modern home integration capabilities
+- Whole house renovation and remodeling
 
 #### Email 7: Ready to Start? (Day 14)
 **Subject:** "Ready to Transform Your Home? Let's Schedule Your Free Consultation"

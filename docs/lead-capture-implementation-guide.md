@@ -43,7 +43,7 @@
 **Form Integration Steps:**
 1. Install and configure WPForms Pro
 2. Create service-specific form templates
-3. Set up conditional logic for electrical work options
+3. Set up conditional logic for renovation service options
 4. Configure email notifications to Pedro
 5. Implement lead scoring system
 6. Set up automated follow-up sequences
@@ -55,10 +55,10 @@
 - Kitchen remodeling specific page
 - Bathroom renovation specific page
 - County-specific landing pages (4 variations)
-- Emergency electrical services page
+- Professional renovation services page
 
 **Conversion Elements:**
-- Trust badges with Master Electrician credentials
+- Trust badges with General Contractor credentials
 - Pedro's personal photo and testimonials
 - Service area maps with county highlighting
 - Before/after project galleries

@@ -6,12 +6,12 @@
 **"Expert Kitchen & Bathroom Remodeling in New Jersey"**
 
 ### Secondary Headline Options
-1. "Licensed Master Electrician • 15+ Years Experience • Free Estimates"
+1. "Licensed General Contractor • 15+ Years Experience • Free Estimates"
 2. "Transform Your Home with New Jersey's Trusted Renovation Experts"
 3. "Quality Craftsmanship • Licensed & Insured • Local Linden, NJ"
 
 ### Trust Badge
-**"Licensed, Bonded & Insured - NJ License #13VH13"**
+**"Licensed, Bonded & Insured - NJ License #13VH13054200"**
 
 ---
 
@@ -55,7 +55,7 @@
 ## 📝 Supporting Content
 
 ### Value Proposition Points
-- ✓ **Licensed Master Electrician** - Unique electrical expertise
+- ✓ **Licensed General Contractor** - Professional expertise and accountability
 - ✓ **15+ Years Experience** - Proven track record
 - ✓ **Kitchen & Bathroom Specialist** - Core competencies
 - ✓ **Local Linden, NJ** - Community connection
@@ -65,7 +65,7 @@
 **"Specializing in:"**
 - Complete Kitchen Remodeling ($10K - $100K+)
 - Luxury Bathroom Renovations
-- Expert Electrical Services
+- Complete Home Remodels
 - General Home Improvements
 
 ---
@@ -100,7 +100,7 @@ Display prominently below hero content:
 
 ### Mobile-Specific Content
 **Headline:** "NJ's Trusted Kitchen & Bathroom Experts"
-**Subheadline:** "Licensed Master Electrician • Free Estimates"
+**Subheadline:** "Licensed General Contractor • Free Estimates"
 **Primary CTA:** "Get Free Estimate"
 **Secondary CTA:** "Call Now"
 
@@ -146,9 +146,9 @@ Display prominently below hero content:
 4. **Benefit-Driven:** "Start Your Transformation"
 
 #### Trust Badge Variations
-1. **License-First:** "Licensed #13VH13 • Bonded & Insured"
+1. **License-First:** "Licensed #13VH13054200 • Bonded & Insured"
 2. **Experience-First:** "15+ Years Experience • Licensed & Insured"
-3. **Local-First:** "Linden, NJ • Licensed Master Electrician"
+3. **Local-First:** "Linden, NJ • Licensed General Contractor"
 
 ---
 
@@ -156,7 +156,7 @@ Display prominently below hero content:
 
 ### Meta Elements
 - **Page Title:** "Kitchen & Bathroom Remodeling NJ | Top Notch New Jersey"
-- **Meta Description:** "Expert kitchen & bathroom remodeling in NJ. Licensed Master Electrician with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- **Meta Description:** "Expert kitchen & bathroom remodeling in NJ. Licensed general contractor with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
 - **H1 Tag:** "Expert Kitchen & Bathroom Remodeling in New Jersey"
 
 ### Schema Markup

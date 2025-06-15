@@ -25,7 +25,7 @@
   </button>
   
   <button class="mobile-cta emergency" onclick="openEmergencyForm()">
-    Electrical Emergency
+    Emergency Service
   </button>
   
   <a href="sms:XXXXXXXXXX" class="mobile-cta text-us">
@@ -41,7 +41,7 @@
 ```html
 <div class="mobile-quick-form">
   <h3>Quick Kitchen Estimate</h3>
-  <p>Master Electrician Advantage - No Subcontractor Markups</p>
+  <p>Professional Excellence - Quality Craftsmanship Guaranteed</p>
   
   <form class="mobile-kitchen-form">
     <input type="text" name="name" placeholder="Your Name" required>
@@ -118,13 +118,13 @@
 </div>
 ```
 
-#### Mobile Emergency Electrical Form
+#### Mobile Emergency Service Form
 
 ```html
 <div class="mobile-emergency-form">
-  <h3>Electrical Emergency</h3>
-  <p>Master Electrician #13VH13 - 24/7 Response</p>
-  
+  <h3>Emergency Service</h3>
+  <p>Licensed Contractor #13VH13054200 - Professional Response</p>
+
   <div class="emergency-call-section">
     <a href="tel:XXXXXXXXXX" class="emergency-call-btn">
       CALL NOW: (XXX) XXX-XXXX
@@ -162,16 +162,16 @@
 ```html
 <div class="mobile-pedro-credibility">
   <div class="pedro-mobile-photo">
-    <img src="pedro-working-mobile.jpg" alt="Pedro Ribeiro Master Electrician">
+    <img src="pedro-working-mobile.jpg" alt="Pedro Ribeiro General Contractor">
   </div>
-  
+
   <div class="pedro-mobile-credentials">
     <h4>Meet Pedro Ribeiro</h4>
     <div class="mobile-credential-list">
-      <p>✓ Master Electrician #13VH13</p>
+      <p>✓ Licensed Contractor #13VH13054200</p>
       <p>✓ 15+ Years NJ Experience</p>
       <p>✓ Kitchen & Bathroom Specialist</p>
-      <p>✓ No Subcontractor Markups</p>
+      <p>✓ Quality Craftsmanship Guaranteed</p>
     </div>
     
     <blockquote class="mobile-quote">

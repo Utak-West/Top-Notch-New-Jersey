@@ -3,10 +3,10 @@
 ## 🍳 Page Header Content
 
 ### Primary Headline
-**"Kitchen Remodeling in New Jersey - Licensed Master Electrician"**
+**"Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design"**
 
 ### Subheadline
-**"Transform your kitchen with expert craftsmanship and integrated electrical expertise. From $10,000 refreshes to $100,000+ luxury transformations."**
+**"Transform your kitchen with professional design and quality craftsmanship. From $10,000 refreshes to $100,000+ luxury transformations."**
 
 ### Breadcrumbs
 Home > Services > Kitchen Remodeling
@@ -20,7 +20,7 @@ Home > Services > Kitchen Remodeling
 
 - ✅ **Design Consultation** - Free in-home assessment and planning
 - ✅ **Demolition & Prep** - Safe removal of existing fixtures and surfaces
-- ✅ **Electrical Work** - Master Electrician expertise for all wiring needs
+- ✅ **Professional Installation** - Expert craftsmanship for all components
 - ✅ **Plumbing Updates** - Sink, dishwasher, and appliance connections
 - ✅ **Cabinet Installation** - Custom, semi-custom, or refacing options
 - ✅ **Countertop Installation** - Quartz, granite, marble, and more
@@ -31,13 +31,13 @@ Home > Services > Kitchen Remodeling
 - ✅ **Project Management** - Single point of contact throughout
 
 ### Why Choose Top Notch for Your Kitchen?
-**"The Master Electrician Advantage:"**
+**"The Top Notch Advantage:"**
 
-Pedro's unique combination of electrical expertise and general contracting eliminates the need for multiple contractors. This means:
-- **Seamless Integration** - No coordination issues between trades
-- **Code Compliance** - All electrical work meets NJ standards
-- **Cost Savings** - No markup on electrical subcontractors
-- **Timeline Efficiency** - Faster project completion
+Pedro's extensive experience and commitment to quality craftsmanship ensures exceptional results. This means:
+- **Seamless Integration** - Coordinated project management across all trades
+- **Code Compliance** - All work meets or exceeds NJ building standards
+- **Cost Efficiency** - Direct supplier relationships for better pricing
+- **Timeline Efficiency** - Streamlined process for faster completion
 - **Quality Assurance** - One contractor responsible for entire project
 
 ---
@@ -53,14 +53,14 @@ Pedro's unique combination of electrical expertise and general contracting elimi
 - Countertop replacement (laminate to quartz)
 - Appliance updates and installation
 - Backsplash installation
-- Lighting improvements and electrical updates
+- Lighting improvements and updates
 - Hardware replacement and minor modifications
 
 **Popular Add-ons:**
 - Under-cabinet LED lighting
 - New sink and faucet
-- Electrical outlet additions
-- GFCI upgrades
+- Additional outlet installations
+- Modern lighting fixtures
 
 ### Mid-Range Kitchen Renovation
 **Investment Range: $30,000 - $55,000**
@@ -73,13 +73,13 @@ Pedro's unique combination of electrical expertise and general contracting elimi
 - Updated flooring (LVP, tile, or hardwood)
 - New appliances and installation
 - Layout adjustments (minor wall removal)
-- Electrical panel upgrades if needed
+- Professional installation and coordination
 - Plumbing relocations
 
 **Popular Features:**
 - Kitchen island or peninsula
 - Recessed lighting throughout
-- Dedicated appliance circuits
+- Modern appliance installations
 - USB outlets and charging stations
 
 ### Luxury Kitchen Transformation
@@ -93,11 +93,11 @@ Pedro's unique combination of electrical expertise and general contracting elimi
 - Structural changes (open-concept conversion)
 - High-end appliances and smart integrations
 - Full transformation with luxury finishes
-- Smart home electrical integration
+- Smart home integration and modern technology
 - Wine refrigerators and specialty appliances
 
 **Luxury Features:**
-- Smart lighting and electrical controls
+- Smart lighting and modern controls
 - Built-in coffee stations
 - Custom pantry solutions
 - High-end appliance packages
@@ -126,7 +126,7 @@ Pedro's unique combination of electrical expertise and general contracting elimi
 ### Step 3: Demolition & Infrastructure
 **"Setting the Foundation"**
 - Careful demolition and debris removal
-- Electrical rough-in and panel upgrades
+- Professional rough-in work coordination
 - Plumbing rough-in and relocations
 - Structural modifications (if needed)
 - Drywall repairs and preparation
@@ -137,7 +137,7 @@ Pedro's unique combination of electrical expertise and general contracting elimi
 - Cabinet installation and adjustment
 - Countertop templating and installation
 - Backsplash and tile work
-- Electrical finish work and lighting
+- Professional finish work and lighting
 - Plumbing fixture installation
 - Paint and final trim work
 
@@ -166,7 +166,7 @@ Factors affecting timeline include permit requirements, custom orders, and struc
 ### Do I need permits for my kitchen remodel?
 **Permit requirements vary by scope:**
 - **Cosmetic updates:** Usually no permits needed
-- **Electrical work:** Always requires permits and inspection
+- **Electrical work:** May require permits and inspection
 - **Plumbing changes:** Permits required for relocations
 - **Structural changes:** Building permits required
 
@@ -183,7 +183,7 @@ As a licensed contractor, we handle all permit applications and inspections.
 ### What's included in your warranty?
 **Comprehensive warranty coverage:**
 - **Workmanship:** 2 years on all labor
-- **Electrical work:** 1 year on all electrical installations
+- **Installation work:** 1 year on all professional installations
 - **Materials:** Manufacturer warranties passed through
 - **Cabinets:** Varies by manufacturer (typically 1-5 years)
 - **Appliances:** Full manufacturer warranty support
@@ -210,19 +210,19 @@ As a licensed contractor, we handle all permit applications and inspections.
 - Recessed lighting and under-cabinet LEDs
 - Hardwood flooring throughout
 
-#### Contemporary Open Concept - Union, NJ  
+#### Contemporary Open Concept - Union, NJ
 **Investment:** $72,000 | **Timeline:** 7 weeks
 - Wall removal for open floor plan
 - Custom two-tone cabinetry
 - Waterfall edge quartz island
 - Designer pendant lighting
-- Smart home electrical integration
+- Smart home integration and modern features
 
 #### Traditional Kitchen Refresh - Elizabeth, NJ
 **Investment:** $18,000 | **Timeline:** 3 weeks
 - Cabinet refacing with new hardware
 - Granite countertops and tile backsplash
-- Updated lighting and electrical outlets
+- Updated lighting and modern outlets
 - New stainless steel appliances
 - Fresh paint and trim work
 
@@ -261,7 +261,7 @@ As a licensed contractor, we handle all permit applications and inspections.
 ## 🏆 Why Homeowners Choose Top Notch
 
 ### The Pedro Ribeiro Difference
-- **Licensed Master Electrician** - Unique electrical expertise
+- **Licensed General Contractor** - Professional expertise and accountability
 - **15+ Years Experience** - Proven track record
 - **Local Linden, NJ Business** - Community commitment
 - **Licensed & Insured** - Complete protection
@@ -277,11 +277,11 @@ As a licensed contractor, we handle all permit applications and inspections.
 ---
 
 **Page SEO Elements:**
-- **Title Tag:** "Kitchen Remodeling NJ | Licensed Master Electrician | Top Notch New Jersey"
-- **Meta Description:** "Expert kitchen remodeling in NJ by licensed Master Electrician. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
-- **H1:** "Kitchen Remodeling in New Jersey - Licensed Master Electrician"
+- **Title Tag:** "Kitchen Remodeling NJ | Expert Craftsmanship & Design | Top Notch New Jersey"
+- **Meta Description:** "Expert kitchen remodeling in NJ by licensed general contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- **H1:** "Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design"
 - **Local Keywords:** New Jersey, NJ, Union County, Essex County, Linden
-- **Service Keywords:** Kitchen remodeling, renovation, cabinets, countertops, electrical
+- **Service Keywords:** Kitchen remodeling, renovation, cabinets, countertops, design
 
 **Content Version:** 1.0  
 **Last Updated:** June 2024

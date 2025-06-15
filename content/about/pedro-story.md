@@ -1,10 +1,10 @@
 # About Pedro Ribeiro - Top Notch New Jersey
 
-## 👨‍🔧 Meet Pedro Ribeiro - Your Master Electrician & Renovation Expert
+## 👨‍🔧 Meet Pedro Ribeiro - Your Kitchen & Bathroom Renovation Expert
 
 ### Page Header
-**Headline:** "Meet Pedro Ribeiro - Licensed Master Electrician & Home Renovation Expert"
-**Subheadline:** "15+ Years of Experience • NJ License #13VH13 • Your Trusted Partner for Quality Home Transformations"
+**Headline:** "Meet Pedro Ribeiro - Licensed General Contractor & Home Renovation Expert"
+**Subheadline:** "15+ Years of Experience • NJ License #13VH13054200 • Your Trusted Partner for Quality Home Transformations"
 
 ---
 
@@ -13,12 +13,12 @@
 ### The Beginning: A Passion for Problem-Solving
 Pedro Ribeiro's journey into home improvement began with a simple belief: every homeowner deserves a beautiful, functional space that reflects their lifestyle and needs. Growing up in a family that valued craftsmanship and attention to detail, Pedro developed an early appreciation for quality work and the satisfaction that comes from transforming spaces.
 
-After completing his electrical apprenticeship and earning his Master Electrician license (#13VH13), Pedro spent years working for various contractors throughout New Jersey. During this time, he witnessed firsthand the frustration homeowners experienced when coordinating multiple contractors for renovation projects involving both electrical work and general construction.
+After completing his training in construction and home renovation, Pedro spent years working for various contractors throughout New Jersey. During this time, he witnessed firsthand the frustration homeowners experienced when coordinating multiple contractors for complex renovation projects, especially in kitchens and bathrooms where precision and quality are paramount.
 
-### The Vision: Integrated Expertise Under One Roof
-In 2018, Pedro founded Top Notch New Jersey with a clear vision: to provide homeowners with a single, reliable source for both high-quality home renovations and expert electrical services. By combining his Master Electrician expertise with extensive general contracting experience, Pedro eliminated the communication gaps, scheduling conflicts, and quality inconsistencies that plague many home improvement projects.
+### The Vision: Excellence in Kitchen & Bathroom Renovations
+In 2018, Pedro founded Top Notch New Jersey with a clear vision: to provide homeowners with exceptional kitchen and bathroom renovation services backed by years of experience and unwavering commitment to quality. By focusing on these specialized areas, Pedro developed deep expertise in the unique challenges and opportunities that kitchen and bathroom projects present.
 
-*"I saw too many beautiful renovations compromised by poor electrical work, and too many electrical projects that didn't consider the overall design vision. I knew there had to be a better way."* - Pedro Ribeiro
+*"I saw too many homeowners disappointed with renovation projects that didn't meet their expectations. I knew I could deliver the quality craftsmanship and personal attention that every homeowner deserves."* - Pedro Ribeiro
 
 ### The Commitment: Quality, Reliability, and Trust
 Since founding Top Notch New Jersey, Pedro has built his reputation on three core principles:
@@ -34,40 +34,48 @@ Since founding Top Notch New Jersey, Pedro has built his reputation on three cor
 ## 🏆 Credentials & Expertise
 
 ### Professional Licenses & Certifications
-- **Master Electrician License:** NJ License #13VH13
+- **General Contractor License:** NJ License #13VH13054200
 - **Home Improvement Contractor License:** Licensed and registered in New Jersey
 - **Bonded & Insured:** Full liability and workers' compensation coverage
 - **Continuing Education:** Regular training on latest codes and techniques
 
 ### Areas of Expertise
-**Electrical Services:**
-- Residential wiring and rewiring
-- Electrical panel upgrades and installations
-- Smart home automation and integration
-- Lighting design and installation
-- Code compliance and safety inspections
-- Emergency electrical services
+**Kitchen Remodeling:**
+- Complete kitchen renovations and design
+- Custom cabinetry design and installation
+- Countertop selection and installation
+- Kitchen layout optimization and design
+- Appliance installation and integration
+- Flooring and backsplash installation
 
-**Home Renovations:**
-- Complete kitchen remodeling and design
-- Luxury bathroom renovations
-- Basement finishing and conversions
+**Bathroom Renovations:**
+- Full bathroom remodels and renovations
+- Tile work and custom shower installations
+- Vanity and fixture installations
+- Modern lighting and ventilation solutions
+- Accessibility modifications and improvements
+- Luxury bathroom upgrades
+
+**Complete Home Remodels:**
+- Whole house renovations and additions
+- Interior and exterior renovations
 - Room additions and layout modifications
 - Flooring installation (all types)
 - Custom carpentry and built-ins
+- Basement finishing and conversions
 
-### The Master Electrician Advantage
-Pedro's Master Electrician license sets Top Notch New Jersey apart from typical general contractors. This advanced certification requires:
-- **Extensive Training:** Years of apprenticeship and classroom education
-- **Rigorous Testing:** Comprehensive examinations on electrical theory and code
-- **Ongoing Education:** Regular updates on changing codes and technologies
-- **Legal Authority:** Ability to design, install, and inspect electrical systems
+### The Top Notch Advantage
+Pedro's extensive experience and commitment to quality craftsmanship sets Top Notch New Jersey apart from typical contractors. This expertise includes:
+- **Comprehensive Training:** Years of hands-on experience in home renovation
+- **Quality Focus:** Meticulous attention to detail in every project
+- **Ongoing Education:** Regular updates on latest techniques and materials
+- **Professional Standards:** All work meets or exceeds building codes
 
 This expertise means your renovation project benefits from:
-- **Integrated Planning:** Electrical needs considered from the design phase
-- **Code Compliance:** All work meets or exceeds NJ electrical codes
-- **Future-Proofing:** Electrical systems designed for modern and future needs
-- **Cost Efficiency:** No markup on electrical subcontractors
+- **Integrated Planning:** All aspects considered from the design phase
+- **Code Compliance:** All work meets or exceeds NJ building codes
+- **Quality Materials:** Careful selection of durable, attractive materials
+- **Cost Efficiency:** Direct relationships with suppliers for better pricing
 - **Single Accountability:** One contractor responsible for entire project
 
 ---
@@ -147,11 +155,11 @@ Pedro's dual expertise allows for seamless project coordination:
 
 ### Client Testimonials
 
-*"Pedro transformed our outdated kitchen into a modern masterpiece. His electrical expertise meant we could add all the outlets and lighting we wanted without hiring another contractor. The project was completed on time and on budget."* - Sarah M., Union, NJ
+*"Pedro transformed our outdated kitchen into a modern masterpiece. His attention to detail and quality craftsmanship exceeded our expectations. The project was completed on time and on budget."* - Sarah M., Union, NJ
 
-*"As a Master Electrician, Pedro caught electrical issues in our old house that other contractors missed. He fixed everything properly and safely. We trust him completely."* - Michael R., Linden, NJ
+*"Pedro's expertise in kitchen and bathroom renovations is outstanding. He caught potential issues early and provided solutions that saved us money. We trust him completely."* - Michael R., Linden, NJ
 
-*"Pedro's attention to detail is incredible. Every tile, every outlet, every piece of trim was perfect. You can tell he takes pride in his work."* - Jennifer L., Essex County
+*"Pedro's attention to detail is incredible. Every tile, every fixture, every piece of trim was perfect. You can tell he takes pride in his work."* - Jennifer L., Essex County
 
 ---
 
@@ -177,12 +185,12 @@ Pedro personally handles all initial consultations to ensure you receive the exp
 - Sunday: Emergency services only
 
 ### Why Choose Pedro?
-- ✅ **Licensed Master Electrician** - Advanced expertise and legal authority
+- ✅ **Licensed General Contractor** - Professional expertise and accountability
 - ✅ **15+ Years Experience** - Proven track record of successful projects
 - ✅ **Local Linden, NJ Business** - Community commitment and accessibility
 - ✅ **Licensed, Bonded & Insured** - Complete protection and peace of mind
 - ✅ **Personal Service** - Work directly with the owner
-- ✅ **Integrated Expertise** - Electrical and renovation services combined
+- ✅ **Kitchen & Bathroom Specialist** - Focused expertise in key renovation areas
 - ✅ **Quality Guarantee** - Commitment to exceptional craftsmanship
 
 **Ready to transform your home with New Jersey's trusted renovation expert? Contact Pedro today!**
@@ -190,9 +198,9 @@ Pedro personally handles all initial consultations to ensure you receive the exp
 ---
 
 **Page SEO Elements:**
-- **Title Tag:** "About Pedro Ribeiro | Master Electrician & Renovation Expert | Top Notch NJ"
-- **Meta Description:** "Meet Pedro Ribeiro, licensed Master Electrician and home renovation expert serving New Jersey. 15+ years experience, licensed & insured. Personal service guaranteed."
-- **H1:** "Meet Pedro Ribeiro - Licensed Master Electrician & Home Renovation Expert"
+- **Title Tag:** "About Pedro Ribeiro | Kitchen & Bathroom Renovation Expert | Top Notch NJ"
+- **Meta Description:** "Meet Pedro Ribeiro, licensed general contractor and kitchen & bathroom renovation expert serving New Jersey. 15+ years experience, licensed & insured. Personal service guaranteed."
+- **H1:** "Meet Pedro Ribeiro - Licensed General Contractor & Home Renovation Expert"
 - **Schema Markup:** Person and LocalBusiness structured data
 
 **Content Version:** 1.0  
