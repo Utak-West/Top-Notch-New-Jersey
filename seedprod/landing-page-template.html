@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey</title>
+    <meta name="description" content="Expert kitchen & bathroom remodeling in NJ. Licensed Master Electrician Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates.">
+    
+    <!-- SeedProd Pro Template Structure -->
+    <!-- This template serves as a reference for SeedProd Pro page builder configuration -->
+    
+    <style>
+        /* Brand Color Variables */
+        :root {
+            --brand-blue: #1E3A8A;
+            --accent-gold: #F59E0B;
+            --success-green: #10B981;
+            --warning-orange: #F97316;
+            --neutral-gray: #6B7280;
+            --white: #FFFFFF;
+            --dark-text: #1F2937;
+        }
+        
+        /* Typography */
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--dark-text);
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* Hero Section */
+        .hero-section {
+            background: linear-gradient(135deg, var(--brand-blue) 0%, rgba(30, 58, 138, 0.8) 100%);
+            color: var(--white);
+            padding: 80px 0;
+            text-align: center;
+            min-height: 600px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .hero-content h1 {
+            font-size: 48px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        
+        .hero-content .subheadline {
+            font-size: 20px;
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+        
+        .cta-button {
+            background: var(--accent-gold);
+            color: var(--white);
+            padding: 16px 32px;
+            font-size: 18px;
+            font-weight: 500;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        
+        .cta-button:hover {
+            background: #D97706;
+            transform: translateY(-2px);
+        }
+        
+        /* Trust Indicators */
+        .trust-indicators {
+            background: var(--white);
+            padding: 40px 0;
+            border-bottom: 1px solid #E5E7EB;
+        }
+        
+        .trust-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+            text-align: center;
+        }
+        
+        .trust-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .trust-icon {
+            width: 60px;
+            height: 60px;
+            background: var(--success-green);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 15px;
+            color: var(--white);
+            font-size: 24px;
+        }
+        
+        /* Services Section */
+        .services-section {
+            padding: 80px 0;
+            background: #F9FAFB;
+        }
+        
+        .section-title {
+            text-align: center;
+            font-size: 36px;
+            font-weight: 600;
+            margin-bottom: 50px;
+            color: var(--brand-blue);
+        }
+        
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+        }
+        
+        .service-card {
+            background: var(--white);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .service-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .service-icon {
+            width: 80px;
+            height: 80px;
+            background: var(--accent-gold);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            color: var(--white);
+            font-size: 32px;
+        }
+        
+        /* Contact Form Section */
+        .contact-section {
+            padding: 80px 0;
+            background: var(--brand-blue);
+            color: var(--white);
+        }
+        
+        .form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: var(--white);
+            padding: 40px;
+            border-radius: 12px;
+            color: var(--dark-text);
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #E5E7EB;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+        
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--brand-blue);
+        }
+        
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .hero-content h1 {
+                font-size: 32px;
+            }
+            
+            .hero-content .subheadline {
+                font-size: 18px;
+            }
+            
+            .section-title {
+                font-size: 28px;
+            }
+            
+            .services-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .trust-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts</h1>
+                <p class="subheadline">Licensed Master Electrician Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties</p>
+                <a href="#contact-form" class="cta-button">Get Free Estimate</a>
+                
+                <!-- Trust Badges -->
+                <div style="margin-top: 40px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+                    <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 25px;">
+                        ✓ Licensed Master Electrician #13VH13054200
+                    </div>
+                    <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 25px;">
+                        ✓ Bonded & Insured
+                    </div>
+                    <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 25px;">
+                        ✓ 15+ Years Experience
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust Indicators Section -->
+    <section class="trust-indicators">
+        <div class="container">
+            <div class="trust-grid">
+                <div class="trust-item">
+                    <div class="trust-icon">⚡</div>
+                    <h3>Licensed Master Electrician</h3>
+                    <p>NJ License #13VH13054200</p>
+                </div>
+                <div class="trust-item">
+                    <div class="trust-icon">🛡️</div>
+                    <h3>Bonded & Insured</h3>
+                    <p>Full liability protection</p>
+                </div>
+                <div class="trust-item">
+                    <div class="trust-icon">🏠</div>
+                    <h3>Local Linden, NJ</h3>
+                    <p>Serving surrounding counties</p>
+                </div>
+                <div class="trust-item">
+                    <div class="trust-icon">📋</div>
+                    <h3>Free Estimates</h3>
+                    <p>No obligation consultations</p>
+                </div>
+                <div class="trust-item">
+                    <div class="trust-icon">⭐</div>
+                    <h3>15+ Years Experience</h3>
+                    <p>Proven track record</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services-section">
+        <div class="container">
+            <h2 class="section-title">Our Expert Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🍳</div>
+                    <h3>Kitchen Remodeling</h3>
+                    <p>Complete kitchen transformations from $10,000 refreshes to $100,000+ luxury renovations. Professional electrical work included.</p>
+                    <ul style="text-align: left; margin: 20px 0;">
+                        <li>Custom cabinet installation</li>
+                        <li>Countertop installation</li>
+                        <li>Electrical upgrades & lighting</li>
+                        <li>Plumbing modifications</li>
+                        <li>Flooring installation</li>
+                    </ul>
+                    <a href="#contact-form" class="cta-button">Get Kitchen Quote</a>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">🛁</div>
+                    <h3>Bathroom Renovation</h3>
+                    <p>Full bathroom renovations with professional electrical work and modern fixtures. From basic updates to luxury spa bathrooms.</p>
+                    <ul style="text-align: left; margin: 20px 0;">
+                        <li>Complete bathroom gutting</li>
+                        <li>Tile & flooring installation</li>
+                        <li>Electrical safety upgrades</li>
+                        <li>Plumbing fixture installation</li>
+                        <li>Ventilation systems</li>
+                    </ul>
+                    <a href="#contact-form" class="cta-button">Get Bathroom Quote</a>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">⚡</div>
+                    <h3>Master Electrician Services</h3>
+                    <p>Licensed electrical work for all your home improvement and renovation needs. Code-compliant installations and safety upgrades.</p>
+                    <ul style="text-align: left; margin: 20px 0;">
+                        <li>Electrical panel upgrades</li>
+                        <li>Outlet & switch installation</li>
+                        <li>Lighting design & installation</li>
+                        <li>GFCI protection</li>
+                        <li>Code compliance updates</li>
+                    </ul>
+                    <a href="#contact-form" class="cta-button">Get Electrical Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Section -->
+    <section style="padding: 80px 0; background: white;">
+        <div class="container">
+            <h2 class="section-title">Why Choose Top Notch New Jersey?</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-top: 50px;">
+                <div style="text-align: center;">
+                    <h3 style="color: var(--brand-blue); margin-bottom: 15px;">Single Point of Contact</h3>
+                    <p>Pedro manages your entire project from design to completion, ensuring seamless coordination across all trades.</p>
+                </div>
+                <div style="text-align: center;">
+                    <h3 style="color: var(--brand-blue); margin-bottom: 15px;">Licensed & Qualified</h3>
+                    <p>Master Electrician credentials ensure all electrical work meets or exceeds New Jersey building codes.</p>
+                </div>
+                <div style="text-align: center;">
+                    <h3 style="color: var(--brand-blue); margin-bottom: 15px;">Local New Jersey Business</h3>
+                    <p>Based in Linden, NJ since 2018. We understand local requirements and building codes.</p>
+                </div>
+                <div style="text-align: center;">
+                    <h3 style="color: var(--brand-blue); margin-bottom: 15px;">Quality Materials</h3>
+                    <p>Direct supplier relationships ensure quality materials at competitive prices for your project.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Service Areas Section -->
+    <section style="padding: 60px 0; background: #F9FAFB;">
+        <div class="container">
+            <h2 class="section-title">Service Areas</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; text-align: center;">
+                <div>
+                    <h3 style="color: var(--brand-blue);">Union County</h3>
+                    <p>Linden, Elizabeth, Westfield, Summit, Cranford, Rahway, Plainfield</p>
+                </div>
+                <div>
+                    <h3 style="color: var(--brand-blue);">Essex County</h3>
+                    <p>Newark, Montclair, Bloomfield, East Orange, Nutley, West Orange</p>
+                </div>
+                <div>
+                    <h3 style="color: var(--brand-blue);">Middlesex County</h3>
+                    <p>Edison, Woodbridge, New Brunswick, Perth Amboy, Carteret</p>
+                </div>
+                <div>
+                    <h3 style="color: var(--brand-blue);">Bergen County</h3>
+                    <p>Hackensack, Paramus, Fort Lee, Englewood, Teaneck</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section id="contact-form" class="contact-section">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 20px;">Ready to Transform Your Home?</h2>
+            <p style="text-align: center; font-size: 18px; margin-bottom: 40px; opacity: 0.9;">Get your free estimate today - no obligation</p>
+            
+            <div class="form-container">
+                <h3 style="text-align: center; margin-bottom: 30px; color: var(--brand-blue);">Get Your Free Estimate</h3>
+                
+                <!-- SeedProd Form Integration Point -->
+                <form id="estimate-form" action="#" method="POST">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                        <div class="form-group">
+                            <label for="first-name">First Name *</label>
+                            <input type="text" id="first-name" name="first_name" required placeholder="Your first name">
+                        </div>
+                        <div class="form-group">
+                            <label for="last-name">Last Name *</label>
+                            <input type="text" id="last-name" name="last_name" required placeholder="Your last name">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email Address *</label>
+                        <input type="email" id="email" name="email" required placeholder="your.email@example.com">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">Phone Number *</label>
+                        <input type="tel" id="phone" name="phone" required placeholder="(XXX) XXX-XXXX">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="service">Service Interest *</label>
+                        <select id="service" name="service_interest" required>
+                            <option value="">Select a service...</option>
+                            <option value="kitchen">Kitchen Remodeling</option>
+                            <option value="bathroom">Bathroom Renovation</option>
+                            <option value="electrical">Electrical Work</option>
+                            <option value="multiple">Multiple Services</option>
+                        </select>
+                    </div>
+                    
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                        <div class="form-group">
+                            <label for="timeline">Project Timeline</label>
+                            <select id="timeline" name="timeline">
+                                <option value="">Select timeline...</option>
+                                <option value="asap">ASAP</option>
+                                <option value="1month">Within 1 month</option>
+                                <option value="1-3months">1-3 months</option>
+                                <option value="3-6months">3-6 months</option>
+                                <option value="exploring">Just exploring</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="budget">Project Budget</label>
+                            <select id="budget" name="budget">
+                                <option value="">Select budget range...</option>
+                                <option value="under15k">Under $15,000</option>
+                                <option value="15k-30k">$15,000 - $30,000</option>
+                                <option value="30k-50k">$30,000 - $50,000</option>
+                                <option value="50k-75k">$50,000 - $75,000</option>
+                                <option value="75k+">$75,000+</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="location">City/Location in NJ</label>
+                        <input type="text" id="location" name="location" placeholder="City, NJ (for service area verification)">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="details">Project Details</label>
+                        <textarea id="details" name="project_details" rows="4" placeholder="Tell us about your project..."></textarea>
+                    </div>
+                    
+                    <div style="text-align: center; margin-top: 30px;">
+                        <button type="submit" class="cta-button" style="width: 100%; padding: 16px;">Get My Free Estimate</button>
+                    </div>
+                    
+                    <p style="text-align: center; font-size: 14px; color: var(--neutral-gray); margin-top: 20px;">
+                        We'll contact you within 24 hours to schedule your free consultation.
+                    </p>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Contact Info -->
+    <footer style="background: var(--dark-text); color: var(--white); padding: 40px 0; text-align: center;">
+        <div class="container">
+            <h3>Top Notch New Jersey</h3>
+            <p>Licensed Master Electrician Pedro Ribeiro</p>
+            <p>License #13VH13054200 | Bonded & Insured</p>
+            <div style="margin: 20px 0;">
+                <a href="tel:+1234567890" style="color: var(--accent-gold); text-decoration: none; font-size: 18px; font-weight: 500;">
+                    📞 Call for Free Estimate
+                </a>
+            </div>
+            <p style="font-size: 14px; opacity: 0.8;">
+                Serving Union, Essex, Middlesex & Bergen Counties | Licensed, Bonded & Insured
+            </p>
+        </div>
+    </footer>
+
+    <!-- SeedProd Pro Integration Scripts -->
+    <script>
+        // Form submission handling for SeedProd integration
+        document.getElementById('estimate-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // SeedProd Pro will handle form submission
+            // This is a placeholder for the actual SeedProd form integration
+            
+            // Collect form data
+            const formData = new FormData(this);
+            const data = Object.fromEntries(formData);
+            
+            // Add lead scoring data
+            data.lead_score = calculateLeadScore(data);
+            data.submission_time = new Date().toISOString();
+            data.page_source = 'seedprod_landing_page';
+            
+            // SeedProd Pro webhook integration point
+            // This will be configured in SeedProd Pro settings
+            console.log('Form submission data:', data);
+            
+            // Show success message
+            showSuccessMessage();
+        });
+        
+        function calculateLeadScore(data) {
+            let score = 0;
+            
+            // Service type scoring
+            if (data.service_interest === 'multiple') score += 30;
+            else if (data.service_interest === 'kitchen') score += 25;
+            else if (data.service_interest === 'bathroom') score += 20;
+            else if (data.service_interest === 'electrical') score += 15;
+            
+            // Timeline scoring
+            if (data.timeline === 'asap') score += 25;
+            else if (data.timeline === '1month') score += 20;
+            else if (data.timeline === '1-3months') score += 15;
+            else if (data.timeline === '3-6months') score += 10;
+            
+            // Budget scoring
+            if (data.budget === '75k+') score += 25;
+            else if (data.budget === '50k-75k') score += 20;
+            else if (data.budget === '30k-50k') score += 15;
+            else if (data.budget === '15k-30k') score += 10;
+            
+            return score;
+        }
+        
+        function showSuccessMessage() {
+            const form = document.getElementById('estimate-form');
+            form.innerHTML = `
+                <div style="text-align: center; padding: 40px;">
+                    <div style="font-size: 48px; color: var(--success-green); margin-bottom: 20px;">✓</div>
+                    <h3 style="color: var(--success-green); margin-bottom: 15px;">Thank You!</h3>
+                    <p>We've received your estimate request and will contact you within 24 hours to schedule your free consultation.</p>
+                    <p style="margin-top: 20px;">
+                        <strong>Need immediate assistance?</strong><br>
+                        <a href="tel:+1234567890" style="color: var(--brand-blue); text-decoration: none;">Call us now: (XXX) XXX-XXXX</a>
+                    </p>
+                </div>
+            `;
+        }
+        
+        // Smooth scrolling for CTA buttons
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+        
+        // Phone number click tracking
+        document.querySelectorAll('a[href^="tel:"]').forEach(link => {
+            link.addEventListener('click', function() {
+                // Track phone click event for analytics
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'phone_click', {
+                        'event_category': 'contact',
+                        'event_label': 'header_phone'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
