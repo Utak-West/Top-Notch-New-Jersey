@@ -11,7 +11,7 @@
 3. "Quality Craftsmanship • Licensed & Insured • Local Linden, NJ"
 
 ### Trust Badge
-**"Licensed, Bonded & Insured - NJ License #13VH13054200"**
+**"Licensed, Bonded & Insured - NJ Home Improvement Contractor"**
 
 ---
 
@@ -146,7 +146,7 @@ Display prominently below hero content:
 4. **Benefit-Driven:** "Start Your Transformation"
 
 #### Trust Badge Variations
-1. **License-First:** "Licensed #13VH13054200 • Bonded & Insured"
+1. **License-First:** "Licensed Contractor • Bonded & Insured"
 2. **Experience-First:** "15+ Years Experience • Licensed & Insured"
 3. **Local-First:** "Linden, NJ • Licensed General Contractor"
 

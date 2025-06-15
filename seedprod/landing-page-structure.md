@@ -20,7 +20,7 @@
 🏠 HERO SECTION
 ├── Trust Badge: "Licensed, Bonded & Insured #13VH13"
 ├── Headline: "Expert Kitchen & Bathroom Remodeling in New Jersey"
-├── Subheadline: "Licensed Master Electrician • 15+ Years Experience • Free Estimates"
+├── Subheadline: "Licensed Home Improvement Contractor • 15+ Years Experience • Free Estimates"
 ├── Primary CTA: "Get Your Free Estimate" (Large, prominent button)
 ├── Secondary CTA: "Call (XXX) XXX-XXXX" (Click-to-call)
 └── Hero Image: High-quality before/after kitchen transformation
@@ -49,11 +49,11 @@
 │   ├── Title: "Bathroom Upgrades"
 │   ├── Description: "Luxury renovations & accessibility modifications"
 │   └── CTA: "Get Bathroom Quote"
-└── Electrical Services
-    ├── Icon: Lightning bolt/electrical symbol
-    ├── Title: "Master Electrician"
-    ├── Description: "Expert electrical work for all projects"
-    └── CTA: "Get Electrical Quote"
+└── Home Improvements
+    ├── Icon: Home/renovation symbol
+    ├── Title: "General Contracting"
+    ├── Description: "Complete home improvement solutions"
+    └── CTA: "Get Project Quote"
 ```
 
 ### Social Proof Section
@@ -69,9 +69,9 @@
 ```
 👨‍🔧 ABOUT SECTION
 ├── Professional Photo: Pedro on job site
-├── Headline: "Meet Pedro Ribeiro - Your Master Electrician"
+├── Headline: "Meet Pedro Ribeiro - Your Licensed Contractor"
 ├── Credentials: License, experience, local focus
-├── Value Proposition: Integrated electrical + renovation expertise
+├── Value Proposition: Expert kitchen & bathroom renovation specialist
 └── CTA: "Schedule Consultation"
 ```
 

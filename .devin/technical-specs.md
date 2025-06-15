@@ -143,11 +143,11 @@
 ### Meta Tag Requirements
 **Homepage:**
 - Title: "Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey"
-- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Master Electrician Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
+- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Home Improvement Contractor Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
 
 **Service Pages:**
 - Kitchen: "Kitchen Remodeling NJ | Custom Designs | Licensed Contractor"
-- Bathroom: "Bathroom Renovation NJ | Luxury Upgrades | Master Electrician"
+- Bathroom: "Bathroom Renovation NJ | Luxury Upgrades | Licensed Contractor"
 
 ## 🚀 Performance Optimization
 

@@ -60,7 +60,7 @@
 **Background:** Gradient overlay on kitchen/bathroom image
 **Content Elements:**
 - Main headline: "Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts"
-- Subheadline: "Licensed Master Electrician Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties"
+- Subheadline: "Licensed Home Improvement Contractor Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties"
 - Primary CTA button: "Get Free Estimate"
 - Trust indicators: Licensed, Bonded, Insured badges
 - Phone number: Click-to-call functionality
@@ -68,7 +68,7 @@
 **Hero Section Configuration:**
 ```
 Headline: "Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts"
-Subheadline: "Licensed Master Electrician Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties"
+Subheadline: "Licensed Home Improvement Contractor Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties"
 CTA Button Text: "Get Free Estimate"
 CTA Button Color: #F59E0B (Accent Gold)
 Background Image: High-quality kitchen/bathroom transformation
@@ -78,7 +78,7 @@ Overlay Color: #1E3A8A with 70% opacity
 ### Section 2: Trust Indicators Bar
 **Layout:** Horizontal row with icons and text
 **Elements:**
-- Licensed Master Electrician #13VH13054200
+- Licensed, Bonded & Insured Contractor
 - Bonded & Insured
 - 15+ Years Experience
 - Local Linden, NJ Business
@@ -102,14 +102,14 @@ Overlay Color: #1E3A8A with 70% opacity
 
 **Electrical Services:**
 - Icon: Lightning bolt icon
-- Headline: "Master Electrician Services"
-- Description: "Licensed electrical work for all your home improvement and renovation needs"
-- CTA: "Electrical Services"
+- Headline: "Home Improvement Services"
+- Description: "Complete home renovation solutions for kitchens, bathrooms, and beyond"
+- CTA: "View All Services"
 
 ### Section 4: Why Choose Top Notch
 **Layout:** Two-column layout with image and content
 **Content:**
-- Licensed Master Electrician credentials
+- Licensed Home Improvement Contractor credentials
 - Local New Jersey business since 2018
 - Single point of contact for entire project
 - Quality materials and professional installation
@@ -238,7 +238,7 @@ Overlay Color: #1E3A8A with 70% opacity
 ### SEO Configuration
 **Meta Tags:**
 - Title: "Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey"
-- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Master Electrician Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
+- Description: "Expert kitchen & bathroom remodeling in NJ. Licensed Home Improvement Contractor Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates."
 - Keywords: "kitchen remodeling nj, bathroom renovation new jersey, licensed contractor"
 
 **Schema Markup:**

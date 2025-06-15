@@ -4,15 +4,15 @@
 
 ### Repository Purpose & Context
 **Project:** WordPress website for Top Notch New Jersey home improvement company  
-**Owner:** Pedro Ribeiro (Licensed Master Electrician #13VH13)  
+**Owner:** Pedro Ribeiro (Licensed Home Improvement Contractor)  
 **Primary Goal:** Generate leads for kitchen & bathroom remodeling services  
 **Target Market:** New Jersey homeowners (Union, Essex, Middlesex, Bergen Counties)  
 
 ### Key Business Context for AI Understanding
-- **Licensed Professional:** Always emphasize Pedro's General Contractor credentials
+- **Licensed Professional:** Always emphasize Pedro's Home Improvement Contractor credentials
 - **Local Focus:** New Jersey market specialization is crucial for SEO and trust
 - **Quality Over Price:** Position as premium service, not cheapest option
-- **Trust Indicators:** License #13VH13054200, bonded & insured status are critical
+- **Trust Indicators:** Licensed, bonded & insured status are critical
 
 ## 📁 Repository Navigation Guide
 
@@ -46,8 +46,8 @@ Deployment (DEPLOYMENT-GUIDE.md)
 **Business Information (Must Match Across All Files):**
 - Company: "Top Notch New Jersey"
 - Owner: "Pedro Ribeiro"
-- License: "NJ Home Improvement Contractor #13VH13054200"
-- Title: "Licensed General Contractor"
+- License: "Licensed, Bonded & Insured"
+- Title: "Licensed Home Improvement Contractor"
 - Location: "Linden, NJ"
 - Service Areas: "Union, Essex, Middlesex, Bergen Counties"
 - Established: "2018"
@@ -64,7 +64,7 @@ Deployment (DEPLOYMENT-GUIDE.md)
 #### SEO Integration Rules
 - **Primary Keywords:** "kitchen remodeling NJ", "bathroom renovation New Jersey"
 - **Local Keywords:** Include city/county names naturally
-- **Credential Keywords:** "licensed contractor", "master electrician"
+- **Credential Keywords:** "licensed contractor", "home improvement contractor"
 - **Service Keywords:** Specific to kitchen/bathroom specializations
 - **Avoid Keyword Stuffing:** Natural integration only
 

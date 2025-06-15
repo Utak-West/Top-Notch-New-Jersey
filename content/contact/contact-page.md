@@ -4,7 +4,7 @@
 **Document Type:** Contact Page Content & Conversion Optimization
 **Project:** Top Notch New Jersey Website
 **Owner:** Pedro Ribeiro, Licensed General Contractor
-**License:** NJ Home Improvement Contractor #13VH13054200
+**License:** NJ Home Improvement Contractor License
 **Last Updated:** June 2024
 **Version:** 1.0
 **Dependencies:** hero-section.md, services content, local-seo-strategy.md
@@ -162,7 +162,7 @@
 
 ### Unique Advantages
 **✅ Licensed General Contractor**
-- NJ License #13VH13054200
+- Licensed, Bonded & Insured
 - 15+ years of renovation expertise
 - Professional accountability and quality assurance
 

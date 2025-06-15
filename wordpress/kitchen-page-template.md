@@ -26,7 +26,7 @@
     <p class="hero-subtitle">Transform your kitchen with professional design and quality craftsmanship. From $10,000 refreshes to $100,000+ luxury transformations.</p>
     
     <div class="hero-credentials">
-      <span class="credential-badge">Licensed Master Electrician #13VH13054200</span>
+      <span class="credential-badge">Licensed, Bonded & Insured Contractor</span>
       <span class="service-area">Serving Union, Essex, Middlesex & Bergen Counties</span>
     </div>
     
@@ -300,7 +300,7 @@
 <title>Kitchen Remodeling NJ | Expert Craftsmanship & Design | Top Notch New Jersey</title>
 
 <!-- Meta Description -->
-<meta name="description" content="Expert kitchen remodeling in NJ by licensed Master Electrician. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.">
+<meta name="description" content="Expert kitchen remodeling in NJ by licensed home improvement contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.">
 
 <!-- Local Keywords -->
 <meta name="keywords" content="kitchen remodeling NJ, kitchen renovation New Jersey, licensed contractor Union County, kitchen cabinets Essex County, Linden NJ contractor">

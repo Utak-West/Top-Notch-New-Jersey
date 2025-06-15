@@ -219,7 +219,7 @@ Navigation Hover Color: #1E3A8A
 ```
 Company Name: Top Notch New Jersey
 Tagline: Licensed Kitchen & Bathroom Remodeling Contractor
-License: Licensed Master Electrician #13VH13054200
+License: Licensed, Bonded & Insured
 Description: Professional home improvement services in New Jersey since 2018. Specializing in kitchen and bathroom remodeling with expert electrical work.
 
 Contact Information:
@@ -229,7 +229,7 @@ Address: Linden, NJ [Full Address]
 Hours: Monday-Friday 8AM-6PM, Saturday 9AM-4PM
 
 Copyright: © 2024 Top Notch New Jersey. All rights reserved.
-Legal: Licensed, Bonded & Insured | NJ Home Improvement Contractor License #13VH13054200
+Legal: Licensed, Bonded & Insured | NJ Home Improvement Contractor
 ```
 
 ### Footer Styling
