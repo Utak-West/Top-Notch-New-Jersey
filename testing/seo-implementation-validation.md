@@ -226,7 +226,7 @@
 ```html
 <title>Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey</title>
 <meta name="description" content="Expert kitchen & bathroom remodeling in NJ. Licensed Home Improvement Contractor Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex Counties. Free estimates.">
-<meta name="keywords" content="kitchen remodeling nj, bathroom renovation new jersey, licensed contractor, master electrician, home improvement">
+<meta name="keywords" content="kitchen remodeling nj, bathroom renovation new jersey, licensed contractor, home improvement contractor, home improvement">
 <meta name="robots" content="index, follow">
 <meta name="author" content="Top Notch New Jersey">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -250,7 +250,7 @@
 
 **Bathroom Renovation Page:**
 ```html
-<title>Bathroom Renovation NJ | Luxury Upgrades | Master Electrician</title>
+<title>Bathroom Renovation NJ | Luxury Upgrades | Licensed Contractor</title>
 <meta name="description" content="Expert bathroom renovation in New Jersey. Luxury upgrades, accessibility modifications. Licensed contractor with electrical expertise. Free consultations.">
 ```
 
