@@ -3,7 +3,7 @@
 ---
 **Document Type:** Project Gallery & Portfolio Showcase
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -14,7 +14,7 @@
 
 ### Portfolio Hero Section
 **Primary Headline:** "See Why New Jersey Homeowners Choose Top Notch"
-**Secondary Headline:** "Real projects, real results - featuring our unique Master Electrician advantage"
+**Secondary Headline:** "Real projects, real results - featuring our comprehensive contractor advantage"
 
 **Portfolio Statistics:**
 - ✅ **500+ Projects Completed** - Kitchen, bathroom, and electrical renovations

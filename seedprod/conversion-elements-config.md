@@ -214,7 +214,7 @@
 
 ### License Badge
 **Element:** Trust badge with license number
-**Content:** "Licensed Master Electrician #13VH13054200"
+**Content:** "Licensed, Bonded & Insured Contractor"
 **Placement:** Hero section, footer, contact forms
 
 **Badge Design:**
@@ -451,9 +451,9 @@ function calculateLeadScore(formData) {
 ### Headlines to Test
 **Hero Section Headlines:**
 - "Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts" (Control)
-- "Licensed Master Electrician - Kitchen & Bathroom Remodeling NJ"
+- "Licensed Home Improvement Contractor - Kitchen & Bathroom Remodeling NJ"
 - "New Jersey's Trusted Home Improvement Contractor Since 2018"
-- "Kitchen & Bathroom Renovations by Licensed Master Electrician"
+- "Kitchen & Bathroom Renovations by Licensed Home Improvement Contractor"
 
 ### Form Length Variations
 **Short Form (3 fields):**

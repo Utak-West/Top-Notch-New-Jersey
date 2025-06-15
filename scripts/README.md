@@ -9,7 +9,7 @@
 
 ## 🏠 About Top Notch New Jersey
 
-Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specializing in kitchen and bathroom remodeling throughout New Jersey. As a licensed Master Electrician (#13VH13), Pedro offers expert electrical integration with high-quality renovations.
+Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specializing in kitchen and bathroom remodeling throughout New Jersey. As a Licensed Home Improvement Contractor, Pedro offers expert project coordination with high-quality renovations.
 
 ## 🚀 Features
 

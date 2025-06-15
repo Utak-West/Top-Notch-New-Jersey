@@ -433,7 +433,7 @@
           <span class="faq-toggle">+</span>
         </div>
         <div class="faq-answer">
-          <p>Yes, Pedro is a Licensed Master Electrician (#13VH13054200) and Top Notch New Jersey is fully bonded and insured. All work is performed to code and backed by comprehensive insurance coverage.</p>
+          <p>Yes, Pedro is a Licensed Home Improvement Contractor and Top Notch New Jersey is fully bonded and insured. All work is performed to code and backed by comprehensive insurance coverage.</p>
         </div>
       </div>
       
@@ -444,7 +444,7 @@
           <span class="faq-toggle">+</span>
         </div>
         <div class="faq-answer">
-          <p>Pedro's Master Electrician license allows us to handle all electrical work in-house, eliminating subcontractor markups. You get one point of contact, coordinated project management, and the expertise of a licensed professional overseeing every aspect of your project.</p>
+          <p>Pedro's Licensed Contractor credentials allow us to handle electrical work coordination in-house, eliminating subcontractor markups. You get one point of contact, coordinated project management, and the expertise of a licensed professional overseeing every aspect of your project.</p>
         </div>
       </div>
     </div>
@@ -501,7 +501,7 @@
 <title>Contact Top Notch New Jersey | Free Estimates | Licensed Contractor</title>
 
 <!-- Meta Description -->
-<meta name="description" content="Contact Top Notch New Jersey for free kitchen and bathroom remodeling estimates. Licensed Master Electrician Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties.">
+<meta name="description" content="Contact Top Notch New Jersey for free kitchen and bathroom remodeling estimates. Licensed Home Improvement Contractor Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties.">
 
 <!-- Local Keywords -->
 <meta name="keywords" content="contact contractor NJ, free estimate kitchen bathroom, licensed electrician Linden, home improvement consultation Union County">

@@ -3,7 +3,7 @@
 ---
 **Document Type:** Comprehensive Website Development Strategy & Implementation Plan
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Created:** June 2024
 **Version:** 1.0

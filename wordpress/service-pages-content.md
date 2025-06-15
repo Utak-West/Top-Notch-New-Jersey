@@ -14,7 +14,7 @@
 Headline: "Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design"
 Subheadline: "Transform your kitchen with professional design and quality craftsmanship. From $10,000 refreshes to $100,000+ luxury transformations."
 CTA Button: "Get Free Kitchen Estimate"
-Trust Indicators: Licensed Master Electrician #13VH13054200 | Bonded & Insured
+Trust Indicators: Licensed, Bonded & Insured | Home Improvement Contractor
 ```
 
 **Hero Styling:**
@@ -164,7 +164,7 @@ Service Areas: Union, Essex, Middlesex, Bergen Counties
 Headline: "Transform Your Bathroom with New Jersey's Renovation Experts"
 Subheadline: "Complete bathroom renovations with professional craftsmanship and quality materials"
 CTA Button: "Get Free Bathroom Estimate"
-Trust Indicators: Licensed Master Electrician #13VH13054200 | Local Linden, NJ
+Trust Indicators: Licensed, Bonded & Insured | Local Linden, NJ
 ```
 
 #### Section 2: Service Overview
@@ -250,7 +250,7 @@ Service Areas: All primary counties listed
 
 **Meta Descriptions:**
 - Kitchen: "Expert kitchen remodeling in NJ by licensed general contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
-- Bathroom: "Professional bathroom renovation in NJ. Licensed Master Electrician. Complete renovations from $8K-$80K+. Free estimates. Union, Essex, Middlesex, Bergen Counties."
+- Bathroom: "Professional bathroom renovation in NJ. Licensed Home Improvement Contractor. Complete renovations from $8K-$80K+. Free estimates. Union, Essex, Middlesex, Bergen Counties."
 
 **Header Tags:**
 - H1: Main page headline
@@ -266,7 +266,7 @@ Service Areas: All primary counties listed
 **Service Keywords:**
 - Kitchen remodeling, renovation, cabinets, countertops
 - Bathroom renovation, remodeling, tile, fixtures
-- Licensed contractor, master electrician
+- Licensed contractor, home improvement contractor
 
 ### Brand Consistency
 **Required Elements on Every Page:**

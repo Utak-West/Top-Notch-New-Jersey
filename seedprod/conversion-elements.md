@@ -72,7 +72,7 @@
 ### Credentials Display
 **Visual Elements:**
 - License badge with #13VH13
-- "Master Electrician" certification
+- "Licensed Home Improvement Contractor" certification
 - "Bonded & Insured" badge
 - "15+ Years Experience" highlight
 - "Local Linden, NJ" location badge
@@ -220,7 +220,7 @@
 ### Headline Testing
 **Value Proposition Focus:**
 1. "Expert Kitchen & Bathroom Remodeling in New Jersey"
-2. "Licensed Master Electrician & Renovation Expert"
+2. "Licensed Home Improvement Contractor & Renovation Expert"
 3. "Transform Your Home with New Jersey's Trusted Contractor"
 4. "Quality Kitchen & Bathroom Renovations Since 2018"
 

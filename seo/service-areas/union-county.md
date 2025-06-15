@@ -3,7 +3,7 @@
 ---
 **Document Type:** Local SEO Service Area Page
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -13,11 +13,11 @@
 ## 🏠 Union County's Trusted Home Improvement Contractor
 
 ### Serving Union County Since 2018
-Top Notch New Jersey is proud to be headquartered in Linden, Union County, where we've built our reputation as the area's premier home improvement contractor. As a licensed Master Electrician and general contractor, Pedro Ribeiro offers Union County homeowners a unique advantage: integrated electrical and renovation services under one roof.
+Top Notch New Jersey is proud to be headquartered in Linden, Union County, where we've built our reputation as the area's premier home improvement contractor. As a licensed Home Improvement Contractor, Pedro Ribeiro offers Union County homeowners a unique advantage: comprehensive renovation services with electrical coordination under one roof.
 
 **Why Union County Homeowners Choose Top Notch:**
 - ✅ **Local Linden, NJ Headquarters** - Quick response throughout Union County
-- ✅ **Master Electrician #13VH13** - No electrical subcontractor markups
+- ✅ **Licensed Contractor** - No electrical subcontractor markups
 - ✅ **15+ Years Experience** - Proven track record in Union County homes
 - ✅ **Licensed & Insured** - Complete protection for your investment
 
@@ -212,7 +212,7 @@ Top Notch New Jersey is proud to be headquartered in Linden, Union County, where
 ## 📞 Contact Top Notch for Union County Services
 
 ### Local Contact Information
-**Pedro Ribeiro - Owner & Master Electrician**
+**Pedro Ribeiro - Owner & Licensed Home Improvement Contractor**
 - **Phone:** (908) 555-0123
 - **Email:** pedro@topnotchnewjersey.com
 - **Address:** 123 Main Street, Linden, NJ 07036

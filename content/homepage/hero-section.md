@@ -135,7 +135,7 @@ Display prominently below hero content:
 
 #### Headline Tests
 1. **Benefit-Focused:** "Transform Your Home with Expert Renovations"
-2. **Credential-Focused:** "Licensed Master Electrician & Renovation Expert"
+2. **Credential-Focused:** "Licensed Home Improvement Contractor & Renovation Expert"
 3. **Local-Focused:** "New Jersey's Premier Kitchen & Bathroom Specialists"
 4. **Problem-Solving:** "Tired of Your Outdated Kitchen or Bathroom?"
 

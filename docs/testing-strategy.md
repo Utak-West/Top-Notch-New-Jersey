@@ -3,7 +3,7 @@
 ---
 **Document Type:** Website Testing & Quality Assurance Strategy
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **Created:** June 2024
 **Version:** 1.0
 **Dependencies:** development-roadmap.md, implementation-guide.md

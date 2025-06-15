@@ -3,7 +3,7 @@
 ---
 **Document Type:** Operational Process & Project Management
 **Project:** Top Notch New Jersey Business Operations
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -147,7 +147,7 @@
 - Project overview and key benefits
 - Total investment and payment schedule
 - Timeline and major milestones
-- Unique value propositions (Master Electrician advantage)
+- Unique value propositions (Licensed Contractor advantage)
 
 **Detailed Scope of Work:**
 - Phase-by-phase work breakdown

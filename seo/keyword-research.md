@@ -25,7 +25,7 @@
 #### Electrical Service Keywords
 **Primary:** "electrician new jersey" (2,400 monthly searches)
 **Secondary Keywords:**
-- "master electrician nj" (320 searches)
+- "licensed contractor nj" (320 searches)
 - "electrical contractor new jersey" (890 searches)
 - "home electrical services nj" (450 searches)
 - "electrical panel upgrade nj" (380 searches)
@@ -129,7 +129,7 @@
 - "kitchen bathroom electrical contractor nj" (25 searches)
 
 ### Opportunity Keywords (Low Competition)
-- "master electrician kitchen remodel nj" (15 searches)
+- "licensed contractor kitchen remodel nj" (15 searches)
 - "electrical contractor bathroom renovation nj" (20 searches)
 - "licensed electrician home improvement nj" (35 searches)
 - "integrated electrical renovation services nj" (10 searches)
@@ -141,7 +141,7 @@
 ### High Opportunity (Low Competition, Good Volume)
 1. **"kitchen remodel contractor nj"** - Medium difficulty, 590 searches
 2. **"bathroom contractor nj"** - Medium difficulty, 520 searches
-3. **"master electrician nj"** - Low difficulty, 320 searches
+3. **"licensed contractor nj"** - Low difficulty, 320 searches
 4. **"electrical contractor new jersey"** - Medium difficulty, 890 searches
 5. **"home electrical services nj"** - Low difficulty, 450 searches
 
@@ -204,7 +204,7 @@
 
 ### Schema Markup Opportunities
 - "licensed contractor new jersey" + LocalBusiness schema
-- "master electrician nj" + Professional service schema
+- "licensed contractor nj" + Professional service schema
 - "kitchen remodeling reviews nj" + Review schema
 - "home improvement services new jersey" + Service schema
 

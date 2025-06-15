@@ -3,7 +3,7 @@
 ---
 **Document Type:** Master Project Overview & Business Intelligence
 **Project:** Top Notch New Jersey Website & Business Strategy
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0
@@ -54,7 +54,7 @@ Top Notch New Jersey is Pedro Ribeiro's premier home improvement company, specia
 ### Competitive Positioning
 **Market Position:** Premium value with mid-market pricing
 **Key Differentiators:**
-1. Master Electrician + General Contractor integration
+1. Licensed Home Improvement Contractor with comprehensive expertise
 2. Local Linden, NJ focus with community connections
 3. Transparent pricing with no hidden electrical costs
 4. Personal involvement from licensed owner

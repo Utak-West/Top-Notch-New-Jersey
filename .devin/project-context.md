@@ -3,7 +3,7 @@
 ## 🎯 Project Overview
 
 **Business:** Top Notch New Jersey - Home Improvement Company  
-**Owner:** Pedro Ribeiro (Licensed Master Electrician)  
+**Owner:** Pedro Ribeiro (Licensed Home Improvement Contractor)  
 **Primary Services:** Kitchen & Bathroom Remodeling  
 **Location:** Linden, NJ (serving Union, Essex, Middlesex, Bergen Counties)  
 **License:** NJ Home Improvement Contractor #13VH13  
@@ -53,7 +53,7 @@
 - **Pain Points:** Finding licensed, reliable contractors; electrical integration concerns
 
 ### Competitive Advantages
-1. **Licensed Master Electrician** - Unique electrical expertise
+1. **Licensed Home Improvement Contractor** - Comprehensive renovation expertise
 2. **Bonded & Insured** - Full protection and trust
 3. **Local Focus** - Deep NJ market knowledge
 4. **Established Reputation** - 6+ years proven track record
@@ -89,7 +89,7 @@
 ### SEO Focus Keywords
 - Primary: "kitchen remodeling NJ", "bathroom renovation New Jersey"
 - Local: "home improvement Linden NJ", "licensed contractor Union County"
-- Service: "master electrician remodeling", "bonded insured contractor"
+- Service: "licensed contractor remodeling", "bonded insured contractor"
 
 **Reference:** `seo/keyword-research.md` for complete keyword strategy
 

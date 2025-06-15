@@ -3,7 +3,7 @@
 ---
 **Document Type:** Step-by-Step Technical Implementation Instructions
 **Project:** Top Notch New Jersey Website Development
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **Created:** June 2024
 **Version:** 1.0
 **Dependencies:** development-roadmap.md, plugins-list.md, site-architecture.md
@@ -153,7 +153,7 @@
 
 **Electrical Services Page:**
 - Content from `/content/services/electrical-services.md`
-- Master Electrician credentials highlight
+- Licensed Contractor credentials highlight
 - Emergency services availability
 - Service call pricing structure
 - Safety and code compliance emphasis
@@ -281,7 +281,7 @@
 - License and certification badges
 - Insurance and bonding information
 - Years of experience highlight
-- Master Electrician credentials
+- Licensed Home Improvement Contractor credentials
 
 ## 🔄 CONTENT MANAGEMENT WORKFLOW
 

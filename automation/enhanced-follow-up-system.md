@@ -3,7 +3,7 @@
 ---
 **Document Type:** Lead Nurturing & Follow-Up Automation
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0 - Pedro's Personal Touch System
@@ -30,13 +30,13 @@ PERSONAL CONTACT (Day 1)
 
 ESTIMATE DELIVERY (Day 3)
 ├── Detailed written estimate delivery
-├── Explanation of Master Electrician advantage
+├── Explanation of Licensed Contractor advantage
 ├── Project timeline and next steps
 └── Reference list for similar projects
 
 DECISION SUPPORT (Week 1)
 ├── References from similar Union/Essex/Middlesex projects
-├── Electrical work explanation (why Master Electrician matters)
+├── Electrical work explanation (why Licensed Contractor matters)
 ├── Financing options (if applicable)
 └── Permit and inspection process overview
 
@@ -71,7 +71,7 @@ Subject: Your Kitchen Remodeling Estimate Request - Top Notch New Jersey
 
 Dear [Name],
 
-Thank you for requesting a kitchen remodeling estimate! I'm Pedro Ribeiro, Master Electrician and owner of Top Notch New Jersey.
+Thank you for requesting a kitchen remodeling estimate! I'm Pedro Ribeiro, Licensed Home Improvement Contractor and owner of Top Notch New Jersey.
 
 Here's what happens next:
 → I'll personally call you within 2 hours during business hours
@@ -79,14 +79,14 @@ Here's what happens next:
 → I'll schedule your free in-home consultation
 → You'll receive a detailed estimate within 24 hours
 
-MASTER ELECTRICIAN ADVANTAGE:
-Unlike other contractors, I handle all electrical work personally - no subcontractors, no markups, no coordination issues.
+LICENSED CONTRACTOR ADVANTAGE:
+Unlike other contractors, I handle electrical coordination personally - no subcontractor markups, no coordination issues.
 
 Questions before we talk? Reply to this email or call me directly at (XXX) XXX-XXXX.
 
 Best regards,
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 Top Notch New Jersey
 
 P.S. Check out our recent kitchen transformations: [Portfolio Link]
@@ -114,7 +114,7 @@ NEXT STEPS:
 → We'll discuss electrical integration and cost savings
 → Written estimate delivered within 24 hours of visit
 
-MASTER ELECTRICIAN ADVANTAGE FOR YOUR PROJECT:
+LICENSED CONTRACTOR ADVANTAGE FOR YOUR PROJECT:
 → No electrical subcontractor markup (typically saves $2,000-5,000)
 → Seamless coordination between renovation and electrical work
 → All work done to code by licensed professional
@@ -123,7 +123,7 @@ MASTER ELECTRICIAN ADVANTAGE FOR YOUR PROJECT:
 Looking forward to seeing your space and creating your dream kitchen!
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
@@ -144,7 +144,7 @@ ESTIMATE HIGHLIGHTS:
 → Timeline: [Timeline]
 
 WHY CHOOSE TOP NOTCH:
-✓ Master Electrician handles all electrical personally
+✓ Licensed Contractor handles electrical coordination personally
 ✓ No coordination issues between trades
 ✓ All work guaranteed and code compliant
 ✓ 15+ years of New Jersey renovation experience
@@ -159,7 +159,7 @@ Questions? Call me directly at (XXX) XXX-XXXX or reply to this email.
 
 Best regards,
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 
 P.S. This estimate is valid for 30 days. Spring is our busiest season, so early scheduling is recommended.
 ```
@@ -182,7 +182,7 @@ RECENT [COUNTY] PROJECTS:
 → Luxury spa bathroom in [City] - High-end finishes
 
 CUSTOMER REFERENCES:
-I'd be happy to connect you with recent customers who had similar projects. They can share their experience working with us and seeing the Master Electrician advantage firsthand.
+I'd be happy to connect you with recent customers who had similar projects. They can share their experience working with us and seeing the Licensed Contractor advantage firsthand.
 
 ELECTRICAL CONSIDERATIONS FOR YOUR BATHROOM:
 → GFCI outlets (required by code)
@@ -193,7 +193,7 @@ ELECTRICAL CONSIDERATIONS FOR YOUR BATHROOM:
 Ready to move forward? I have availability starting [Date] and can complete your project in [Timeline].
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
@@ -227,12 +227,12 @@ Based on what I observed during the service call, I recommend:
 → [Estimated investment]
 
 FUTURE ELECTRICAL NEEDS:
-If you're planning any home renovations, remember that my Master Electrician expertise can save you significant money by eliminating subcontractor markups.
+If you're planning any home renovations, remember that my Licensed Contractor expertise can save you significant money by eliminating subcontractor markups.
 
 Thank you for your business!
 
 Pedro Ribeiro
-Master Electrician #13VH13
+Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 

@@ -3,7 +3,7 @@
 ---
 **Document Type:** Email Marketing Strategy & Automation Workflows
 **Project:** Top Notch New Jersey Customer Communication
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -72,15 +72,15 @@
 **Subject:** "Welcome to Top Notch New Jersey - Your Renovation Journey Starts Here"
 **Content:**
 - Personal welcome from Pedro
-- Company overview and Master Electrician advantage
+- Company overview and Licensed Contractor advantage
 - What to expect in upcoming emails
 - Contact information and consultation booking link
 
 #### Email 2: Pedro's Story & Credentials (Day 2)
-**Subject:** "Meet Pedro - Your Licensed Master Electrician & Renovation Expert"
+**Subject:** "Meet Pedro - Your Licensed Home Improvement Contractor & Renovation Expert"
 **Content:**
 - Pedro's background and expertise
-- Master Electrician license and credentials
+- Licensed Home Improvement Contractor credentials
 - Why integrated electrical and renovation services matter
 - Local Linden, NJ connection and community involvement
 

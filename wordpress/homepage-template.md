@@ -33,13 +33,13 @@ Background Attachment: Fixed (desktop only)
 ```html
 <div class="hero-content-wrapper">
   <div class="credential-badge">
-    <span class="license-text">Licensed Master Electrician #13VH13054200</span>
+    <span class="license-text">Licensed, Bonded & Insured Contractor</span>
     <span class="service-area">Serving Union, Essex, Middlesex & Bergen Counties</span>
   </div>
   
   <h1 class="hero-headline">Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts</h1>
   
-  <p class="hero-subheadline">Licensed Master Electrician Pedro Ribeiro - Professional Excellence & Quality Craftsmanship</p>
+  <p class="hero-subheadline">Licensed Home Improvement Contractor Pedro Ribeiro - Professional Excellence & Quality Craftsmanship</p>
   
   <div class="cta-button-group">
     <a href="#contact-form" class="primary-cta">Get Free Estimate</a>
@@ -49,7 +49,7 @@ Background Attachment: Fixed (desktop only)
   <div class="trust-indicators">
     <div class="trust-item">
       <span class="trust-icon">✓</span>
-      <span class="trust-text">Licensed Master Electrician</span>
+      <span class="trust-text">Licensed Home Improvement Contractor</span>
     </div>
     <div class="trust-item">
       <span class="trust-icon">✓</span>
@@ -363,15 +363,15 @@ Background Attachment: Fixed (desktop only)
 ```html
 <div class="about-section">
   <div class="about-image">
-    <img src="/wp-content/uploads/pedro-ribeiro-professional.jpg" alt="Pedro Ribeiro - Licensed Master Electrician">
+    <img src="/wp-content/uploads/pedro-ribeiro-professional.jpg" alt="Pedro Ribeiro - Licensed Home Improvement Contractor">
     <div class="credential-overlay">
-      <span class="license-badge">Licensed Master Electrician #13VH13054200</span>
+      <span class="license-badge">Licensed, Bonded & Insured</span>
     </div>
   </div>
   
   <div class="about-content">
     <h2>Meet Pedro Ribeiro</h2>
-    <h3>Licensed Master Electrician & Home Improvement Expert</h3>
+    <h3>Licensed Home Improvement Contractor & Renovation Expert</h3>
     
     <p>With over 15 years of experience in home improvement and electrical work, Pedro Ribeiro brings unmatched expertise to every kitchen and bathroom renovation project in New Jersey.</p>
     
@@ -379,8 +379,8 @@ Background Attachment: Fixed (desktop only)
       <div class="credential-item">
         <span class="credential-icon">🏆</span>
         <div class="credential-text">
-          <strong>Licensed Master Electrician</strong>
-          <span>NJ License #13VH13054200</span>
+          <strong>Licensed Home Improvement Contractor</strong>
+          <span>Licensed, Bonded & Insured</span>
         </div>
       </div>
       
@@ -585,7 +585,7 @@ Background Attachment: Fixed (desktop only)
       <div class="testimonial-content">
         <div class="stars">⭐⭐⭐⭐⭐</div>
         <blockquote>
-          "As a licensed Master Electrician, Pedro brought expertise that other contractors couldn't match. Our kitchen island electrical work was complex, but he handled it perfectly. Highly recommend for any renovation project!"
+          "As a licensed Home Improvement Contractor, Pedro brought expertise that other contractors couldn't match. Our kitchen island electrical work was complex, but he coordinated it perfectly. Highly recommend for any renovation project!"
         </blockquote>
         <div class="testimonial-author">
           <img src="/wp-content/uploads/customer-amanda-s.jpg" alt="Amanda S.">
@@ -715,7 +715,7 @@ Background Attachment: Fixed (desktop only)
 <title>Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey</title>
 
 <!-- Meta Description -->
-<meta name="description" content="Expert kitchen & bathroom remodeling in NJ by Licensed Master Electrician Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex & Bergen Counties. Free estimates.">
+<meta name="description" content="Expert kitchen & bathroom remodeling in NJ by Licensed Home Improvement Contractor Pedro Ribeiro. Bonded & insured. Serving Union, Essex, Middlesex & Bergen Counties. Free estimates.">
 
 <!-- Schema Markup -->
 <script type="application/ld+json">

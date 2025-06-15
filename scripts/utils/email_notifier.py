@@ -264,7 +264,7 @@ class EmailNotifier:
             <div class="header">
                 <h1>{self.company_name}</h1>
                 <p>{self.company_tagline}</p>
-                <p>Licensed Master Electrician #{self.license_number}</p>
+                <p>Licensed Home Improvement Contractor</p>
             </div>
             
             <div class="content">
@@ -318,7 +318,7 @@ class EmailNotifier:
         text = f"""
 TOP NOTCH NEW JERSEY - AUTOMATION REPORT
 {self.company_tagline}
-Licensed Master Electrician #{self.license_number}
+Licensed Home Improvement Contractor
 
 STATUS: {status}
 

@@ -55,7 +55,7 @@
 - **Maintenance Tips** - Keeping renovations looking new
 
 ### Pillar 3: Electrical Expertise
-**Content Focus:** Master Electrician knowledge and safety
+**Content Focus:** Licensed Contractor electrical knowledge and safety
 
 #### Core Topics:
 - **Home Electrical Safety** - Code compliance and best practices
@@ -196,11 +196,11 @@
 ### On-Page SEO Strategy
 #### Title Tag Optimization
 - **Primary Keyword + Location + Brand**
-- Example: "Kitchen Remodeling NJ | Licensed Master Electrician | Top Notch New Jersey"
+- Example: "Kitchen Remodeling NJ | Licensed Home Improvement Contractor | Top Notch New Jersey"
 
 #### Meta Description Strategy
 - **Value Proposition + Credentials + Call-to-Action**
-- Example: "Expert kitchen remodeling in NJ by licensed Master Electrician. 15+ years experience, free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- Example: "Expert kitchen remodeling in NJ by licensed Home Improvement Contractor. 15+ years experience, free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
 
 #### Header Structure (H1-H6)
 - **H1:** Primary keyword + location

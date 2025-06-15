@@ -22,7 +22,7 @@
 5. Configure SiteGround caching after import
 
 **Content to Import:**
-- Hero section with Pedro's Master Electrician credentials (#13VH13054200)
+- Hero section with Pedro's Licensed Home Improvement Contractor credentials
 - Service overview (Kitchen, Bathroom, Electrical)
 - Trust indicators and testimonials
 - Service area coverage (Union, Essex, Middlesex, Bergen Counties)
@@ -42,7 +42,7 @@
 - Kitchen renovation process steps
 - Before/after project galleries
 - Pricing tiers and investment levels
-- Master Electrician electrical work emphasis
+- Licensed Contractor comprehensive renovation emphasis
 - Local New Jersey project examples
 
 ### 3. Bathroom Service Page Import
@@ -76,7 +76,7 @@
 {
   "@type": "LocalBusiness",
   "name": "Top Notch New Jersey",
-  "description": "Licensed Master Electrician Pedro Ribeiro providing kitchen remodeling, bathroom renovation, and electrical services",
+  "description": "Licensed Home Improvement Contractor Pedro Ribeiro providing kitchen remodeling, bathroom renovation, and home improvement services",
   "url": "https://topnotchnewjersey.com",
   "telephone": "+1-XXX-XXX-XXXX",
   "address": {
@@ -100,7 +100,7 @@
     "@type": "EducationalOccupationalCredential",
     "credentialCategory": "Professional License",
     "recognizedBy": "State of New Jersey",
-    "name": "Master Electrician License #13VH13054200"
+    "name": "Licensed Home Improvement Contractor"
   }
 }
 ```
@@ -126,24 +126,24 @@
    - Sunday: Emergency calls only
 
 4. **Credentials:**
-   - Add custom field: "Licensed Master Electrician #13VH13054200"
+   - Add custom field: "Licensed, Bonded & Insured Contractor"
    - Include in business description
 
 ### Page-Specific SEO Configuration
 
 **Homepage:**
-- Title: "Top Notch Kitchen & Bathroom Remodeling | Licensed Master Electrician NJ"
-- Meta Description: "Pedro Ribeiro, Licensed Master Electrician #13VH13054200, provides expert kitchen remodeling and bathroom renovation in Union, Essex, Middlesex & Bergen Counties."
+- Title: "Top Notch Kitchen & Bathroom Remodeling | Licensed Home Improvement Contractor NJ"
+- Meta Description: "Pedro Ribeiro, Licensed Home Improvement Contractor, provides expert kitchen remodeling and bathroom renovation in Union, Essex, Middlesex & Bergen Counties."
 - Focus Keyword: "kitchen remodeling New Jersey"
 
 **Kitchen Page:**
-- Title: "Kitchen Remodeling New Jersey | Licensed Master Electrician | Top Notch"
-- Meta Description: "Professional kitchen remodeling by Licensed Master Electrician Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties. Free estimates."
+- Title: "Kitchen Remodeling New Jersey | Licensed Home Improvement Contractor | Top Notch"
+- Meta Description: "Professional kitchen remodeling by Licensed Home Improvement Contractor Pedro Ribeiro. Serving Union, Essex, Middlesex & Bergen Counties. Free estimates."
 - Focus Keyword: "kitchen remodeling New Jersey"
 
 **Bathroom Page:**
-- Title: "Bathroom Renovation NJ | Licensed Master Electrician | Top Notch"
-- Meta Description: "Expert bathroom renovation services by Licensed Master Electrician Pedro Ribeiro. Accessibility & luxury options. Serving all of New Jersey."
+- Title: "Bathroom Renovation NJ | Licensed Home Improvement Contractor | Top Notch"
+- Meta Description: "Expert bathroom renovation services by Licensed Home Improvement Contractor Pedro Ribeiro. Accessibility & luxury options. Serving all of New Jersey."
 - Focus Keyword: "bathroom renovation New Jersey"
 
 ---

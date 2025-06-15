@@ -3,7 +3,7 @@
 ---
 **Document Type:** Brand Standards & Visual Identity
 **Project:** Top Notch New Jersey WordPress Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor #13VH13
 **Last Updated:** June 2024
 **Version:** 2.0
@@ -28,7 +28,7 @@
 
 ### Core Attributes
 - **Professional & Trustworthy** - Licensed, bonded, insured credentials
-- **Expert & Skilled** - Master Electrician with 15+ years experience
+- **Expert & Skilled** - Licensed Home Improvement Contractor with 15+ years experience
 - **Local & Community-Focused** - Proud New Jersey roots
 - **Reliable & Dependable** - Consistent quality and service
 - **Approachable & Personal** - Pedro's hands-on leadership
