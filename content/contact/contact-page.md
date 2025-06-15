@@ -3,7 +3,7 @@
 ---
 **Document Type:** Contact Page Content & Conversion Optimization
 **Project:** Top Notch New Jersey Website
-**Owner:** Pedro Ribeiro, Licensed General Contractor
+**Owner:** Pedro Ribeiro, Licensed Home Improvement Contractor
 **License:** NJ Home Improvement Contractor License
 **Last Updated:** June 2024
 **Version:** 1.0
@@ -13,7 +13,7 @@
 ## 📞 Primary Contact Information
 
 ### Main Contact Details
-**Pedro Ribeiro - Owner & General Contractor**
+**Pedro Ribeiro - Owner & Licensed Home Improvement Contractor**
 - **Phone:** (908) 555-0123 *(Click to call)*
 - **Email:** pedro@topnotchnewjersey.com
 - **Business Email:** info@topnotchnewjersey.com
@@ -161,7 +161,7 @@
 ## 💼 Why Choose Top Notch New Jersey
 
 ### Unique Advantages
-**✅ Licensed General Contractor**
+**✅ Licensed Home Improvement Contractor**
 - Licensed, Bonded & Insured
 - 15+ years of renovation expertise
 - Professional accountability and quality assurance
@@ -255,7 +255,7 @@
 
 ### On-Page SEO Elements
 **Page Title:** "Contact Top Notch New Jersey | Free Estimates | Licensed Contractor"
-**Meta Description:** "Contact Pedro Ribeiro, licensed general contractor & home improvement specialist. Free estimates for kitchen & bathroom renovations in NJ. Call (908) 555-0123."
+**Meta Description:** "Contact Pedro Ribeiro, licensed home improvement contractor & renovation specialist. Free estimates for kitchen & bathroom renovations in NJ. Call (908) 555-0123."
 
 **Header Tags:**
 - **H1:** "Contact Top Notch New Jersey"

@@ -6,7 +6,7 @@
 **"Expert Kitchen & Bathroom Remodeling in New Jersey"**
 
 ### Secondary Headline Options
-1. "Licensed General Contractor • 15+ Years Experience • Free Estimates"
+1. "Licensed Home Improvement Contractor • 15+ Years Experience • Free Estimates"
 2. "Transform Your Home with New Jersey's Trusted Renovation Experts"
 3. "Quality Craftsmanship • Licensed & Insured • Local Linden, NJ"
 
@@ -55,7 +55,7 @@
 ## 📝 Supporting Content
 
 ### Value Proposition Points
-- ✓ **Licensed General Contractor** - Professional expertise and accountability
+- ✓ **Licensed Home Improvement Contractor** - Professional expertise and accountability
 - ✓ **15+ Years Experience** - Proven track record
 - ✓ **Kitchen & Bathroom Specialist** - Core competencies
 - ✓ **Local Linden, NJ** - Community connection
@@ -100,7 +100,7 @@ Display prominently below hero content:
 
 ### Mobile-Specific Content
 **Headline:** "NJ's Trusted Kitchen & Bathroom Experts"
-**Subheadline:** "Licensed General Contractor • Free Estimates"
+**Subheadline:** "Licensed Home Improvement Contractor • Free Estimates"
 **Primary CTA:** "Get Free Estimate"
 **Secondary CTA:** "Call Now"
 
@@ -148,7 +148,7 @@ Display prominently below hero content:
 #### Trust Badge Variations
 1. **License-First:** "Licensed Contractor • Bonded & Insured"
 2. **Experience-First:** "15+ Years Experience • Licensed & Insured"
-3. **Local-First:** "Linden, NJ • Licensed General Contractor"
+3. **Local-First:** "Linden, NJ • Licensed Home Improvement Contractor"
 
 ---
 
@@ -156,7 +156,7 @@ Display prominently below hero content:
 
 ### Meta Elements
 - **Page Title:** "Kitchen & Bathroom Remodeling NJ | Top Notch New Jersey"
-- **Meta Description:** "Expert kitchen & bathroom remodeling in NJ. Licensed general contractor with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- **Meta Description:** "Expert kitchen & bathroom remodeling in NJ. Licensed home improvement contractor with 15+ years experience. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
 - **H1 Tag:** "Expert Kitchen & Bathroom Remodeling in New Jersey"
 
 ### Schema Markup

@@ -3,7 +3,7 @@
 ## 👨‍🔧 Meet Pedro Ribeiro - Your Kitchen & Bathroom Renovation Expert
 
 ### Page Header
-**Headline:** "Meet Pedro Ribeiro - Licensed General Contractor & Home Renovation Expert"
+**Headline:** "Meet Pedro Ribeiro - Licensed Home Improvement Contractor & Home Renovation Expert"
 **Subheadline:** "15+ Years of Experience • NJ License #13VH13054200 • Your Trusted Partner for Quality Home Transformations"
 
 ---
@@ -185,7 +185,7 @@ Pedro personally handles all initial consultations to ensure you receive the exp
 - Sunday: Emergency services only
 
 ### Why Choose Pedro?
-- ✅ **Licensed General Contractor** - Professional expertise and accountability
+- ✅ **Licensed Home Improvement Contractor** - Professional expertise and accountability
 - ✅ **15+ Years Experience** - Proven track record of successful projects
 - ✅ **Local Linden, NJ Business** - Community commitment and accessibility
 - ✅ **Licensed, Bonded & Insured** - Complete protection and peace of mind
@@ -199,8 +199,8 @@ Pedro personally handles all initial consultations to ensure you receive the exp
 
 **Page SEO Elements:**
 - **Title Tag:** "About Pedro Ribeiro | Kitchen & Bathroom Renovation Expert | Top Notch NJ"
-- **Meta Description:** "Meet Pedro Ribeiro, licensed general contractor and kitchen & bathroom renovation expert serving New Jersey. 15+ years experience, licensed & insured. Personal service guaranteed."
-- **H1:** "Meet Pedro Ribeiro - Licensed General Contractor & Home Renovation Expert"
+- **Meta Description:** "Meet Pedro Ribeiro, licensed home improvement contractor and kitchen & bathroom renovation expert serving New Jersey. 15+ years experience, licensed & insured. Personal service guaranteed."
+- **H1:** "Meet Pedro Ribeiro - Licensed Home Improvement Contractor & Home Renovation Expert"
 - **Schema Markup:** Person and LocalBusiness structured data
 
 **Content Version:** 1.0  

@@ -249,7 +249,7 @@ Service Areas: All primary counties listed
 - Bathroom: "Bathroom Renovation NJ | Licensed Contractor | Top Notch New Jersey"
 
 **Meta Descriptions:**
-- Kitchen: "Expert kitchen remodeling in NJ by licensed general contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
+- Kitchen: "Expert kitchen remodeling in NJ by licensed home improvement contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties."
 - Bathroom: "Professional bathroom renovation in NJ. Licensed Home Improvement Contractor. Complete renovations from $8K-$80K+. Free estimates. Union, Essex, Middlesex, Bergen Counties."
 
 **Header Tags:**
