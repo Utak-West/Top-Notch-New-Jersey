@@ -108,8 +108,8 @@
       <div class="advantage-item">
         <span class="advantage-icon">✓</span>
         <div class="advantage-text">
-          <strong>Master Electrician Expertise</strong>
-          <p>No electrical subcontractor markups - Pedro handles all electrical work directly</p>
+          <strong>Licensed Contractor Expertise</strong>
+          <p>No subcontractor markups on electrical work - Pedro handles coordination directly</p>
         </div>
       </div>
       

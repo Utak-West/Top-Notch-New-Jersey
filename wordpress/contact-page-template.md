@@ -24,7 +24,7 @@
     
     <div class="contact-credentials">
       <div class="credential-item">
-        <span class="credential-text">Licensed Master Electrician #13VH13054200</span>
+        <span class="credential-text">Licensed, Bonded & Insured Contractor</span>
       </div>
       <div class="credential-item">
         <span class="credential-text">Serving Union, Essex, Middlesex & Bergen Counties</span>
@@ -159,7 +159,7 @@
         <h3>Why Choose Top Notch:</h3>
         <div class="trust-item">
           <span class="trust-icon">✓</span>
-          <span>Licensed Master Electrician</span>
+          <span>Licensed Home Improvement Contractor</span>
         </div>
         <div class="trust-item">
           <span class="trust-icon">✓</span>
@@ -302,7 +302,7 @@
           </div>
           <div class="info-item">
             <strong>License:</strong>
-            <span>Master Electrician #13VH13054200</span>
+            <span>Licensed, Bonded & Insured</span>
           </div>
           <div class="info-item">
             <strong>Established:</strong>
@@ -359,7 +359,7 @@
     <div class="business-image">
       <img src="/wp-content/uploads/pedro-business-photo.jpg" alt="Pedro Ribeiro - Top Notch New Jersey">
       <div class="image-caption">
-        <p>Pedro Ribeiro, Licensed Master Electrician and Owner of Top Notch New Jersey</p>
+        <p>Pedro Ribeiro, Licensed Home Improvement Contractor and Owner of Top Notch New Jersey</p>
       </div>
     </div>
   </div>
