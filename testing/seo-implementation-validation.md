@@ -25,7 +25,7 @@
 
 ✅ Electrical Service Keywords:
    - Primary: "electrician new jersey" (2,400 monthly searches)
-   - Secondary: "master electrician nj" (320 searches)
+   - Secondary: "home improvement contractor nj" (320 searches)
    - Secondary: "electrical contractor new jersey" (890 searches)
    - Secondary: "home electrical services nj" (450 searches)
 ```

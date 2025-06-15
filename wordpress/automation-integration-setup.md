@@ -393,7 +393,7 @@ class WordPressIntegration:
             
             <p>Best regards,<br>
             Pedro Ribeiro<br>
-            Licensed Master Electrician #13VH13054200<br>
+            Licensed Home Improvement Contractor<br>
             Top Notch New Jersey</p>
         </body>
         </html>
