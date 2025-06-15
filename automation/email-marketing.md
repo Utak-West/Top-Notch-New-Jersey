@@ -228,15 +228,15 @@
 - New Year renovation resolutions
 - Indoor project advantages
 - Planning for spring completion
-- Winter electrical safety
+- Winter home safety tips
 
-### Emergency Service Promotions
+### Urgent Service Promotions
 
 #### Storm Season Campaign
-**Subject:** "Storm Damage? Emergency Electrical Services Available 24/7"
+**Subject:** "Storm Damage? Emergency Home Repair Services Available 24/7"
 **Content:**
 - Emergency service availability
-- Storm damage electrical hazards
+- Storm damage home repair needs
 - Safety tips and when to call
 - Insurance claim assistance
 

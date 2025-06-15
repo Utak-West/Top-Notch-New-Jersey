@@ -118,39 +118,39 @@
 </div>
 ```
 
-#### Mobile Emergency Service Form
+#### Mobile Urgent Service Form
 
 ```html
-<div class="mobile-emergency-form">
-  <h3>Emergency Service</h3>
+<div class="mobile-urgent-form">
+  <h3>Urgent Home Improvement Service</h3>
   <p>Licensed Contractor #13VH13054200 - Professional Response</p>
 
-  <div class="emergency-call-section">
-    <a href="tel:XXXXXXXXXX" class="emergency-call-btn">
+  <div class="urgent-call-section">
+    <a href="tel:XXXXXXXXXX" class="urgent-call-btn">
       CALL NOW: (XXX) XXX-XXXX
     </a>
-    <p>For immediate emergencies, call directly</p>
+    <p>For immediate home improvement needs, call directly</p>
   </div>
-  
-  <form class="mobile-emergency-form">
+
+  <form class="mobile-urgent-form">
     <input type="text" name="name" placeholder="Your Name" required>
     <input type="tel" name="phone" placeholder="Phone Number" required>
-    <input type="text" name="address" placeholder="Emergency Address" required>
-    
-    <select name="emergency_type" required>
-      <option value="">Emergency Type</option>
-      <option value="no_power">No Power</option>
-      <option value="sparking">Sparking/Burning</option>
-      <option value="tripping">Breaker Tripping</option>
-      <option value="shock">Shock Hazard</option>
-      <option value="other">Other Emergency</option>
+    <input type="text" name="address" placeholder="Service Address" required>
+
+    <select name="urgent_type" required>
+      <option value="">Service Type</option>
+      <option value="kitchen_urgent">Urgent Kitchen Issue</option>
+      <option value="bathroom_urgent">Urgent Bathroom Issue</option>
+      <option value="renovation_urgent">Renovation Emergency</option>
+      <option value="general_urgent">General Home Improvement</option>
+      <option value="other">Other Urgent Need</option>
     </select>
-    
-    <textarea name="description" placeholder="Describe the emergency..." rows="3"></textarea>
-    
-    <button type="submit" class="emergency-submit">Send Emergency Request</button>
-    
-    <p class="emergency-note">We respond within 2 hours</p>
+
+    <textarea name="description" placeholder="Describe the urgent situation..." rows="3"></textarea>
+
+    <button type="submit" class="urgent-submit">Send Urgent Request</button>
+
+    <p class="urgent-note">We respond within 2 hours</p>
   </form>
 </div>
 ```

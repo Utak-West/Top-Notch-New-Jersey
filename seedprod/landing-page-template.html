@@ -318,17 +318,17 @@
                 </div>
                 
                 <div class="service-card">
-                    <div class="service-icon">⚡</div>
-                    <h3>Home Improvement Services</h3>
-                    <p>Licensed renovation work for all your kitchen and bathroom remodeling needs. Code-compliant installations and quality upgrades.</p>
+                    <div class="service-icon">🏠</div>
+                    <h3>Complete Home Renovations</h3>
+                    <p>Multi-room renovation projects with comprehensive planning and coordination. Single contractor for your entire home transformation.</p>
                     <ul style="text-align: left; margin: 20px 0;">
-                        <li>Electrical panel upgrades</li>
-                        <li>Outlet & switch installation</li>
-                        <li>Lighting design & installation</li>
-                        <li>GFCI protection</li>
-                        <li>Code compliance updates</li>
+                        <li>Multi-room renovations</li>
+                        <li>Open concept conversions</li>
+                        <li>Whole home updates</li>
+                        <li>Project coordination</li>
+                        <li>Licensed contractor oversight</li>
                     </ul>
-                    <a href="#contact-form" class="cta-button">Get Electrical Quote</a>
+                    <a href="#contact-form" class="cta-button">Get Home Renovation Quote</a>
                 </div>
             </div>
         </div>
@@ -422,7 +422,7 @@
                             <option value="">Select a service...</option>
                             <option value="kitchen">Kitchen Remodeling</option>
                             <option value="bathroom">Bathroom Renovation</option>
-                            <option value="electrical">Electrical Work</option>
+                            <option value="home_renovation">Complete Home Renovation</option>
                             <option value="multiple">Multiple Services</option>
                         </select>
                     </div>
@@ -523,8 +523,8 @@
             // Service type scoring
             if (data.service_interest === 'multiple') score += 30;
             else if (data.service_interest === 'kitchen') score += 25;
-            else if (data.service_interest === 'bathroom') score += 20;
-            else if (data.service_interest === 'electrical') score += 15;
+            else if (data.service_interest === 'bathroom') score += 25;
+            else if (data.service_interest === 'home_renovation') score += 20;
             
             // Timeline scoring
             if (data.timeline === 'asap') score += 25;

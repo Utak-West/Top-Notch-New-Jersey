@@ -305,166 +305,40 @@
 </div>
 ```
 
-## ELECTRICAL SERVICES LEAD CAPTURE
+## INTEGRATED ELECTRICAL SERVICES (ADD-ON ONLY)
 
-### Emergency vs. Planned Electrical Services
+### Electrical Services as Part of Your Renovation
+
+*Note: Electrical services are available only as add-on services integrated with kitchen remodeling, bathroom renovation, or complete home renovation projects.*
 
 ```html
-<div class="electrical-capture-system">
-  <div class="service-type-tabs">
-    <button class="tab-btn active" data-tab="emergency">Emergency Service</button>
-    <button class="tab-btn" data-tab="planned">Planned Project</button>
-    <button class="tab-btn" data-tab="renovation">Renovation Electrical</button>
-  </div>
+<!-- Electrical Add-On Services Section (appears within renovation forms) -->
+<div class="electrical-addon-section" style="display: none;" id="electrical-addons">
+  <h4>Additional Electrical Services</h4>
+  <p>Enhance your renovation with professional electrical upgrades</p>
 
-  <!-- Emergency Tab -->
-  <div id="emergency" class="tab-content active">
-    <h3>Emergency Service - Professional Response</h3>
-    <div class="emergency-contact">
-      <a href="tel:XXXXXXXXXX" class="emergency-call-btn">
-        Call Pedro Now: (XXX) XXX-XXXX
-      </a>
-      <p>Licensed Contractor #13VH13054200 - Professional Emergency Response</p>
+  <div class="electrical-addons">
+    <div class="checkbox-group">
+      <input type="checkbox" id="lighting_upgrade" name="electrical_addons[]" value="lighting_upgrade">
+      <label for="lighting_upgrade">Lighting Design & Installation</label>
+
+      <input type="checkbox" id="outlet_additions" name="electrical_addons[]" value="outlet_additions">
+      <label for="outlet_additions">Additional Outlets & USB Ports</label>
+
+      <input type="checkbox" id="appliance_circuits" name="electrical_addons[]" value="appliance_circuits">
+      <label for="appliance_circuits">Appliance Electrical Connections</label>
+
+      <input type="checkbox" id="gfci_upgrades" name="electrical_addons[]" value="gfci_upgrades">
+      <label for="gfci_upgrades">GFCI Protection Upgrades</label>
+
+      <input type="checkbox" id="smart_switches" name="electrical_addons[]" value="smart_switches">
+      <label for="smart_switches">Smart Switches & Controls</label>
     </div>
-
-    <form class="emergency-form">
-      <div class="emergency-type">
-        <label>What's the electrical emergency?</label>
-        <select name="emergency_type" required>
-          <option value="">Select emergency type...</option>
-          <option value="no_power">Complete power outage</option>
-          <option value="partial_power">Partial power loss</option>
-          <option value="sparking">Sparking/burning smell</option>
-          <option value="tripping">Circuit breaker keeps tripping</option>
-          <option value="flickering">Lights flickering</option>
-          <option value="shock">Electrical shock hazard</option>
-          <option value="other">Other electrical emergency</option>
-        </select>
-      </div>
-
-      <textarea name="description" placeholder="Describe the emergency situation..." required></textarea>
-
-      <div class="contact-urgent">
-        <input type="text" name="name" placeholder="Your Name" required>
-        <input type="tel" name="phone" placeholder="Phone Number" required>
-        <input type="text" name="address" placeholder="Emergency Address in NJ" required>
-      </div>
-
-      <button type="submit" class="emergency-submit">Send Emergency Request</button>
-
-      <p class="emergency-note">
-        For immediate emergencies, call directly: (XXX) XXX-XXXX
-      </p>
-    </form>
   </div>
 
-  <!-- Planned Project Tab -->
-  <div id="planned" class="tab-content">
-    <h3>Electrical Project Planning</h3>
-    <p>Licensed Contractor Pedro will design the perfect renovation solution</p>
-
-    <form class="planned-electrical-form">
-      <div class="project-type">
-        <label>Electrical Project Type:</label>
-        <div class="checkbox-group">
-          <input type="checkbox" id="panel_upgrade" name="services[]" value="panel_upgrade">
-          <label for="panel_upgrade">Panel Upgrade/Replacement</label>
-
-          <input type="checkbox" id="whole_home_rewire" name="services[]" value="whole_home_rewire">
-          <label for="whole_home_rewire">Whole Home Rewiring</label>
-
-          <input type="checkbox" id="outlets_switches" name="services[]" value="outlets_switches">
-          <label for="outlets_switches">Outlets & Switches</label>
-
-          <input type="checkbox" id="lighting_design" name="services[]" value="lighting_design">
-          <label for="lighting_design">Lighting Design & Installation</label>
-
-          <input type="checkbox" id="ev_charger" name="services[]" value="ev_charger">
-          <label for="ev_charger">EV Charger Installation</label>
-
-          <input type="checkbox" id="generator" name="services[]" value="generator">
-          <label for="generator">Generator Installation</label>
-
-          <input type="checkbox" id="smart_home" name="services[]" value="smart_home">
-          <label for="smart_home">Smart Home Wiring</label>
-        </div>
-      </div>
-
-      <div class="property-info">
-        <label>Property Type:</label>
-        <select name="property_type" required>
-          <option value="">Select property type...</option>
-          <option value="single_family">Single Family Home</option>
-          <option value="townhouse">Townhouse</option>
-          <option value="condo">Condo/Apartment</option>
-          <option value="commercial">Commercial Property</option>
-        </select>
-      </div>
-
-      <div class="contact-planned">
-        <input type="text" name="name" placeholder="Your Name" required>
-        <input type="email" name="email" placeholder="Email Address" required>
-        <input type="tel" name="phone" placeholder="Phone Number" required>
-        <input type="text" name="address" placeholder="Project Address (City, NJ)">
-      </div>
-
-      <textarea name="project_details" placeholder="Tell us about your electrical project..."></textarea>
-
-      <button type="submit" class="planned-submit">Get Expert Electrical Consultation</button>
-    </form>
-  </div>
-
-  <!-- Renovation Electrical Tab -->
-  <div id="renovation" class="tab-content">
-    <h3>Electrical Work for Your Renovation</h3>
-    <p>Seamless electrical integration with your kitchen or bathroom project</p>
-
-    <form class="renovation-electrical-form">
-      <div class="renovation-type">
-        <label>What are you renovating?</label>
-        <select name="renovation_type" required>
-          <option value="">Select renovation type...</option>
-          <option value="kitchen">Kitchen Remodeling</option>
-          <option value="bathroom">Bathroom Renovation</option>
-          <option value="whole_home">Whole Home Renovation</option>
-          <option value="addition">Room Addition</option>
-          <option value="basement">Basement Finishing</option>
-        </select>
-      </div>
-
-      <div class="electrical-needs">
-        <label>Electrical work needed:</label>
-        <div class="checkbox-group">
-          <input type="checkbox" id="new_circuits" name="electrical_work[]" value="new_circuits">
-          <label for="new_circuits">New Electrical Circuits</label>
-
-          <input type="checkbox" id="lighting_reno" name="electrical_work[]" value="lighting_reno">
-          <label for="lighting_reno">Lighting Design & Installation</label>
-
-          <input type="checkbox" id="outlets_reno" name="electrical_work[]" value="outlets_reno">
-          <label for="outlets_reno">Additional Outlets & USB</label>
-
-          <input type="checkbox" id="appliance_circuits" name="electrical_work[]" value="appliance_circuits">
-          <label for="appliance_circuits">Appliance Electrical Connections</label>
-        </div>
-      </div>
-
-      <div class="contact-renovation">
-        <input type="text" name="name" placeholder="Your Name" required>
-        <input type="email" name="email" placeholder="Email Address" required>
-        <input type="tel" name="phone" placeholder="Phone Number" required>
-        <input type="text" name="address" placeholder="Project Address (City, NJ)">
-      </div>
-
-      <textarea name="project_details" placeholder="Tell us about your renovation and electrical needs..."></textarea>
-
-      <button type="submit" class="renovation-submit">Get Integrated Renovation Estimate</button>
-
-      <p class="renovation-advantage">
-        <strong>Advantage:</strong> No electrical subcontractor markups when you choose Top Notch for your complete renovation!
-      </p>
-    </form>
-  </div>
+  <p class="addon-note">
+    <strong>Renovation Advantage:</strong> Save on electrical costs when bundled with your kitchen or bathroom project!
+  </p>
 </div>
 ```
 
@@ -513,7 +387,7 @@
       <option value="kitchen_remodel">Kitchen Remodeling</option>
       <option value="bathroom_renovation">Bathroom Renovation</option>
       <option value="whole_home">Whole Home Renovation</option>
-      <option value="electrical_only">Electrical Services Only</option>
+      <option value="general_improvements">General Home Improvements</option>
     </select>
 
     <textarea name="project_details" placeholder="Tell us about your Union County project..."></textarea>
@@ -569,8 +443,8 @@
       <option value="kitchen_remodel">Kitchen Remodeling</option>
       <option value="bathroom_renovation">Bathroom Renovation</option>
       <option value="whole_home">Whole Home Renovation</option>
-      <option value="electrical_upgrade">Electrical System Upgrade</option>
       <option value="historic_renovation">Historic Home Renovation</option>
+      <option value="general_improvements">General Home Improvements</option>
     </select>
 
     <textarea name="project_details" placeholder="Tell us about your Essex County project..."></textarea>
@@ -613,7 +487,7 @@
         <option value="kitchen">Kitchen Remodeling</option>
         <option value="bathroom">Bathroom Renovation</option>
         <option value="whole_home">Whole Home Renovation</option>
-        <option value="electrical">Electrical Services</option>
+        <option value="general_improvements">General Home Improvements</option>
         <option value="planning">Just planning ahead</option>
       </select>
 

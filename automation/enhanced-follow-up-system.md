@@ -197,17 +197,17 @@ Licensed Home Improvement Contractor
 (XXX) XXX-XXXX
 ```
 
-### Electrical Services Follow-Up
+### Urgent Service Follow-Up
 
-#### Emergency Service Follow-Up
+#### Post-Urgent Service Follow-Up
 
-**Post-Emergency Service Email:**
+**Post-Urgent Service Email:**
 ```
-Subject: Thank you for trusting Top Notch with your electrical emergency
+Subject: Thank you for trusting Top Notch with your urgent home improvement need
 
 Dear [Name],
 
-Thank you for calling Top Notch New Jersey for your electrical emergency. I'm glad we could resolve the [Issue Type] quickly and safely.
+Thank you for calling Top Notch New Jersey for your urgent home improvement situation. I'm glad we could resolve the [Issue Type] quickly and professionally.
 
 WORK COMPLETED:
 → [Description of work performed]
