@@ -1,0 +1,424 @@
+{
+  "template_name": "Contact Top Notch New Jersey",
+  "template_type": "page",
+  "elementor_version": "3.21+",
+  "template_id": "contact-page",
+  "sections": [
+    {
+      "section_id": "contact-header",
+      "section_type": "contact_hero",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Get Your Free Estimate Today",
+        "subheadline": "Licensed, Bonded & Insured Home Improvement Contractor",
+        "description": "Ready to transform your kitchen or bathroom? Contact Pedro Ribeiro directly for a free, no-obligation consultation and detailed estimate.",
+        "trust_elements": [
+          "Free in-home consultation",
+          "Detailed written estimates",
+          "No hidden costs or surprises",
+          "Licensed & insured contractor"
+        ]
+      }
+    },
+    {
+      "section_id": "contact-options",
+      "section_type": "contact_methods",
+      "headline": "How to Reach Us",
+      "layout": "3_column_grid",
+      "contact_methods": [
+        {
+          "method": "Phone",
+          "icon": "phone-icon",
+          "primary_action": {
+            "text": "(908) 555-0123",
+            "link": "tel:+19085550123",
+            "style": "click_to_call"
+          },
+          "description": "Call or text Pedro directly for fastest response",
+          "availability": "Monday-Friday: 7 AM - 7 PM, Saturday: 8 AM - 5 PM",
+          "response_time": "Usually responds within 1 hour during business hours",
+          "best_for": "Urgent questions, quick consultations, immediate scheduling"
+        },
+        {
+          "method": "Email",
+          "icon": "email-icon",
+          "primary_action": {
+            "text": "pedro@topnotchnewjersey.com",
+            "link": "mailto:pedro@topnotchnewjersey.com",
+            "style": "email_link"
+          },
+          "description": "Email for detailed project inquiries and documentation",
+          "availability": "Checked multiple times daily",
+          "response_time": "Response within 4 hours during business days",
+          "best_for": "Detailed project descriptions, photo sharing, documentation"
+        },
+        {
+          "method": "In-Person Consultation",
+          "icon": "consultation-icon",
+          "primary_action": {
+            "text": "Schedule Free Consultation",
+            "link": "#consultation-form",
+            "style": "primary_button"
+          },
+          "description": "Free in-home assessment and project planning",
+          "availability": "Monday-Saturday by appointment",
+          "response_time": "Consultation scheduled within 2-3 business days",
+          "best_for": "Project planning, detailed estimates, design consultation"
+        }
+      ]
+    },
+    {
+      "section_id": "main-contact-form",
+      "section_type": "detailed_contact_form",
+      "headline": "Request Your Free Estimate",
+      "subheadline": "Tell us about your project and we'll provide a detailed, written estimate",
+      "form_layout": "2_column_responsive",
+      "form_fields": [
+        {
+          "field_group": "Contact Information",
+          "fields": [
+            {
+              "type": "text",
+              "name": "first_name",
+              "label": "First Name",
+              "placeholder": "Enter your first name",
+              "required": true,
+              "width": "50%"
+            },
+            {
+              "type": "text",
+              "name": "last_name",
+              "label": "Last Name",
+              "placeholder": "Enter your last name",
+              "required": true,
+              "width": "50%"
+            },
+            {
+              "type": "tel",
+              "name": "phone",
+              "label": "Phone Number",
+              "placeholder": "(908) 555-0123",
+              "required": true,
+              "width": "50%"
+            },
+            {
+              "type": "email",
+              "name": "email",
+              "label": "Email Address",
+              "placeholder": "your.email@example.com",
+              "required": true,
+              "width": "50%"
+            }
+          ]
+        },
+        {
+          "field_group": "Project Details",
+          "fields": [
+            {
+              "type": "select",
+              "name": "service_type",
+              "label": "Service Needed",
+              "required": true,
+              "width": "50%",
+              "options": [
+                {"value": "", "label": "Select service type..."},
+                {"value": "kitchen_remodeling", "label": "Kitchen Remodeling"},
+                {"value": "bathroom_renovation", "label": "Bathroom Renovation"},
+                {"value": "home_renovation", "label": "Home Renovation"},
+                {"value": "multiple_services", "label": "Multiple Services"},
+                {"value": "consultation_only", "label": "Consultation Only"}
+              ]
+            },
+            {
+              "type": "select",
+              "name": "project_timeline",
+              "label": "Desired Timeline",
+              "required": true,
+              "width": "50%",
+              "options": [
+                {"value": "", "label": "Select timeline..."},
+                {"value": "asap", "label": "ASAP (Within 1 month)"},
+                {"value": "1_3_months", "label": "1-3 months"},
+                {"value": "3_6_months", "label": "3-6 months"},
+                {"value": "6_plus_months", "label": "6+ months"},
+                {"value": "planning_phase", "label": "Planning phase"}
+              ]
+            },
+            {
+              "type": "select",
+              "name": "budget_range",
+              "label": "Investment Range",
+              "required": false,
+              "width": "50%",
+              "options": [
+                {"value": "", "label": "Select budget range..."},
+                {"value": "under_15k", "label": "Under $15,000"},
+                {"value": "15k_30k", "label": "$15,000 - $30,000"},
+                {"value": "30k_60k", "label": "$30,000 - $60,000"},
+                {"value": "60k_100k", "label": "$60,000 - $100,000"},
+                {"value": "100k_plus", "label": "$100,000+"},
+                {"value": "not_sure", "label": "Not sure yet"}
+              ]
+            },
+            {
+              "type": "text",
+              "name": "property_address",
+              "label": "Property Address (City/County)",
+              "placeholder": "Linden, Union County, NJ",
+              "required": false,
+              "width": "50%",
+              "description": "Helps us verify service area coverage"
+            }
+          ]
+        },
+        {
+          "field_group": "Project Description",
+          "fields": [
+            {
+              "type": "textarea",
+              "name": "project_description",
+              "label": "Project Description",
+              "placeholder": "Please describe your project goals, current condition, specific features desired, or any questions you have...",
+              "required": true,
+              "width": "100%",
+              "rows": 5
+            }
+          ]
+        },
+        {
+          "field_group": "Contact Preferences",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "preferred_contact",
+              "label": "Preferred Contact Method",
+              "required": true,
+              "width": "50%",
+              "options": [
+                {"value": "phone", "label": "Phone call"},
+                {"value": "text", "label": "Text message"},
+                {"value": "email", "label": "Email"},
+                {"value": "any", "label": "Any method"}
+              ]
+            },
+            {
+              "type": "select",
+              "name": "best_time",
+              "label": "Best Time to Contact",
+              "required": false,
+              "width": "50%",
+              "options": [
+                {"value": "", "label": "Select best time..."},
+                {"value": "morning", "label": "Morning (7 AM - 12 PM)"},
+                {"value": "afternoon", "label": "Afternoon (12 PM - 5 PM)"},
+                {"value": "evening", "label": "Evening (5 PM - 7 PM)"},
+                {"value": "weekend", "label": "Weekend"},
+                {"value": "anytime", "label": "Anytime"}
+              ]
+            },
+            {
+              "type": "select",
+              "name": "how_found_us",
+              "label": "How did you find us?",
+              "required": false,
+              "width": "50%",
+              "options": [
+                {"value": "", "label": "Select source..."},
+                {"value": "google_search", "label": "Google search"},
+                {"value": "referral", "label": "Referral from friend/family"},
+                {"value": "social_media", "label": "Social media"},
+                {"value": "local_directory", "label": "Local directory"},
+                {"value": "previous_customer", "label": "Previous customer"},
+                {"value": "other", "label": "Other"}
+              ]
+            }
+          ]
+        }
+      ],
+      "form_settings": {
+        "submit_button": {
+          "text": "Get My Free Estimate",
+          "style": "success_green",
+          "loading_text": "Sending..."
+        },
+        "success_message": "Thank you! Pedro will review your request and contact you within 2 hours during business hours.",
+        "error_message": "Sorry, there was an error sending your message. Please try calling (908) 555-0123 directly.",
+        "required_field_message": "Please fill in all required fields.",
+        "email_notifications": {
+          "to": "pedro@topnotchnewjersey.com",
+          "subject": "New Estimate Request from {first_name} {last_name}",
+          "auto_reply": true
+        }
+      },
+      "form_footer": {
+        "trust_elements": [
+          "Licensed, Bonded & Insured",
+          "Free consultation included",
+          "No obligation estimate",
+          "Response within 2 hours"
+        ]
+      }
+    },
+    {
+      "section_id": "coverage-areas",
+      "section_type": "service_areas",
+      "headline": "Service Areas",
+      "subheadline": "Proudly serving New Jersey homeowners across four counties",
+      "layout": "2_column_list",
+      "service_areas": [
+        {
+          "category": "Primary Service Areas",
+          "areas": [
+            {
+              "location": "Linden, NJ",
+              "description": "Headquarters location - same-day service available",
+              "highlight": true
+            },
+            {
+              "location": "Union County",
+              "cities": ["Elizabeth", "Plainfield", "Westfield", "Summit", "Cranford", "Rahway"],
+              "description": "Full service area with quick response times"
+            },
+            {
+              "location": "Essex County", 
+              "cities": ["Newark", "East Orange", "Montclair", "Bloomfield", "Nutley", "Millburn"],
+              "description": "Experienced with historic homes and modern renovations"
+            }
+          ]
+        },
+        {
+          "category": "Extended Coverage",
+          "areas": [
+            {
+              "location": "Middlesex County",
+              "cities": ["New Brunswick", "Edison", "Woodbridge", "Perth Amboy", "Piscataway"],
+              "description": "Smart home integration and energy-efficient solutions"
+            },
+            {
+              "location": "Bergen County",
+              "cities": ["Hackensack", "Paramus", "Fort Lee", "Englewood", "Teaneck"],
+              "description": "Luxury renovations and high-end finishes"
+            },
+            {
+              "location": "Surrounding Areas",
+              "description": "Contact us to confirm coverage for your specific location",
+              "note": "Additional travel fees may apply outside primary service areas"
+            }
+          ]
+        }
+      ],
+      "coverage_note": "Not sure if we serve your area? Give us a call - we're always happy to discuss your project regardless of location."
+    },
+    {
+      "section_id": "business-info",
+      "section_type": "business_details",
+      "layout": "3_column_info",
+      "business_details": [
+        {
+          "category": "Business Hours",
+          "icon": "clock-icon",
+          "details": [
+            "Monday - Friday: 7:00 AM - 7:00 PM",
+            "Saturday: 8:00 AM - 5:00 PM", 
+            "Sunday: Emergency calls only",
+            "Consultations available by appointment"
+          ],
+          "note": "After-hours emergency service available for existing customers"
+        },
+        {
+          "category": "Credentials & Licensing",
+          "icon": "license-icon",
+          "details": [
+            "Licensed Home Improvement Contractor",
+            "Fully Bonded & Insured",
+            "Workers Compensation Coverage",
+            "Liability Insurance Current"
+          ],
+          "note": "All permits and inspections handled professionally"
+        },
+        {
+          "category": "Service Commitment",
+          "icon": "guarantee-icon",
+          "details": [
+            "Free in-home consultations",
+            "Written estimates within 24 hours",
+            "2-year warranty on workmanship",
+            "Manufacturer warranties honored"
+          ],
+          "note": "Your satisfaction is our guarantee"
+        }
+      ]
+    },
+    {
+      "section_id": "emergency-contact",
+      "section_type": "emergency_info",
+      "background": {
+        "type": "solid_color",
+        "color": "#F3F4F6"
+      },
+      "content": {
+        "headline": "Need Immediate Assistance?",
+        "scenarios": [
+          {
+            "situation": "Current Project Questions",
+            "description": "If you're an existing customer with questions about your ongoing project",
+            "action": "Call Pedro directly at (908) 555-0123"
+          },
+          {
+            "situation": "Urgent Consultation Needed",
+            "description": "Need to schedule a consultation within 24 hours",
+            "action": "Text Pedro at (908) 555-0123 with 'URGENT' in your message"
+          },
+          {
+            "situation": "After-Hours Emergency",
+            "description": "Existing customers with project-related emergencies",
+            "action": "Call (908) 555-0123 - emergency line available"
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "final-cta",
+      "section_type": "closing_cta",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Ready to Start Your Project?",
+        "subheadline": "Join hundreds of satisfied New Jersey homeowners who chose Top Notch for their kitchen and bathroom renovations",
+        "benefits": [
+          "Free consultation and estimate",
+          "Licensed, bonded & insured contractor",
+          "Personal attention from Pedro",
+          "Transparent pricing with no hidden costs",
+          "2-year warranty on all workmanship"
+        ],
+        "cta_options": [
+          {
+            "primary": true,
+            "text": "Get Free Estimate",
+            "link": "#main-contact-form",
+            "style": "success_green"
+          },
+          {
+            "primary": false,
+            "text": "Call (908) 555-0123",
+            "link": "tel:+19085550123",
+            "style": "accent_gold"
+          }
+        ]
+      }
+    }
+  ],
+  "seo_settings": {
+    "page_title": "Contact Top Notch New Jersey | Free Estimates | Licensed Home Improvement Contractor",
+    "meta_description": "Contact Pedro Ribeiro for free kitchen & bathroom remodeling estimates. Licensed contractor serving Union, Essex, Middlesex & Bergen Counties. Call (908) 555-0123.",
+    "h1_tag": "Get Your Free Estimate Today",
+    "local_keywords": ["contact", "free estimate", "consultation", "Linden NJ", "Union County"],
+    "service_keywords": ["kitchen remodeling", "bathroom renovation", "home improvement", "contractor"]
+  }
+}

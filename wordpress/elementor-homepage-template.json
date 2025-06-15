@@ -1,0 +1,344 @@
+{
+  "template_name": "Top Notch New Jersey Homepage",
+  "template_type": "page",
+  "elementor_version": "3.21+",
+  "template_id": "homepage-main",
+  "sections": [
+    {
+      "section_id": "hero-main",
+      "section_type": "hero",
+      "background": {
+        "type": "image",
+        "image_url": "kitchen-renovation-hero.jpg",
+        "overlay": {
+          "color": "#1B365D",
+          "opacity": 0.7
+        }
+      },
+      "content": {
+        "headline": "Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts",
+        "subheadline": "Licensed Home Improvement Contractor Pedro Ribeiro - Serving Union, Essex, Middlesex & Bergen Counties",
+        "cta_primary": {
+          "text": "Get Free Estimate",
+          "link": "#contact-form",
+          "style": "success-green"
+        },
+        "cta_secondary": {
+          "text": "Call (908) 555-0123",
+          "link": "tel:+19085550123",
+          "style": "brand-blue"
+        },
+        "trust_badges": [
+          "Licensed, Bonded & Insured Contractor",
+          "15+ Years Experience",
+          "Union County Based"
+        ]
+      },
+      "mobile_settings": {
+        "height": "60vh",
+        "text_size": "smaller"
+      }
+    },
+    {
+      "section_id": "services-grid",
+      "section_type": "services_overview",
+      "layout": "3-column-grid",
+      "services": [
+        {
+          "icon": "kitchen-icon",
+          "title": "Kitchen Remodeling",
+          "description": "Complete kitchen transformations from $10,000 refreshes to $100,000+ luxury renovations",
+          "features": [
+            "Custom cabinetry and countertops",
+            "Professional installation",
+            "Design consultation included"
+          ],
+          "cta": {
+            "text": "Learn More",
+            "link": "/services/kitchen-remodeling"
+          }
+        },
+        {
+          "icon": "bathroom-icon", 
+          "title": "Bathroom Renovation",
+          "description": "Luxury spa bathrooms and accessibility modifications with professional craftsmanship",
+          "features": [
+            "Complete renovations",
+            "Accessibility modifications",
+            "Luxury spa features"
+          ],
+          "cta": {
+            "text": "Learn More",
+            "link": "/services/bathroom-renovation"
+          }
+        },
+        {
+          "icon": "home-icon",
+          "title": "Home Renovations",
+          "description": "Comprehensive home improvement projects with single-point coordination",
+          "features": [
+            "Multi-room projects",
+            "Project management",
+            "Licensed contractor"
+          ],
+          "cta": {
+            "text": "Learn More",
+            "link": "/services/home-renovations"
+          }
+        }
+      ],
+      "mobile_settings": {
+        "layout": "1-column-stack"
+      }
+    },
+    {
+      "section_id": "about-preview",
+      "section_type": "about_section",
+      "layout": "2-column",
+      "content": {
+        "image": "pedro-professional-photo.jpg",
+        "headline": "Meet Pedro Ribeiro",
+        "subheadline": "Licensed Home Improvement Contractor",
+        "description": "With 15+ years of experience in New Jersey home improvement, Pedro brings professional expertise and personal attention to every kitchen and bathroom renovation project.",
+        "credentials": [
+          "Licensed Home Improvement Contractor",
+          "Bonded & Insured",
+          "15+ Years Experience",
+          "Local Linden, NJ Business"
+        ],
+        "cta": {
+          "text": "Learn About Pedro",
+          "link": "/about"
+        }
+      }
+    },
+    {
+      "section_id": "project-showcase",
+      "section_type": "portfolio_gallery",
+      "headline": "Recent Kitchen & Bathroom Transformations",
+      "gallery_type": "before_after_slider",
+      "projects": [
+        {
+          "title": "Modern Farmhouse Kitchen - Linden, NJ",
+          "investment": "$45,000",
+          "timeline": "5 weeks",
+          "before_image": "kitchen-before-1.jpg",
+          "after_image": "kitchen-after-1.jpg",
+          "description": "White shaker cabinets with quartz countertops and subway tile backsplash"
+        },
+        {
+          "title": "Luxury Spa Bathroom - Union, NJ", 
+          "investment": "$62,000",
+          "timeline": "6 weeks",
+          "before_image": "bathroom-before-1.jpg",
+          "after_image": "bathroom-after-1.jpg",
+          "description": "Complete renovation with heated floors and smart lighting"
+        },
+        {
+          "title": "Contemporary Open Concept - Elizabeth, NJ",
+          "investment": "$72,000", 
+          "timeline": "7 weeks",
+          "before_image": "kitchen-before-2.jpg",
+          "after_image": "kitchen-after-2.jpg",
+          "description": "Wall removal for open floor plan with waterfall edge island"
+        }
+      ],
+      "cta": {
+        "text": "View Full Gallery",
+        "link": "/portfolio"
+      }
+    },
+    {
+      "section_id": "coverage-map",
+      "section_type": "service_areas",
+      "headline": "Serving New Jersey Homeowners",
+      "subheadline": "Professional home improvement services across four counties",
+      "service_areas": [
+        {
+          "county": "Union County",
+          "cities": ["Linden", "Elizabeth", "Plainfield", "Westfield", "Summit"],
+          "highlight": "Headquarters Location"
+        },
+        {
+          "county": "Essex County", 
+          "cities": ["Newark", "East Orange", "Montclair", "Bloomfield", "Nutley"],
+          "highlight": "Historic Home Specialists"
+        },
+        {
+          "county": "Middlesex County",
+          "cities": ["New Brunswick", "Edison", "Woodbridge", "Perth Amboy"],
+          "highlight": "Smart Home Integration"
+        },
+        {
+          "county": "Bergen County",
+          "cities": ["Hackensack", "Paramus", "Fort Lee", "Englewood"],
+          "highlight": "Luxury Renovations"
+        }
+      ],
+      "cta": {
+        "text": "Check Your Area",
+        "link": "#contact-form"
+      }
+    },
+    {
+      "section_id": "social-proof",
+      "section_type": "testimonials_carousel",
+      "headline": "What Our Customers Say",
+      "testimonials": [
+        {
+          "quote": "Pedro completely transformed our kitchen. His attention to detail and professional craftsmanship were outstanding. The project was completed on time and within budget.",
+          "customer_name": "Sarah M.",
+          "location": "Westfield, NJ",
+          "project_type": "Kitchen Remodeling",
+          "rating": 5,
+          "image": "customer-1.jpg"
+        },
+        {
+          "quote": "We needed our bathroom to be ADA compliant for my mother. Pedro not only handled the renovation beautifully but also ensured all work met safety requirements.",
+          "customer_name": "Robert K.",
+          "location": "Cranford, NJ", 
+          "project_type": "Bathroom Renovation",
+          "rating": 5,
+          "image": "customer-2.jpg"
+        },
+        {
+          "quote": "The spa bathroom of our dreams! Pedro's professional installation made all the difference. You can tell he takes pride in his craftsmanship.",
+          "customer_name": "Amanda S.",
+          "location": "Summit, NJ",
+          "project_type": "Luxury Bathroom",
+          "rating": 5,
+          "image": "customer-3.jpg"
+        }
+      ],
+      "carousel_settings": {
+        "autoplay": true,
+        "show_dots": true,
+        "show_arrows": true
+      }
+    },
+    {
+      "section_id": "contact-cta",
+      "section_type": "final_cta",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Ready to Transform Your Home?",
+        "subheadline": "Get your free estimate today from New Jersey's trusted home improvement contractor",
+        "form_fields": [
+          {
+            "type": "text",
+            "name": "name",
+            "label": "Full Name",
+            "required": true
+          },
+          {
+            "type": "tel", 
+            "name": "phone",
+            "label": "Phone Number",
+            "required": true
+          },
+          {
+            "type": "email",
+            "name": "email", 
+            "label": "Email Address",
+            "required": true
+          },
+          {
+            "type": "select",
+            "name": "service",
+            "label": "Service Needed",
+            "options": [
+              "Kitchen Remodeling",
+              "Bathroom Renovation", 
+              "Home Renovation",
+              "Multiple Services"
+            ],
+            "required": true
+          }
+        ],
+        "submit_button": {
+          "text": "Get My Free Estimate",
+          "style": "success-green"
+        },
+        "trust_elements": [
+          "Licensed, Bonded & Insured",
+          "Free Consultation",
+          "No Obligation Estimate"
+        ]
+      }
+    }
+  ],
+  "global_settings": {
+    "colors": {
+      "brand_blue": "#1B365D",
+      "accent_gold": "#D4AF37", 
+      "success_green": "#10B981",
+      "warm_gray": "#6B7280",
+      "deep_charcoal": "#374151",
+      "white": "#FFFFFF"
+    },
+    "typography": {
+      "h1": {
+        "font_size": "48px",
+        "font_size_mobile": "36px",
+        "font_weight": "bold",
+        "color": "brand_blue"
+      },
+      "h2": {
+        "font_size": "36px",
+        "font_size_mobile": "28px", 
+        "font_weight": "semi-bold",
+        "color": "deep_charcoal"
+      },
+      "h3": {
+        "font_size": "24px",
+        "font_size_mobile": "20px",
+        "font_weight": "semi-bold", 
+        "color": "brand_blue"
+      },
+      "body": {
+        "font_size": "16px",
+        "font_weight": "regular",
+        "color": "warm_gray"
+      },
+      "cta": {
+        "font_size": "18px",
+        "font_weight": "bold",
+        "color": "white"
+      }
+    },
+    "spacing": {
+      "section_padding": "80px",
+      "section_padding_mobile": "40px",
+      "element_margin": "24px",
+      "element_margin_mobile": "16px",
+      "grid_gap": "30px",
+      "grid_gap_mobile": "20px"
+    },
+    "buttons": {
+      "padding": "16px 32px",
+      "border_radius": "8px",
+      "min_touch_target": "44px"
+    }
+  },
+  "seo_settings": {
+    "page_title": "Kitchen & Bathroom Remodeling NJ | Licensed Contractor | Top Notch New Jersey",
+    "meta_description": "Expert kitchen & bathroom remodeling in NJ by licensed contractor Pedro Ribeiro. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.",
+    "h1_tag": "Transform Your Kitchen & Bathroom with New Jersey's Licensed Experts",
+    "schema_markup": {
+      "type": "LocalBusiness",
+      "name": "Top Notch New Jersey",
+      "description": "Licensed home improvement contractor specializing in kitchen and bathroom remodeling",
+      "address": {
+        "locality": "Linden",
+        "region": "NJ",
+        "country": "US"
+      },
+      "telephone": "(908) 555-0123",
+      "url": "https://topnotchnewjersey.com",
+      "priceRange": "$$-$$$"
+    }
+  }
+}

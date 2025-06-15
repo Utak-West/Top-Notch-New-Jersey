@@ -1,0 +1,463 @@
+{
+  "template_name": "Bathroom Remodeling Service Page",
+  "template_type": "page",
+  "elementor_version": "3.21+", 
+  "template_id": "bathroom-service-page",
+  "sections": [
+    {
+      "section_id": "service-header",
+      "section_type": "page_header",
+      "breadcrumbs": "Home > Services > Bathroom Remodeling",
+      "background": {
+        "type": "image",
+        "image_url": "bathroom-remodeling-header.jpg",
+        "overlay": {
+          "color": "#1B365D",
+          "opacity": 0.6
+        }
+      },
+      "content": {
+        "headline": "Transform Your Bathroom with New Jersey's Renovation Experts",
+        "subheadline": "Complete bathroom renovations with professional craftsmanship and quality materials",
+        "key_benefits": [
+          "Licensed Home Improvement Contractor - Professional expertise and accountability",
+          "Complete Renovations - From design to final inspection", 
+          "Local Linden, NJ - Serving Union, Essex, Middlesex & Bergen Counties",
+          "Free Estimates - Detailed written proposals within 24 hours"
+        ],
+        "cta": {
+          "text": "Get Your Free Bathroom Renovation Estimate",
+          "link": "#contact-form",
+          "style": "success-green"
+        }
+      }
+    },
+    {
+      "section_id": "service-details",
+      "section_type": "service_overview",
+      "layout": "2-column",
+      "left_column": {
+        "headline": "Complete Bathroom Renovations",
+        "subheadline": "Full-Service Transformations",
+        "services": [
+          "Design Consultation - Space planning and fixture selection",
+          "Demolition & Prep - Safe removal of existing fixtures and finishes",
+          "Plumbing Modifications - Relocate or upgrade plumbing as needed",
+          "Professional Installation - Expert craftsmanship for all components",
+          "Tile & Flooring - Professional installation of all surfaces",
+          "Fixture Installation - Toilets, vanities, showers, tubs",
+          "Final Finishing - Paint, trim, and detail work"
+        ],
+        "professional_features": [
+          "Safety Compliance - Code-compliant installations",
+          "Ventilation Systems - Proper exhaust fan installation",
+          "Lighting Design - Ambient, task, and accent lighting",
+          "Heated Floors - Radiant heating system installation",
+          "Modern Features - Contemporary lighting, smart mirrors, USB outlets"
+        ]
+      },
+      "right_column": {
+        "headline": "Bathroom Renovation Specialties",
+        "specialties": [
+          {
+            "category": "Luxury Spa Bathrooms",
+            "features": [
+              "Steam Showers - Complete professional installation and integration",
+              "Heated Towel Racks - Professional installation and setup",
+              "Smart Mirrors - LED lighting and defogger systems",
+              "Ambient Lighting - Dimmable LED systems with modern controls",
+              "Sound Systems - Bluetooth speakers and professional wiring"
+            ]
+          },
+          {
+            "category": "Accessibility Modifications",
+            "features": [
+              "Walk-In Showers - Barrier-free designs with proper drainage",
+              "Grab Bar Installation - Reinforced mounting with safety considerations",
+              "Comfort Height Fixtures - ADA-compliant installations",
+              "Improved Lighting - Better visibility and safety lighting",
+              "Safety Systems - Enhanced safety features and accessibility"
+            ]
+          },
+          {
+            "category": "Small Bathroom Optimization",
+            "features": [
+              "Space-Saving Fixtures - Compact designs with full functionality",
+              "Storage Solutions - Built-in niches and cabinets",
+              "Lighting Maximization - Strategic placement for larger feel",
+              "Ventilation Efficiency - Proper air circulation in tight spaces",
+              "Modern Features - Maximum functionality in minimal space"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "investment-levels",
+      "section_type": "pricing_tiers",
+      "headline": "Bathroom Remodeling Investment Levels",
+      "tiers": [
+        {
+          "tier_name": "Essential Updates",
+          "investment_range": "$8,000 - $20,000",
+          "timeline": "2-3 weeks",
+          "description": "Perfect for basic functionality improvements and safety updates",
+          "features": [
+            "Fixture Replacement - New toilet, vanity, shower/tub",
+            "Basic Tile Work - Floor and shower surround",
+            "Standard Lighting - Vanity lights and ceiling fixture",
+            "Electrical Safety - GFCI outlets, proper ventilation",
+            "Basic Plumbing - Standard connections and minor modifications"
+          ],
+          "professional_installation": [
+            "Safety outlet installation",
+            "Exhaust fan upgrade",
+            "Vanity lighting",
+            "Modern switch upgrades",
+            "Code compliance updates"
+          ],
+          "cta": {
+            "text": "Get Essential Quote",
+            "link": "#contact-form"
+          }
+        },
+        {
+          "tier_name": "Full Renovation",
+          "investment_range": "$25,000 - $45,000",
+          "timeline": "4-6 weeks",
+          "description": "Complete bathroom transformation",
+          "features": [
+            "Complete Demolition - Full bathroom gutting",
+            "Custom Tile Work - Designer tiles and patterns",
+            "Premium Fixtures - Higher-end toilets, vanities, shower systems",
+            "Enhanced Lighting - Multiple lighting zones and dimmers",
+            "Modern Upgrades - Additional circuits, smart features",
+            "Plumbing Modifications - Relocate fixtures, upgrade systems"
+          ],
+          "professional_installation": [
+            "Multiple lighting circuits",
+            "Heated floor systems",
+            "Smart switch installation",
+            "Additional outlet placement",
+            "Ventilation system upgrade",
+            "USB charging outlets"
+          ],
+          "cta": {
+            "text": "Get Full Renovation Quote",
+            "link": "#contact-form"
+          },
+          "highlight": true
+        },
+        {
+          "tier_name": "Luxury Spa Bathroom",
+          "investment_range": "$50,000 - $80,000+",
+          "timeline": "6-8 weeks",
+          "description": "High-end luxury renovations",
+          "features": [
+            "Premium Materials - Natural stone, high-end tiles",
+            "Luxury Fixtures - Designer vanities, rainfall showers, soaking tubs",
+            "Smart Technology - Automated systems and smart mirrors",
+            "Advanced Lighting - LED systems with color changing",
+            "Heated Features - Floors, towel racks, surfaces",
+            "Custom Features - Built-ins, unique design elements"
+          ],
+          "professional_installation": [
+            "Smart home integration",
+            "Advanced lighting controls",
+            "Multiple heating circuits",
+            "Sound system wiring",
+            "Automated ventilation",
+            "Modern safety systems"
+          ],
+          "cta": {
+            "text": "Get Luxury Quote",
+            "link": "#contact-form"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "renovation-process",
+      "section_type": "process_timeline",
+      "headline": "Bathroom Remodeling Process",
+      "phases": [
+        {
+          "phase": "Phase 1: Design & Planning",
+          "timeline": "Week 1",
+          "steps": [
+            {
+              "title": "Initial Consultation",
+              "details": [
+                "Free In-Home Assessment - Measure space and assess current systems",
+                "Design Discussion - Your vision, needs, and preferences",
+                "System Evaluation - Current system capacity and upgrade needs",
+                "Budget Planning - Investment levels and financing options"
+              ]
+            },
+            {
+              "title": "Design Development",
+              "details": [
+                "Space Planning - Optimal layout for functionality",
+                "Fixture Selection - Coordinate with your style preferences",
+                "Installation Planning - Lighting, outlets, and special features",
+                "Material Coordination - Tiles, finishes, and colors"
+              ]
+            }
+          ]
+        },
+        {
+          "phase": "Phase 2: Permits & Preparation",
+          "timeline": "Week 2",
+          "steps": [
+            {
+              "title": "Permit Applications",
+              "details": [
+                "Building Permits - Required for structural changes",
+                "Installation Permits - All installation work properly permitted",
+                "Plumbing Permits - If relocating fixtures",
+                "Inspection Scheduling - Coordinate all required inspections"
+              ]
+            },
+            {
+              "title": "Project Preparation",
+              "details": [
+                "Material Ordering - All fixtures, tiles, and installation components",
+                "Site Protection - Protect surrounding areas during construction",
+                "Utility Coordination - Temporary service arrangements",
+                "Timeline Confirmation - Final schedule and milestone dates"
+              ]
+            }
+          ]
+        },
+        {
+          "phase": "Phase 3: Demolition & Rough-In",
+          "timeline": "Week 3-4",
+          "steps": [
+            {
+              "title": "Demolition Work",
+              "details": [
+                "Safe Removal - Careful demolition to protect structure",
+                "System Disconnection - Safe shutdown of existing systems",
+                "Plumbing Removal - Proper capping and protection",
+                "Debris Removal - Clean and organized work site"
+              ]
+            },
+            {
+              "title": "Rough-In Installation",
+              "details": [
+                "System Rough-In - New circuits, outlets, and lighting",
+                "Plumbing Rough-In - New supply and drain lines",
+                "Structural Work - Any framing or structural modifications",
+                "Inspection Scheduling - Rough-in inspections"
+              ]
+            }
+          ]
+        },
+        {
+          "phase": "Phase 4: Finishing Work",
+          "timeline": "Week 5-6",
+          "steps": [
+            {
+              "title": "Surface Installation",
+              "details": [
+                "Tile Installation - Floors, walls, and shower areas",
+                "System Finishing - Outlets, switches, and fixtures",
+                "Plumbing Fixtures - Toilets, vanities, shower systems",
+                "Painting & Trim - Final finishes and detail work"
+              ]
+            },
+            {
+              "title": "Final Details",
+              "details": [
+                "Fixture Installation - Mirrors, towel bars, accessories",
+                "System Testing - All systems tested and verified",
+                "Final Cleanup - Complete cleaning and debris removal",
+                "Final Inspection - All permits closed and approved"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "design-trends",
+      "section_type": "design_showcase",
+      "headline": "Popular Bathroom Design Trends",
+      "trends": [
+        {
+          "style": "Modern Minimalist",
+          "design_elements": [
+            "Clean Lines - Simple, uncluttered designs",
+            "Neutral Colors - Whites, grays, and natural tones",
+            "Floating Vanities - Wall-mounted for spacious feel",
+            "Frameless Showers - Glass enclosures without frames"
+          ],
+          "modern_features": [
+            "Recessed Lighting - Clean ceiling lines",
+            "LED Strip Lighting - Under-cabinet and accent lighting",
+            "Smart Mirrors - Built-in lighting and defoggers",
+            "Minimalist Switches - Sleek, modern switch plates"
+          ],
+          "image": "modern-minimalist-bathroom.jpg"
+        },
+        {
+          "style": "Traditional Elegance",
+          "design_elements": [
+            "Classic Fixtures - Pedestal sinks, clawfoot tubs",
+            "Rich Materials - Natural stone, hardwood vanities",
+            "Warm Colors - Creams, beiges, and earth tones",
+            "Detailed Trim - Crown molding and wainscoting"
+          ],
+          "lighting_features": [
+            "Chandelier Lighting - Elegant overhead fixtures",
+            "Sconce Lighting - Traditional wall-mounted fixtures",
+            "Brass Finishes - Warm metal components",
+            "Classic Switches - Traditional toggle or rocker styles"
+          ],
+          "image": "traditional-elegant-bathroom.jpg"
+        },
+        {
+          "style": "Spa-Inspired Luxury",
+          "design_elements": [
+            "Natural Materials - Stone, bamboo, and organic textures",
+            "Calming Colors - Blues, greens, and earth tones",
+            "Water Features - Rainfall showers, soaking tubs",
+            "Comfort Features - Heated floors, towel warmers"
+          ],
+          "modern_features": [
+            "Mood Lighting - Dimmable and color-changing LEDs",
+            "Heated Systems - Floor heating, towel racks",
+            "Sound Integration - Bluetooth speakers and controls",
+            "Smart Controls - Automated lighting and temperature"
+          ],
+          "image": "spa-luxury-bathroom.jpg"
+        }
+      ]
+    },
+    {
+      "section_id": "service-areas",
+      "section_type": "local_expertise",
+      "headline": "Service Areas & Local Expertise",
+      "counties": [
+        {
+          "county": "Union County Bathroom Remodeling",
+          "cities": ["Linden", "Elizabeth", "Plainfield", "Westfield", "Summit"],
+          "advantages": [
+            "Same-day service calls, quick response times",
+            "Familiar with all local building requirements"
+          ]
+        },
+        {
+          "county": "Essex County Bathroom Renovations",
+          "cities": ["Newark", "East Orange", "Montclair", "Bloomfield", "Nutley"],
+          "advantages": [
+            "Experience with older home renovation challenges",
+            "Current with all county building requirements"
+          ]
+        },
+        {
+          "county": "Middlesex County Bathroom Upgrades",
+          "cities": ["New Brunswick", "Edison", "Woodbridge", "Perth Amboy"],
+          "advantages": [
+            "Smart home integration and energy efficiency",
+            "Established relationships with local inspectors"
+          ]
+        },
+        {
+          "county": "Bergen County Bathroom Remodeling",
+          "cities": ["Hackensack", "Paramus", "Fort Lee", "Englewood"],
+          "advantages": [
+            "High-end renovation experience",
+            "Advanced features and smart home integration"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "why-choose-us",
+      "section_type": "unique_advantages",
+      "headline": "Why Choose Top Notch for Your Bathroom Remodel",
+      "advantages": [
+        {
+          "category": "Professional Expertise",
+          "benefits": [
+            "Direct Service - Pedro handles all project management personally",
+            "Cost Efficiency - Direct supplier relationships for better pricing",
+            "Quality Control - Single-source accountability for entire project",
+            "Code Compliance - Expert knowledge of current building codes"
+          ]
+        },
+        {
+          "category": "Local New Jersey Focus",
+          "benefits": [
+            "Community Reputation - Established local business since 2018",
+            "Quick Response - Based in Linden, serving surrounding counties",
+            "Local Permits - Familiar with all municipal requirements",
+            "Ongoing Support - Available for future service and maintenance"
+          ]
+        },
+        {
+          "category": "Comprehensive Service",
+          "benefits": [
+            "Design to Completion - Full-service bathroom renovations",
+            "Quality Materials - Partnerships with trusted suppliers",
+            "Professional Installation - Skilled craftsmanship on every project",
+            "Warranty Protection - Comprehensive warranties on all work"
+          ]
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "Pedro completely transformed our master bathroom. His attention to detail and professional craftsmanship were invaluable - he installed heated floors, smart lighting, and a ventilation system that actually works. The project was completed on time and the quality is outstanding.",
+          "customer": "Lisa K., Westfield, NJ"
+        },
+        {
+          "quote": "We needed our bathroom to be ADA compliant for my mother. Pedro not only handled the renovation beautifully but also ensured all the installation work met safety requirements. His attention to detail is impressive.",
+          "customer": "Robert M., Cranford, NJ"
+        },
+        {
+          "quote": "The spa bathroom of our dreams! Pedro's professional installation made all the difference - from the mood lighting to the heated towel racks. You can tell he takes pride in his craftsmanship.",
+          "customer": "Amanda S., Summit, NJ"
+        }
+      ]
+    },
+    {
+      "section_id": "contact-cta",
+      "section_type": "consultation_cta",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Start Your Bathroom Renovation Today",
+        "subheadline": "Free Consultation Process",
+        "process_steps": [
+          "Step 1: Contact us for your free in-home consultation",
+          "Step 2: Discuss your vision, needs, and budget",
+          "Step 3: Receive detailed written estimate within 24 hours",
+          "Step 4: Schedule your bathroom transformation"
+        ],
+        "contact_info": [
+          {
+            "method": "Phone",
+            "value": "(908) 555-0123",
+            "description": "Call or text for fastest response"
+          },
+          {
+            "method": "Email",
+            "value": "pedro@topnotchnewjersey.com",
+            "description": "Email for detailed project inquiries"
+          }
+        ],
+        "final_cta": "Ready to transform your bathroom? Contact Top Notch New Jersey today!"
+      }
+    }
+  ],
+  "seo_settings": {
+    "page_title": "Bathroom Renovation NJ | Luxury Upgrades | Licensed Contractor",
+    "meta_description": "Expert bathroom remodeling in NJ by licensed contractor. $8K-$80K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.",
+    "h1_tag": "Transform Your Bathroom with New Jersey's Renovation Experts",
+    "local_keywords": ["New Jersey", "NJ", "Union County", "Essex County", "Middlesex County", "Bergen County"],
+    "service_keywords": ["Bathroom remodeling", "renovation", "spa bathroom", "accessibility", "luxury"]
+  }
+}

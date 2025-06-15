@@ -1,0 +1,168 @@
+{
+  "footer_name": "Top Notch New Jersey Footer",
+  "footer_layout": "4_column_responsive",
+  "background_color": "#1B365D",
+  "text_color": "#FFFFFF",
+  "sections": [
+    {
+      "section_id": "company_info",
+      "title": "Top Notch New Jersey",
+      "column_width": "25%",
+      "content": {
+        "logo": {
+          "type": "text_logo",
+          "text": "Top Notch New Jersey",
+          "color": "#FFFFFF",
+          "font_size": "24px",
+          "font_weight": "700"
+        },
+        "description": "Licensed Home Improvement Contractor specializing in kitchen and bathroom remodeling throughout New Jersey.",
+        "credentials": [
+          "Licensed, Bonded & Insured",
+          "15+ Years Experience",
+          "Local Linden, NJ Business"
+        ],
+        "contact_info": [
+          {
+            "type": "phone",
+            "icon": "phone-icon",
+            "text": "(908) 555-0123",
+            "link": "tel:+19085550123"
+          },
+          {
+            "type": "email",
+            "icon": "email-icon",
+            "text": "pedro@topnotchnewjersey.com",
+            "link": "mailto:pedro@topnotchnewjersey.com"
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "services_menu",
+      "title": "Our Services",
+      "column_width": "25%",
+      "content": {
+        "menu_items": [
+          {
+            "text": "Kitchen Remodeling",
+            "link": "/services/kitchen-remodeling",
+            "description": "Complete kitchen transformations"
+          },
+          {
+            "text": "Bathroom Renovation",
+            "link": "/services/bathroom-renovation",
+            "description": "Luxury spa and accessibility upgrades"
+          },
+          {
+            "text": "Home Renovations",
+            "link": "/services/home-renovations",
+            "description": "Multi-room renovation projects"
+          },
+          {
+            "text": "Free Consultation",
+            "link": "/contact",
+            "description": "Get your project estimate"
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "service_areas",
+      "title": "Service Areas",
+      "column_width": "25%",
+      "content": {
+        "primary_areas": [
+          {
+            "county": "Union County",
+            "cities": ["Linden", "Elizabeth", "Plainfield", "Westfield", "Summit"]
+          },
+          {
+            "county": "Essex County", 
+            "cities": ["Newark", "East Orange", "Montclair", "Bloomfield"]
+          }
+        ],
+        "extended_areas": [
+          {
+            "county": "Middlesex County",
+            "cities": ["New Brunswick", "Edison", "Woodbridge"]
+          },
+          {
+            "county": "Bergen County",
+            "cities": ["Hackensack", "Paramus", "Fort Lee"]
+          }
+        ],
+        "coverage_note": "Serving New Jersey homeowners since 2018"
+      }
+    },
+    {
+      "section_id": "quick_links",
+      "title": "Quick Links",
+      "column_width": "25%",
+      "content": {
+        "links": [
+          {
+            "text": "About Pedro",
+            "link": "/about",
+            "description": "Meet your licensed contractor"
+          },
+          {
+            "text": "Project Portfolio",
+            "link": "/portfolio",
+            "description": "See our completed projects"
+          },
+          {
+            "text": "Contact Us",
+            "link": "/contact",
+            "description": "Get your free estimate"
+          },
+          {
+            "text": "Service Areas",
+            "link": "/service-areas",
+            "description": "Check if we serve your area"
+          }
+        ],
+        "cta_button": {
+          "text": "Get Free Estimate",
+          "link": "/contact#main-contact-form",
+          "style": "accent_gold"
+        }
+      }
+    }
+  ],
+  "footer_bottom": {
+    "background_color": "#0F1419",
+    "content": {
+      "copyright": "© 2024 Top Notch New Jersey. All rights reserved.",
+      "business_info": "Licensed Home Improvement Contractor Pedro Ribeiro | Licensed, Bonded & Insured",
+      "legal_links": [
+        {
+          "text": "Privacy Policy",
+          "link": "/privacy-policy"
+        },
+        {
+          "text": "Terms of Service", 
+          "link": "/terms-of-service"
+        }
+      ],
+      "social_media": [
+        {
+          "platform": "Facebook",
+          "icon": "facebook-icon",
+          "link": "https://facebook.com/topnotchnewjersey"
+        },
+        {
+          "platform": "Google My Business",
+          "icon": "google-icon", 
+          "link": "https://g.page/topnotchnewjersey"
+        }
+      ]
+    }
+  },
+  "mobile_footer": {
+    "layout": "accordion_style",
+    "collapsed_by_default": true,
+    "contact_always_visible": true,
+    "cta_button_prominent": true
+  }
+}

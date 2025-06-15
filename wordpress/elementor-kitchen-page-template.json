@@ -1,0 +1,315 @@
+{
+  "template_name": "Kitchen Remodeling Service Page",
+  "template_type": "page", 
+  "elementor_version": "3.21+",
+  "template_id": "kitchen-service-page",
+  "sections": [
+    {
+      "section_id": "service-header",
+      "section_type": "page_header",
+      "breadcrumbs": "Home > Services > Kitchen Remodeling",
+      "background": {
+        "type": "image",
+        "image_url": "kitchen-remodeling-header.jpg",
+        "overlay": {
+          "color": "#1B365D",
+          "opacity": 0.6
+        }
+      },
+      "content": {
+        "headline": "Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design",
+        "subheadline": "Transform your kitchen with professional design and quality craftsmanship. From $10,000 refreshes to $100,000+ luxury transformations.",
+        "cta": {
+          "text": "Get Free Estimate",
+          "link": "#contact-form",
+          "style": "success-green"
+        }
+      }
+    },
+    {
+      "section_id": "service-details",
+      "section_type": "service_overview",
+      "layout": "2-column",
+      "left_column": {
+        "headline": "Complete Kitchen Transformation Services",
+        "included_services": [
+          "Design Consultation - Free in-home assessment and planning",
+          "Demolition & Prep - Safe removal of existing fixtures and surfaces", 
+          "Professional Installation - Expert craftsmanship for all components",
+          "Plumbing Updates - Sink, dishwasher, and appliance connections",
+          "Cabinet Installation - Custom, semi-custom, or refacing options",
+          "Countertop Installation - Quartz, granite, marble, and more",
+          "Backsplash & Tile Work - Professional installation and design",
+          "Flooring Installation - Hardwood, tile, LVP, and other options",
+          "Lighting Design - Under-cabinet, recessed, and accent lighting",
+          "Final Finishing - Paint, trim, and detail work",
+          "Project Management - Single point of contact throughout"
+        ]
+      },
+      "right_column": {
+        "headline": "The Top Notch Advantage",
+        "advantages": [
+          "Seamless Integration - Coordinated project management across all trades",
+          "Code Compliance - All work meets or exceeds NJ building standards", 
+          "Cost Efficiency - Direct supplier relationships for better pricing",
+          "Timeline Efficiency - Streamlined process for faster completion",
+          "Quality Assurance - One contractor responsible for entire project"
+        ]
+      }
+    },
+    {
+      "section_id": "investment-levels",
+      "section_type": "pricing_tiers",
+      "headline": "Kitchen Remodeling Investment Levels",
+      "tiers": [
+        {
+          "tier_name": "Basic Kitchen Refresh",
+          "investment_range": "$10,000 - $25,000",
+          "timeline": "2-3 weeks",
+          "description": "Perfect for updates and essential improvements",
+          "features": [
+            "Cabinet refacing or painting",
+            "Countertop replacement (laminate to quartz)",
+            "Appliance updates and installation", 
+            "Backsplash installation",
+            "Lighting improvements and updates",
+            "Hardware replacement and minor modifications"
+          ],
+          "popular_addons": [
+            "Under-cabinet LED lighting",
+            "New sink and faucet",
+            "Additional outlet installations",
+            "Modern lighting fixtures"
+          ],
+          "cta": {
+            "text": "Get Basic Refresh Quote",
+            "link": "#contact-form"
+          }
+        },
+        {
+          "tier_name": "Mid-Range Kitchen Renovation", 
+          "investment_range": "$30,000 - $55,000",
+          "timeline": "4-6 weeks",
+          "description": "Complete transformation with quality materials",
+          "features": [
+            "Semi-custom cabinetry",
+            "Quartz or granite countertops",
+            "Tile backsplash and under-cabinet lighting",
+            "Updated flooring (LVP, tile, or hardwood)",
+            "New appliances and installation",
+            "Layout adjustments (minor wall removal)",
+            "Professional installation and coordination",
+            "Plumbing relocations"
+          ],
+          "popular_features": [
+            "Kitchen island or peninsula",
+            "Recessed lighting throughout", 
+            "Modern appliance installations",
+            "USB outlets and charging stations"
+          ],
+          "cta": {
+            "text": "Get Mid-Range Quote",
+            "link": "#contact-form"
+          },
+          "highlight": true
+        },
+        {
+          "tier_name": "Luxury Kitchen Transformation",
+          "investment_range": "$60,000 - $100,000+", 
+          "timeline": "6-8 weeks",
+          "description": "High-end finishes and premium features",
+          "features": [
+            "Custom cabinetry and high-end finishes",
+            "Premium countertops (marble, waterfall edges)",
+            "Designer lighting, tile work, and hardware",
+            "Structural changes (open-concept conversion)",
+            "High-end appliances and smart integrations",
+            "Full transformation with luxury finishes",
+            "Smart home integration and modern technology",
+            "Wine refrigerators and specialty appliances"
+          ],
+          "luxury_features": [
+            "Smart lighting and modern controls",
+            "Built-in coffee stations",
+            "Custom pantry solutions", 
+            "High-end appliance packages"
+          ],
+          "cta": {
+            "text": "Get Luxury Quote",
+            "link": "#contact-form"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "how-we-work",
+      "section_type": "process_timeline",
+      "headline": "Our Kitchen Remodeling Process",
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Free Consultation & Design",
+          "subtitle": "Understanding Your Vision",
+          "description": "In-home assessment and measurements, discussion of needs, wants, and budget, initial design concepts and layout options, material and finish selections, detailed project timeline, written estimate with no hidden costs",
+          "icon": "consultation-icon"
+        },
+        {
+          "step_number": 2,
+          "title": "Planning & Permits", 
+          "subtitle": "Preparing for Success",
+          "description": "Finalized design and material orders, permit applications (when required), project scheduling and timeline confirmation, pre-construction meeting, material delivery coordination",
+          "icon": "planning-icon"
+        },
+        {
+          "step_number": 3,
+          "title": "Demolition & Infrastructure",
+          "subtitle": "Setting the Foundation", 
+          "description": "Careful demolition and debris removal, professional rough-in work coordination, plumbing rough-in and relocations, structural modifications (if needed), drywall repairs and preparation",
+          "icon": "demolition-icon"
+        },
+        {
+          "step_number": 4,
+          "title": "Installation & Finishing",
+          "subtitle": "Bringing Your Vision to Life",
+          "description": "Flooring installation, cabinet installation and adjustment, countertop templating and installation, backsplash and tile work, professional finish work and lighting, plumbing fixture installation, paint and final trim work",
+          "icon": "installation-icon"
+        },
+        {
+          "step_number": 5,
+          "title": "Final Walkthrough & Warranty",
+          "subtitle": "Ensuring Your Satisfaction",
+          "description": "Complete project inspection, functionality testing of all systems, client walkthrough and approval, warranty documentation, care and maintenance instructions, follow-up service scheduling",
+          "icon": "completion-icon"
+        }
+      ]
+    },
+    {
+      "section_id": "service-gallery",
+      "section_type": "project_gallery",
+      "headline": "Kitchen Project Gallery",
+      "subheadline": "Recent Kitchen Transformations",
+      "gallery_layout": "masonry_grid",
+      "projects": [
+        {
+          "title": "Modern Farmhouse Kitchen - Linden, NJ",
+          "investment": "$45,000",
+          "timeline": "5 weeks",
+          "features": [
+            "White shaker cabinets with quartz countertops",
+            "Subway tile backsplash with dark grout", 
+            "Stainless steel appliances and farmhouse sink",
+            "Recessed lighting and under-cabinet LEDs",
+            "Hardwood flooring throughout"
+          ],
+          "before_image": "kitchen-farmhouse-before.jpg",
+          "after_image": "kitchen-farmhouse-after.jpg"
+        },
+        {
+          "title": "Contemporary Open Concept - Union, NJ",
+          "investment": "$72,000",
+          "timeline": "7 weeks", 
+          "features": [
+            "Wall removal for open floor plan",
+            "Custom two-tone cabinetry",
+            "Waterfall edge quartz island",
+            "Designer pendant lighting",
+            "Smart home integration and modern features"
+          ],
+          "before_image": "kitchen-contemporary-before.jpg",
+          "after_image": "kitchen-contemporary-after.jpg"
+        },
+        {
+          "title": "Traditional Kitchen Refresh - Elizabeth, NJ",
+          "investment": "$18,000",
+          "timeline": "3 weeks",
+          "features": [
+            "Cabinet refacing with new hardware",
+            "Granite countertops and tile backsplash",
+            "Updated lighting and modern outlets", 
+            "New stainless steel appliances",
+            "Fresh paint and trim work"
+          ],
+          "before_image": "kitchen-traditional-before.jpg",
+          "after_image": "kitchen-traditional-after.jpg"
+        }
+      ],
+      "cta": {
+        "text": "Schedule Consultation",
+        "link": "#contact-form"
+      }
+    },
+    {
+      "section_id": "service-faq",
+      "section_type": "faq_accordion",
+      "headline": "Frequently Asked Questions",
+      "faqs": [
+        {
+          "question": "How long does a kitchen remodel take?",
+          "answer": "Timeline depends on project scope: Basic refresh: 2-3 weeks, Mid-range renovation: 4-6 weeks, Luxury transformation: 6-8 weeks, Custom projects: 8-12 weeks. Factors affecting timeline include permit requirements, custom orders, and structural changes."
+        },
+        {
+          "question": "Do I need permits for my kitchen remodel?",
+          "answer": "Permit requirements vary by scope: Cosmetic updates usually need no permits, electrical work may require permits and inspection, plumbing changes require permits for relocations, structural changes require building permits. As a licensed contractor, we handle all permit applications and inspections."
+        },
+        {
+          "question": "Can you work around my schedule?",
+          "answer": "We understand kitchen disruption is challenging. We offer flexible scheduling options, weekend work possible (additional cost), phased approach for occupied homes, temporary kitchen setup recommendations, and clear daily cleanup protocols."
+        },
+        {
+          "question": "What's included in your warranty?",
+          "answer": "Comprehensive warranty coverage includes: Workmanship: 2 years on all labor, Installation work: 1 year on all professional installations, Materials: Manufacturer warranties passed through, Cabinets: Varies by manufacturer (typically 1-5 years), Appliances: Full manufacturer warranty support."
+        },
+        {
+          "question": "How do you handle cost overruns?",
+          "answer": "Transparent pricing and change management: Detailed written estimates with line items, change order process for any modifications, no surprise costs or hidden fees, regular communication about any potential changes, client approval required for all additional work."
+        }
+      ]
+    },
+    {
+      "section_id": "contact-cta",
+      "section_type": "service_contact",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Ready to Start Your Kitchen Transformation?",
+        "subheadline": "Get your free kitchen consultation today",
+        "consultation_details": [
+          "60-90 minute in-home consultation",
+          "Detailed measurements and assessment", 
+          "Design ideas and material recommendations",
+          "Written estimate with investment levels",
+          "Timeline and process explanation",
+          "No obligation or pressure"
+        ],
+        "contact_options": [
+          {
+            "method": "Phone",
+            "value": "(908) 555-0123",
+            "description": "Call or text for fastest response"
+          },
+          {
+            "method": "Email", 
+            "value": "info@topnotchnewjersey.com",
+            "description": "Email for detailed inquiries"
+          }
+        ],
+        "service_areas": [
+          "Linden, NJ (Headquarters)",
+          "Union County",
+          "Essex County",
+          "Middlesex County", 
+          "Bergen County"
+        ]
+      }
+    }
+  ],
+  "seo_settings": {
+    "page_title": "Kitchen Remodeling NJ | Expert Craftsmanship & Design | Top Notch New Jersey",
+    "meta_description": "Expert kitchen remodeling in NJ by licensed general contractor. $10K-$100K+ transformations. Free estimates. Serving Union, Essex, Middlesex & Bergen Counties.",
+    "h1_tag": "Kitchen Remodeling in New Jersey - Expert Craftsmanship & Design",
+    "local_keywords": ["New Jersey", "NJ", "Union County", "Essex County", "Linden"],
+    "service_keywords": ["Kitchen remodeling", "renovation", "cabinets", "countertops", "design"]
+  }
+}

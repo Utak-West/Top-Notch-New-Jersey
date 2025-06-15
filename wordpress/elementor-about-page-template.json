@@ -1,0 +1,296 @@
+{
+  "template_name": "About Pedro Ribeiro - Top Notch New Jersey",
+  "template_type": "page",
+  "elementor_version": "3.21+",
+  "template_id": "about-page",
+  "sections": [
+    {
+      "section_id": "about-hero",
+      "section_type": "hero_section",
+      "background": {
+        "type": "image",
+        "image_url": "pedro-professional-jobsite.jpg",
+        "overlay": {
+          "color": "#1B365D",
+          "opacity": 0.4
+        }
+      },
+      "content": {
+        "headline": "Meet Pedro Ribeiro",
+        "subheadline": "Licensed Home Improvement Contractor",
+        "description": "15+ Years Experience Transforming New Jersey Homes",
+        "credentials_badges": [
+          "Licensed Home Improvement Contractor",
+          "Bonded & Insured",
+          "Local Linden, NJ Business",
+          "15+ Years Experience"
+        ]
+      }
+    },
+    {
+      "section_id": "pedro-story",
+      "section_type": "story_sections",
+      "layout": "alternating_2_column",
+      "sections": [
+        {
+          "section_number": 1,
+          "layout": "image_left_text_right",
+          "image": "pedro-background-story.jpg",
+          "content": {
+            "headline": "From Passion to Profession",
+            "description": "Pedro's journey in home improvement began over 15 years ago with a simple belief: every New Jersey family deserves a beautiful, functional home they can be proud of. What started as helping neighbors with small projects grew into a passion for transforming kitchens and bathrooms throughout Union County and beyond.",
+            "key_points": [
+              "Started with small neighborhood projects",
+              "Developed expertise in kitchen and bathroom renovations",
+              "Built reputation through word-of-mouth referrals",
+              "Committed to quality craftsmanship from day one"
+            ]
+          }
+        },
+        {
+          "section_number": 2,
+          "layout": "text_left_image_right",
+          "image": "top-notch-founding.jpg",
+          "content": {
+            "headline": "Why He Founded Top Notch New Jersey",
+            "description": "After years of working with various contractors, Pedro saw an opportunity to do things differently. He founded Top Notch New Jersey in 2018 with a mission to provide homeowners with a single, trusted point of contact for their entire renovation project - from initial design through final walkthrough.",
+            "key_points": [
+              "Founded in 2018 with a clear mission",
+              "Single-point-of-contact approach",
+              "Focus on customer satisfaction",
+              "Commitment to transparent pricing"
+            ]
+          }
+        },
+        {
+          "section_number": 3,
+          "layout": "image_left_text_right",
+          "image": "pedro-quality-approach.jpg",
+          "content": {
+            "headline": "His Approach to Quality Work",
+            "description": "Pedro's approach is simple: treat every project like it's in his own home. This means using quality materials, maintaining clean work sites, communicating clearly throughout the process, and standing behind every installation with comprehensive warranties.",
+            "key_points": [
+              "Treats every home like his own",
+              "Uses only quality materials and suppliers",
+              "Maintains clean, organized work sites",
+              "Provides comprehensive project warranties"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "trust-indicators",
+      "section_type": "credentials_grid",
+      "headline": "Licensed, Qualified, and Trusted",
+      "layout": "4_column_grid",
+      "mobile_layout": "2_column_grid",
+      "credentials": [
+        {
+          "icon": "license-icon",
+          "title": "Licensed Contractor",
+          "description": "NJ Home Improvement Contractor License",
+          "details": "Fully licensed and compliant with all New Jersey regulations"
+        },
+        {
+          "icon": "insurance-icon",
+          "title": "Bonded & Insured",
+          "description": "Complete Protection",
+          "details": "Comprehensive liability and workers compensation coverage"
+        },
+        {
+          "icon": "experience-icon",
+          "title": "15+ Years Experience",
+          "description": "Proven Track Record",
+          "details": "Hundreds of successful kitchen and bathroom renovations"
+        },
+        {
+          "icon": "local-icon",
+          "title": "Local New Jersey Business",
+          "description": "Community Commitment",
+          "details": "Based in Linden, serving surrounding counties since 2018"
+        }
+      ]
+    },
+    {
+      "section_id": "company-values",
+      "section_type": "values_cards",
+      "headline": "Our Core Values",
+      "subheadline": "What drives everything we do at Top Notch New Jersey",
+      "layout": "3_column_cards",
+      "values": [
+        {
+          "icon": "quality-icon",
+          "title": "Quality Craftsmanship",
+          "description": "We use premium materials and proven techniques to ensure every installation meets the highest standards. Your renovation is an investment in your home's future, and we treat it that way.",
+          "key_principles": [
+            "Premium materials only",
+            "Proven installation techniques",
+            "Attention to detail",
+            "Long-lasting results"
+          ]
+        },
+        {
+          "icon": "reliability-icon",
+          "title": "Reliable Service",
+          "description": "When we commit to a timeline and budget, we stick to it. Clear communication, punctual service, and dependable follow-through are the foundation of our customer relationships.",
+          "key_principles": [
+            "On-time project completion",
+            "Budget transparency",
+            "Clear communication",
+            "Dependable follow-through"
+          ]
+        },
+        {
+          "icon": "satisfaction-icon",
+          "title": "Customer Satisfaction",
+          "description": "We're not satisfied until you're thrilled with your new space. From initial consultation through final walkthrough, your happiness is our primary measure of success.",
+          "key_principles": [
+            "Customer-first approach",
+            "Responsive to concerns",
+            "Quality guarantee",
+            "Long-term relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "personal-touch",
+      "section_type": "personal_section",
+      "background": {
+        "type": "solid_color",
+        "color": "#F3F4F6"
+      },
+      "layout": "centered_content",
+      "content": {
+        "headline": "The Personal Touch That Makes the Difference",
+        "subheadline": "Why homeowners choose Pedro for their most important projects",
+        "personal_approach": [
+          {
+            "aspect": "Direct Communication",
+            "description": "When you call Top Notch New Jersey, you're talking directly to Pedro. No middlemen, no confusion - just clear, honest communication about your project."
+          },
+          {
+            "aspect": "Hands-On Management",
+            "description": "Pedro personally oversees every project from start to finish. He's on-site regularly, ensuring quality standards and addressing any concerns immediately."
+          },
+          {
+            "aspect": "Local Commitment",
+            "description": "As a Linden resident and local business owner, Pedro's reputation is built on satisfied neighbors. Your project success is his business success."
+          },
+          {
+            "aspect": "Ongoing Relationship",
+            "description": "The relationship doesn't end at project completion. Pedro is available for future maintenance, questions, or additional projects as your home evolves."
+          }
+        ]
+      }
+    },
+    {
+      "section_id": "service-philosophy",
+      "section_type": "philosophy_section",
+      "layout": "2_column",
+      "left_column": {
+        "headline": "Our Service Philosophy",
+        "content": [
+          {
+            "principle": "Transparency First",
+            "description": "No hidden costs, no surprise charges. Every estimate includes detailed line items so you know exactly what you're paying for and why."
+          },
+          {
+            "principle": "Quality Over Speed",
+            "description": "While we work efficiently, we never rush quality. Every installation is done right the first time, even if it takes a little longer."
+          },
+          {
+            "principle": "Respect Your Home",
+            "description": "We treat your home with the same respect we'd want for our own. Clean work sites, protective coverings, and minimal disruption to your daily life."
+          },
+          {
+            "principle": "Stand Behind Our Work",
+            "description": "Comprehensive warranties on all work, plus ongoing support. If something isn't right, we make it right - no questions asked."
+          }
+        ]
+      },
+      "right_column": {
+        "image": "pedro-working-detail.jpg",
+        "caption": "Pedro personally ensures every detail meets Top Notch standards"
+      }
+    },
+    {
+      "section_id": "community-involvement",
+      "section_type": "community_section",
+      "headline": "Proud Member of the New Jersey Community",
+      "subheadline": "Supporting local families and businesses throughout Union County and beyond",
+      "community_aspects": [
+        {
+          "category": "Local Partnerships",
+          "description": "We work with local suppliers and subcontractors whenever possible, supporting the New Jersey economy and ensuring quick response times for our customers.",
+          "examples": [
+            "Local material suppliers",
+            "Regional subcontractors",
+            "New Jersey manufacturers",
+            "Community partnerships"
+          ]
+        },
+        {
+          "category": "Customer Referrals",
+          "description": "Over 80% of our business comes from referrals and repeat customers. When neighbors recommend neighbors, you know the work speaks for itself.",
+          "stats": [
+            "80%+ referral business",
+            "500+ completed projects",
+            "4.9/5 average rating",
+            "98% customer satisfaction"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "contact-pedro",
+      "section_type": "contact_cta",
+      "background": {
+        "type": "gradient",
+        "colors": ["#1B365D", "#2C4A6B"]
+      },
+      "content": {
+        "headline": "Ready to Work with Pedro?",
+        "subheadline": "Get your free consultation and see why New Jersey homeowners trust Top Notch for their most important projects",
+        "consultation_benefits": [
+          "Free in-home consultation",
+          "Detailed project assessment",
+          "Transparent pricing",
+          "No obligation estimate",
+          "Personal attention from Pedro"
+        ],
+        "contact_options": [
+          {
+            "method": "Phone",
+            "value": "(908) 555-0123",
+            "description": "Call or text Pedro directly"
+          },
+          {
+            "method": "Email",
+            "value": "pedro@topnotchnewjersey.com",
+            "description": "Email for detailed project inquiries"
+          }
+        ],
+        "service_areas": [
+          "Union County (Headquarters)",
+          "Essex County",
+          "Middlesex County",
+          "Bergen County"
+        ],
+        "cta_button": {
+          "text": "Schedule Your Free Consultation",
+          "link": "/contact",
+          "style": "success_green"
+        }
+      }
+    }
+  ],
+  "seo_settings": {
+    "page_title": "About Pedro Ribeiro | Licensed Home Improvement Contractor | Top Notch New Jersey",
+    "meta_description": "Meet Pedro Ribeiro, licensed home improvement contractor with 15+ years experience in NJ kitchen & bathroom remodeling. Local Linden business serving Union, Essex, Middlesex Counties.",
+    "h1_tag": "Meet Pedro Ribeiro",
+    "local_keywords": ["Pedro Ribeiro", "licensed contractor", "Linden NJ", "Union County", "home improvement"],
+    "service_keywords": ["kitchen remodeling", "bathroom renovation", "home improvement", "contractor"]
+  }
+}
