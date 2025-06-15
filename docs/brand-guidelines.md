@@ -3,32 +3,32 @@
 ---
 **Document Type:** Brand Standards & Visual Identity
 **Project:** Top Notch New Jersey WordPress Website
-**Owner:** Pedro Ribeiro, Licensed Master Electrician
-**License:** NJ Home Improvement Contractor #13VH13
+**Owner:** Pedro Ribeiro, Licensed General Contractor
+**License:** NJ Home Improvement Contractor #13VH13054200
 **Last Updated:** June 2024
 **Version:** 2.0
 **AI Optimization:** ✅ Devin-Ready
 **Dependencies:** Referenced by all content files, templates, and assets
 ---
 
-## 🎨 Visual Identity & Brand Standards
+## Visual Identity & Brand Standards
 
 ### Brand Positioning
 **Business Name:** Top Notch New Jersey
 **Owner:** Pedro Ribeiro
-**Tagline:** "Expert Home Renovations & Electrical Services"
-**Mission:** Seamless integration of expert electrical work with high-quality home renovations
+**Tagline:** "Expert Kitchen & Bathroom Renovations"
+**Mission:** Professional craftsmanship and quality service for complete home renovations
 **Values:** Quality, Reliability, Trust, Expertise, Local Community Focus
 **Established:** 2018
 **Service Area:** Union, Essex, Middlesex, Bergen Counties, NJ
 
 ---
 
-## 🎯 Brand Personality
+## Brand Personality
 
 ### Core Attributes
 - **Professional & Trustworthy** - Licensed, bonded, insured credentials
-- **Expert & Skilled** - Master Electrician with 15+ years experience
+- **Expert & Skilled** - General Contractor with 15+ years experience
 - **Local & Community-Focused** - Proud New Jersey roots
 - **Reliable & Dependable** - Consistent quality and service
 - **Approachable & Personal** - Pedro's hands-on leadership
@@ -42,7 +42,7 @@
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 ### Primary Colors
 ```
@@ -67,7 +67,7 @@ Deep Charcoal: #1F2937 (Headers, strong contrast)
 
 ---
 
-## 📝 Typography
+## Typography
 
 ### Primary Font Stack
 ```css
@@ -83,7 +83,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 🏷️ Logo Usage Guidelines
+## Logo Usage Guidelines
 
 ### Logo Variations Needed
 1. **Primary Logo** - Full company name with tagline
@@ -94,10 +94,10 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ### Logo Elements
 - **Company Name:** "Top Notch New Jersey"
-- **Tagline:** "Expert Home Renovations & Electrical Services"
+- **Tagline:** "Expert Kitchen & Bathroom Renovations"
 - **Visual Elements:** Consider incorporating:
   - House/home icon
-  - Electrical bolt symbol
+  - Kitchen/bathroom symbols
   - New Jersey state outline
   - Tools/craftsmanship imagery
 
@@ -110,7 +110,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 📸 Photography Style
+## Photography Style
 
 ### Image Guidelines
 - **High-quality, professional photography**
@@ -128,7 +128,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 🎯 Brand Applications
+## Brand Applications
 
 ### Website Design Principles
 - **Clean, professional layout**
@@ -145,7 +145,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 🚫 Brand Don'ts
+## Brand Don'ts
 
 ### Avoid These Elements
 - **Overly flashy or "salesy" language**
@@ -164,13 +164,13 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 📊 Brand Consistency Checklist
+## Brand Consistency Checklist
 
 ### Every Brand Touchpoint Should Include:
 - [ ] Consistent color palette usage
 - [ ] Proper typography hierarchy
 - [ ] Professional photography/imagery
-- [ ] License number (#13VH13) prominently displayed
+- [ ] License number (#13VH13054200) prominently displayed
 - [ ] Clear contact information
 - [ ] "Licensed, Bonded & Insured" messaging
 - [ ] New Jersey location emphasis
@@ -185,7 +185,7 @@ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 
 ---
 
-## 🔄 Brand Evolution
+## Brand Evolution
 
 This brand guide is designed to grow with Top Notch New Jersey while maintaining core consistency. Regular reviews should assess:
 - Market positioning effectiveness
