@@ -272,9 +272,12 @@
   ],
   "global_settings": {
     "colors": {
-      "brand_blue": "#1B365D",
-      "accent_gold": "#D4AF37", 
-      "success_green": "#10B981",
+      "top_notch_blue": "#021e3a",
+      "jersey_blue": "#27397d",
+      "pedro_orange": "#ff8b1e",
+      "obrigada_orange": "#ffb570",
+      "rio_green": "#41924a",
+      "professional_white": "#fef9f1",
       "warm_gray": "#6B7280",
       "deep_charcoal": "#374151",
       "white": "#FFFFFF"
@@ -284,19 +287,19 @@
         "font_size": "48px",
         "font_size_mobile": "36px",
         "font_weight": "bold",
-        "color": "brand_blue"
+        "color": "top_notch_blue"
       },
       "h2": {
         "font_size": "36px",
-        "font_size_mobile": "28px", 
+        "font_size_mobile": "28px",
         "font_weight": "semi-bold",
         "color": "deep_charcoal"
       },
       "h3": {
         "font_size": "24px",
         "font_size_mobile": "20px",
-        "font_weight": "semi-bold", 
-        "color": "brand_blue"
+        "font_weight": "semi-bold",
+        "color": "jersey_blue"
       },
       "body": {
         "font_size": "16px",
@@ -306,7 +309,7 @@
       "cta": {
         "font_size": "18px",
         "font_weight": "bold",
-        "color": "white"
+        "color": "professional_white"
       }
     },
     "spacing": {

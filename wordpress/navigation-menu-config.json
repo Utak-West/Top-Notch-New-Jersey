@@ -93,10 +93,10 @@
   },
   "menu_styling": {
     "desktop": {
-      "background_color": "#FFFFFF",
+      "background_color": "#fef9f1",
       "text_color": "#374151",
-      "hover_color": "#1B365D",
-      "active_color": "#1B365D",
+      "hover_color": "#021e3a",
+      "active_color": "#27397d",
       "font_size": "16px",
       "font_weight": "500",
       "padding": "20px 0"

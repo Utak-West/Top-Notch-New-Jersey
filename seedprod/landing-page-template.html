@@ -2,21 +2,23 @@
 <!-- Optimized for SeedProd Pro Custom HTML Integration -->
 
 <style>
-    /* Brand Color Variables for Contact Form */
+    /* Top Notch Brand Color Variables */
     :root {
-        --brand-blue: #1E3A8A;
-        --accent-gold: #F59E0B;
-        --success-green: #10B981;
-        --neutral-gray: #6B7280;
-        --white: #FFFFFF;
-        --dark-text: #1F2937;
+        --top-notch-blue: #021e3a;      /* Primary brand color */
+        --jersey-blue: #27397d;         /* Secondary blue variant */
+        --pedro-orange: #ff8b1e;        /* Primary accent/CTA color */
+        --obrigada-orange: #ffb570;     /* Secondary accent/highlight */
+        --professional-white: #fef9f1;  /* Background/clean areas */
+        --rio-green: #41924a;           /* Success states */
+        --neutral-gray: #6B7280;        /* Supporting text */
+        --dark-text: #1F2937;           /* Primary text */
     }
 
     /* Contact Form Specific Styles */
     .seedprod-contact-section {
         padding: 80px 0;
-        background: var(--brand-blue);
-        color: var(--white);
+        background: var(--top-notch-blue);
+        color: var(--professional-white);
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         line-height: 1.6;
     }
@@ -24,11 +26,11 @@
     .seedprod-form-container {
         max-width: 600px;
         margin: 0 auto;
-        background: var(--white);
+        background: var(--professional-white);
         padding: 40px;
         border-radius: 12px;
         color: var(--dark-text);
-        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 10px 25px rgba(2, 30, 58, 0.15);
     }
 
     .seedprod-form-title {
@@ -36,7 +38,7 @@
         margin-bottom: 20px;
         font-size: 32px;
         font-weight: 600;
-        color: var(--white);
+        color: var(--professional-white);
     }
 
     .seedprod-form-subtitle {
@@ -44,13 +46,13 @@
         font-size: 18px;
         margin-bottom: 40px;
         opacity: 0.9;
-        color: var(--white);
+        color: var(--professional-white);
     }
 
     .seedprod-form-header {
         text-align: center;
         margin-bottom: 30px;
-        color: var(--brand-blue);
+        color: var(--top-notch-blue);
         font-size: 24px;
         font-weight: 600;
     }
@@ -82,8 +84,8 @@
     .seedprod-form-group select:focus,
     .seedprod-form-group textarea:focus {
         outline: none;
-        border-color: var(--brand-blue);
-        box-shadow: 0 0 0 3px rgba(30, 58, 138, 0.1);
+        border-color: var(--jersey-blue);
+        box-shadow: 0 0 0 3px rgba(39, 57, 125, 0.1);
     }
 
     .seedprod-form-row {
@@ -93,8 +95,8 @@
     }
 
     .seedprod-cta-button {
-        background: var(--accent-gold);
-        color: var(--white);
+        background: var(--pedro-orange);
+        color: var(--professional-white);
         padding: 16px 32px;
         font-size: 18px;
         font-weight: 500;
@@ -106,11 +108,13 @@
         transition: all 0.3s ease;
         width: 100%;
         text-align: center;
+        box-shadow: 0 4px 12px rgba(255, 139, 30, 0.3);
     }
 
     .seedprod-cta-button:hover {
-        background: #D97706;
+        background: var(--obrigada-orange);
         transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(255, 139, 30, 0.4);
     }
 
     .seedprod-form-note {

@@ -31,13 +31,14 @@
 ## 🎨 Brand Design System Configuration
 
 ### Color Palette Setup
-**Primary Brand Colors:**
-- **Brand Blue:** #1E3A8A (Professional trust)
-- **Accent Gold:** #F59E0B (Premium quality)
-- **Success Green:** #10B981 (Completion/approval)
-- **Warning Orange:** #F97316 (Attention/urgency)
-- **Neutral Gray:** #6B7280 (Text/backgrounds)
-- **White:** #FFFFFF (Clean backgrounds)
+**Top Notch Brand Colors:**
+- **Top Notch Blue:** #021e3a (Primary brand color)
+- **Jersey Blue:** #27397d (Secondary blue variant)
+- **Pedro's Orange:** #ff8b1e (Primary accent/CTA color)
+- **Obrigada Orange:** #ffb570 (Secondary accent/highlight)
+- **Professional White:** #fef9f1 (Background/clean areas)
+- **Rio Green:** #41924a (Success states)
+- **Neutral Gray:** #6B7280 (Supporting text)
 - **Dark Text:** #1F2937 (Primary text)
 
 ### Typography Configuration

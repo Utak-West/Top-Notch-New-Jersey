@@ -22,8 +22,8 @@
     "success_message": "Thank you! We'll contact you within 24 hours.",
     "error_message": "Please check your information and try again.",
     "submit_button_text": "Get My Free Estimate",
-    "submit_button_color": "#F59E0B",
-    "form_background": "#FFFFFF",
+    "submit_button_color": "#ff8b1e",
+    "form_background": "#fef9f1",
     "form_border_radius": "12px",
     "form_shadow": "0 4px 6px rgba(0, 0, 0, 0.1)"
   },
@@ -309,8 +309,8 @@
 **Button Styling:**
 ```css
 .primary-cta {
-    background: #F59E0B;
-    color: #FFFFFF;
+    background: #ff8b1e;
+    color: #fef9f1;
     padding: 16px 32px;
     font-size: 18px;
     font-weight: 600;
@@ -320,12 +320,13 @@
     transition: all 0.3s ease;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    box-shadow: 0 4px 12px rgba(255, 139, 30, 0.3);
 }
 
 .primary-cta:hover {
-    background: #D97706;
+    background: #ffb570;
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4);
+    box-shadow: 0 6px 16px rgba(255, 139, 30, 0.4);
 }
 ```
 
@@ -340,8 +341,8 @@
 ```css
 .secondary-cta {
     background: transparent;
-    color: #1E3A8A;
-    border: 2px solid #1E3A8A;
+    color: #021e3a;
+    border: 2px solid #021e3a;
     padding: 14px 28px;
     font-size: 16px;
     font-weight: 500;
@@ -351,8 +352,8 @@
 }
 
 .secondary-cta:hover {
-    background: #1E3A8A;
-    color: #FFFFFF;
+    background: #021e3a;
+    color: #fef9f1;
 }
 ```
 

@@ -250,13 +250,15 @@ Auto-Responder:
 ### Brand Consistency
 **Color Palette Coordination:**
 ```css
-/* WPForms Pro + Existing Brand Colors */
+/* WPForms Pro + Top Notch Brand Colors */
 :root {
-  --brand-blue: #1E3A8A;     /* Primary brand color */
-  --accent-gold: #F59E0B;    /* CTA buttons and highlights */
-  --success-green: #10B981;  /* Success states */
-  --warning-orange: #F97316; /* Attention/urgency */
-  --neutral-gray: #6B7280;   /* Text and backgrounds */
+  --top-notch-blue: #021e3a;      /* Primary brand color */
+  --jersey-blue: #27397d;         /* Secondary blue variant */
+  --pedro-orange: #ff8b1e;        /* Primary accent/CTA color */
+  --obrigada-orange: #ffb570;     /* Secondary accent/highlight */
+  --professional-white: #fef9f1;  /* Background/clean areas */
+  --rio-green: #41924a;           /* Success states */
+  --neutral-gray: #6B7280;        /* Supporting text */
 }
 ```
 

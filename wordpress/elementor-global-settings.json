@@ -3,21 +3,29 @@
   "elementor_version": "3.21+",
   "brand_colors": {
     "primary": {
-      "brand_blue": "#1B365D",
+      "top_notch_blue": "#021e3a",
       "description": "Primary brand color for headers, navigation, trust elements"
     },
     "secondary": {
-      "accent_gold": "#D4AF37",
-      "description": "Premium highlights, special offers, luxury elements"
+      "jersey_blue": "#27397d",
+      "description": "Secondary blue variant for accents and highlights"
     },
-    "action": {
-      "success_green": "#10B981",
-      "description": "CTA buttons, positive actions, form submissions"
+    "accent": {
+      "pedro_orange": "#ff8b1e",
+      "description": "Primary accent color for CTA buttons and key actions"
+    },
+    "highlight": {
+      "obrigada_orange": "#ffb570",
+      "description": "Secondary accent for highlights and hover states"
+    },
+    "success": {
+      "rio_green": "#41924a",
+      "description": "Success states, positive actions, completion indicators"
     },
     "neutral": {
+      "professional_white": "#fef9f1",
       "warm_gray": "#6B7280",
       "deep_charcoal": "#374151",
-      "light_gray": "#F3F4F6",
       "white": "#FFFFFF",
       "description": "Text colors, backgrounds, supporting elements"
     }
@@ -134,25 +142,25 @@
   },
   "button_system": {
     "primary_button": {
-      "background_color": "success_green",
-      "text_color": "white",
+      "background_color": "pedro_orange",
+      "text_color": "professional_white",
       "border_radius": "8px",
       "padding": "16px 32px",
       "padding_mobile": "14px 28px",
       "min_height": "44px",
-      "hover_background": "#0D9668",
-      "box_shadow": "0 4px 12px rgba(16, 185, 129, 0.3)"
+      "hover_background": "#ffb570",
+      "box_shadow": "0 4px 12px rgba(255, 139, 30, 0.3)"
     },
     "secondary_button": {
       "background_color": "transparent",
-      "text_color": "brand_blue",
-      "border": "2px solid #1B365D",
+      "text_color": "top_notch_blue",
+      "border": "2px solid #021e3a",
       "border_radius": "8px",
       "padding": "14px 30px",
       "padding_mobile": "12px 26px",
       "min_height": "44px",
-      "hover_background": "brand_blue",
-      "hover_text_color": "white"
+      "hover_background": "top_notch_blue",
+      "hover_text_color": "professional_white"
     },
     "accent_button": {
       "background_color": "accent_gold",

@@ -77,7 +77,7 @@ Background Attachment: Fixed (desktop only)
 }
 
 .credential-badge {
-  background: rgba(245, 158, 11, 0.9);
+  background: rgba(255, 139, 30, 0.9);
   color: #1F2937;
   padding: 8px 16px;
   border-radius: 25px;
@@ -111,19 +111,21 @@ Background Attachment: Fixed (desktop only)
 }
 
 .primary-cta {
-  background: #F59E0B;
-  color: #FFFFFF;
+  background: #ff8b1e;
+  color: #fef9f1;
   padding: 16px 32px;
   border-radius: 8px;
   font-size: 18px;
   font-weight: 600;
   text-decoration: none;
   transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 139, 30, 0.3);
 }
 
 .primary-cta:hover {
-  background: #D97706;
+  background: #ffb570;
   transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(255, 139, 30, 0.4);
 }
 
 .secondary-cta {

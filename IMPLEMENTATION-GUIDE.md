@@ -267,7 +267,9 @@ Phase 3 implements advanced content management, automation integration, and comp
 
 #### Design System
 **File:** `/docs/brand-guidelines.md`
-- **Primary Colors:** Brand Blue (#1E3A8A), Accent Gold (#F59E0B)
+- **Primary Colors:** Top Notch Blue (#021e3a), Pedro's Orange (#ff8b1e)
+- **Secondary Colors:** Jersey Blue (#27397d), Obrigada Orange (#ffb570)
+- **Supporting Colors:** Professional White (#fef9f1), Rio Green (#41924a)
 - **Typography:** Inter (primary), Roboto Slab (headings)
 - **Logo Usage:** Consistent placement with Pedro's credentials
 - **Photography:** Professional project photos with before/after galleries

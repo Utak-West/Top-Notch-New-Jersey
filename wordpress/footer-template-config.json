@@ -1,8 +1,8 @@
 {
   "footer_name": "Top Notch New Jersey Footer",
   "footer_layout": "4_column_responsive",
-  "background_color": "#1B365D",
-  "text_color": "#FFFFFF",
+  "background_color": "#021e3a",
+  "text_color": "#fef9f1",
   "sections": [
     {
       "section_id": "company_info",
