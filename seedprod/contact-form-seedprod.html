@@ -1,5 +1,6 @@
 <!-- SeedProd Pro Contact Form HTML Block -->
 <!-- Optimized for SeedProd Pro Custom HTML Integration -->
+<!-- Copy and paste this entire code block into SeedProd Pro Custom HTML element -->
 
 <style>
     /* Brand Color Variables for Contact Form */
@@ -11,16 +12,16 @@
         --white: #FFFFFF;
         --dark-text: #1F2937;
     }
-
+    
     /* Contact Form Specific Styles */
     .seedprod-contact-section {
-        padding: 80px 0;
+        padding: 80px 20px;
         background: var(--brand-blue);
         color: var(--white);
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         line-height: 1.6;
     }
-
+    
     .seedprod-form-container {
         max-width: 600px;
         margin: 0 auto;
@@ -30,7 +31,7 @@
         color: var(--dark-text);
         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     }
-
+    
     .seedprod-form-title {
         text-align: center;
         margin-bottom: 20px;
@@ -38,7 +39,7 @@
         font-weight: 600;
         color: var(--white);
     }
-
+    
     .seedprod-form-subtitle {
         text-align: center;
         font-size: 18px;
@@ -46,7 +47,7 @@
         opacity: 0.9;
         color: var(--white);
     }
-
+    
     .seedprod-form-header {
         text-align: center;
         margin-bottom: 30px;
@@ -54,18 +55,18 @@
         font-size: 24px;
         font-weight: 600;
     }
-
+    
     .seedprod-form-group {
         margin-bottom: 20px;
     }
-
+    
     .seedprod-form-group label {
         display: block;
         margin-bottom: 5px;
         font-weight: 500;
         color: var(--dark-text);
     }
-
+    
     .seedprod-form-group input,
     .seedprod-form-group select,
     .seedprod-form-group textarea {
@@ -76,8 +77,9 @@
         font-size: 16px;
         transition: border-color 0.3s ease;
         box-sizing: border-box;
+        font-family: inherit;
     }
-
+    
     .seedprod-form-group input:focus,
     .seedprod-form-group select:focus,
     .seedprod-form-group textarea:focus {
@@ -85,13 +87,13 @@
         border-color: var(--brand-blue);
         box-shadow: 0 0 0 3px rgba(30, 58, 138, 0.1);
     }
-
+    
     .seedprod-form-row {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 20px;
     }
-
+    
     .seedprod-cta-button {
         background: var(--accent-gold);
         color: var(--white);
@@ -106,56 +108,66 @@
         transition: all 0.3s ease;
         width: 100%;
         text-align: center;
+        font-family: inherit;
     }
-
+    
     .seedprod-cta-button:hover {
         background: #D97706;
         transform: translateY(-2px);
     }
-
+    
     .seedprod-form-note {
         text-align: center;
         font-size: 14px;
         color: var(--neutral-gray);
         margin-top: 20px;
     }
-
+    
+    .seedprod-form-submit {
+        text-align: center;
+        margin-top: 30px;
+    }
+    
     /* Mobile Responsive */
     @media (max-width: 768px) {
         .seedprod-contact-section {
-            padding: 60px 20px;
+            padding: 60px 15px;
         }
-
+        
         .seedprod-form-container {
             padding: 30px 20px;
         }
-
+        
         .seedprod-form-title {
             font-size: 28px;
         }
-
+        
         .seedprod-form-subtitle {
             font-size: 16px;
         }
-
+        
         .seedprod-form-row {
             grid-template-columns: 1fr;
             gap: 15px;
         }
+        
+        .seedprod-form-header {
+            font-size: 20px;
+        }
     }
 </style>
-<<!-- SeedProd Pro Contact Form Section -->
-<!-- This is the standalone contact form optimized for SeedProd Pro integration -->
 
+<!-- SeedProd Pro Contact Form Section -->
 <section class="seedprod-contact-section">
     <div class="seedprod-container">
         <h2 class="seedprod-form-title">Ready to Transform Your Home?</h2>
         <p class="seedprod-form-subtitle">Get your free estimate today - no obligation</p>
-
+        
         <div class="seedprod-form-container">
             <h3 class="seedprod-form-header">Get Your Free Estimate</h3>
-
+            
             <!-- SeedProd Form Integration Point -->
+            <!-- Replace action="" with your SeedProd form action URL -->
             <form id="seedprod-estimate-form" action="" method="POST">
                 <div class="seedprod-form-row">
                     <div class="seedprod-form-group">
@@ -167,17 +179,17 @@
                         <input type="text" id="seedprod-last-name" name="last_name" required placeholder="Your last name">
                     </div>
                 </div>
-
+                
                 <div class="seedprod-form-group">
                     <label for="seedprod-email">Email Address *</label>
                     <input type="email" id="seedprod-email" name="email" required placeholder="your.email@example.com">
                 </div>
-
+                
                 <div class="seedprod-form-group">
                     <label for="seedprod-phone">Phone Number *</label>
                     <input type="tel" id="seedprod-phone" name="phone" required placeholder="(XXX) XXX-XXXX">
                 </div>
-
+                
                 <div class="seedprod-form-group">
                     <label for="seedprod-service">Service Interest *</label>
                     <select id="seedprod-service" name="service_interest" required>
@@ -188,7 +200,7 @@
                         <option value="multiple">Multiple Services</option>
                     </select>
                 </div>
-
+                
                 <div class="seedprod-form-row">
                     <div class="seedprod-form-group">
                         <label for="seedprod-timeline">Project Timeline</label>
@@ -213,21 +225,21 @@
                         </select>
                     </div>
                 </div>
-
+                
                 <div class="seedprod-form-group">
                     <label for="seedprod-location">City/Location in NJ</label>
                     <input type="text" id="seedprod-location" name="location" placeholder="City, NJ (for service area verification)">
                 </div>
-
+                
                 <div class="seedprod-form-group">
                     <label for="seedprod-details">Project Details</label>
                     <textarea id="seedprod-details" name="project_details" rows="4" placeholder="Tell us about your project..."></textarea>
                 </div>
-
+                
                 <div class="seedprod-form-submit">
                     <button type="submit" class="seedprod-cta-button">Get My Free Estimate</button>
                 </div>
-
+                
                 <p class="seedprod-form-note">
                     We'll contact you within 24 hours to schedule your free consultation.
                 </p>
@@ -236,3 +248,26 @@
     </div>
 </section>
 
+<!-- 
+SeedProd Pro Integration Instructions:
+1. Copy this entire HTML block
+2. In SeedProd Pro, add a "Custom HTML" block to your page
+3. Paste this code into the Custom HTML block
+4. Configure the form action URL in SeedProd Pro settings
+5. Set up form notifications and integrations in SeedProd Pro
+6. Test the form submission to ensure it works correctly
+
+Form Field Names for SeedProd Integration:
+- first_name
+- last_name  
+- email
+- phone
+- service_interest
+- timeline
+- budget
+- location
+- project_details
+
+All styling is self-contained and won't conflict with your theme.
+The form is fully responsive and optimized for mobile devices.
+-->
